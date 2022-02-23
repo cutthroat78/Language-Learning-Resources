@@ -6,6 +6,6 @@ Lists of resources to help learn langauges
 - [Oneida](Oneida.md)
 
 ### Constructed:
-- [toki pona](toki pona.md)
+- [toki pona](toki-pona.md)
 - [Esperanto](Esperanto.md)
 - [Wenja](Wenja.md)
