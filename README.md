@@ -1,5 +1,5 @@
 # Langauge-Resources
-Lists of resource to help learn langauges
+Lists of resources to help learn langauges
 
 ## Languages:
 ### Native American:
