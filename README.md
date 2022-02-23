@@ -3,8 +3,9 @@ Lists of resources to help learn langauges
 
 ## Languages:
 ### Native American:
-- Oneida
+- [Oneida](Oneida.md)
 
 ### Constructed:
-- Wenja
-- toki pona
+- [toki pona](toki pona.md)
+- [Esperanto](Esperanto.md)
+- [Wenja](Wenja.md)
