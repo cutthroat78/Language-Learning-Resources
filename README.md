@@ -1,10 +1,12 @@
-# Langauge-Resources
-Lists of resources to help learn langauges
+# (Human) Langauge Resources
+Lists of resources to help learn (human) langauges
 
 ## Languages:
-### Native American:
 - [Shelta (Cant, Gammon)](Shelta.md)
+### Native American:
+#### Iroquoian (Haudenosaunee) Langauges:
 - [Oneida](Oneida.md)
+- [Seneca](Seneca.md)
 
 ### Constructed:
 - [toki pona](toki-pona.md)
