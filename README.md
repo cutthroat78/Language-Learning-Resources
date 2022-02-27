@@ -7,7 +7,8 @@ Lists of resources to help learn (human) langauges
 #### Iroquoian (Haudenosaunee) Langauges:
 - [Oneida](Oneida.md)
 - [Seneca](Seneca.md)
-
+- [Cayuga](Cayuga.md)
+- 
 ### Constructed:
 - [toki pona](toki-pona.md)
 - [Esperanto](Esperanto.md)
