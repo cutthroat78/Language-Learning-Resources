@@ -1,15 +1,16 @@
 # (Human) Langauge Resources
 Lists of resources to help learn (human) langauges
 
-## Languages:
+## Languages
+### European
 - [Shelta (Cant, Gammon)](Shelta.md)
-### Native American:
+### Native American
 #### Iroquoian (Haudenosaunee) Langauges:
-- [Oneida](Oneida.md)
-- [Seneca](Seneca.md)
-- [Cayuga](Cayuga.md)
+- [Oneida](Native-American/Iroquois/Oneida.md)
+- [Seneca](Native-American/Iroquois/Seneca.md)
+- [Cayuga](Native-American/Iroquois/Cayuga.md)
 - 
-### Constructed:
-- [toki pona](toki-pona.md)
-- [Esperanto](Esperanto.md)
-- [Wenja](Wenja.md)
+### Constructed
+- [toki pona](Constructed/toki-pona.md)
+- [Esperanto](Constructed/Esperanto.md)
+- [Wenja](Constructed/Wenja.md)
