@@ -14,3 +14,9 @@ Lists of resources to help learn (human) langauges
 - [toki pona](Constructed/toki-pona.md)
 - [Esperanto](Constructed/Esperanto.md)
 - [Wenja](Constructed/Wenja.md)
+
+## To Do:
+- Mohawk
+- Onondaga
+- Seneca
+- Tuscarora
