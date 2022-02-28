@@ -21,3 +21,4 @@ Lists of resources to help learn (human) langauges
 - Seneca
 - Tuscarora
 - Yuki
+- Choctaw
