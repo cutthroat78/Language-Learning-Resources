@@ -9,6 +9,7 @@ Lists of resources to help learn (human) langauges
 - [Oneida](Native-American/Iroquois/Oneida.md)
 - [Seneca](Native-American/Iroquois/Seneca.md)
 - [Cayuga](Native-American/Iroquois/Cayuga.md)
+- [Onondaga](Native-American/Iroquois/Onondaga.md)
 
 ### Constructed
 - [toki pona](Constructed/toki-pona.md)
@@ -17,8 +18,11 @@ Lists of resources to help learn (human) langauges
 
 ## To Do:
 - Mohawk
-- Onondaga
 - Seneca
 - Tuscarora
 - Yuki
 - Choctaw
+
+## To Sort (Links):
+- Wenja
+- Onondaga
