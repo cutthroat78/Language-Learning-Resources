@@ -18,6 +18,7 @@ Lists of resources to help learn (human) langauges
 ## To Do:
 - Mohawk
 - Onondaga
+- Seneca
 - Tuscarora
 - Yuki
 - Choctaw
