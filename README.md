@@ -17,15 +17,16 @@ Lists of resources to help learn (human) langauges
 - [Wenja](Constructed/Wenja.md)
 
 ## To Do
+- Sort Oneida links into Oneida (Wisconsin) and Oneida (Canada)
+- Removed : from headings (I think just looks nicer)
+- Setup github pages for this repo
+### Languages To Find Resources for/Research
 - Mohawk
 - Seneca
 - Tuscarora
 - Yuki
 - Choctaw
 - [Ladino](https://ladino.szabgab.com/)
-- Sort Oneida links into Oneida (Wisconsin) and Oneida (Canada)
-- Removed : from headings (I think just looks nicer)
-- Setup github pages for this repo
 
 ## To Sort (Links)
 - Wenja
