@@ -1,6 +1,11 @@
 # Oneida
 [Wikipedia Page on Oneida Language](https://en.wikipedia.org/wiki/Oneida_language)
 
+(From what I can tell) Oneida has 2(/3) dialects/variations:
+- Oneida (Canada)
+- Oneida (Wisconsin)
+- Oneida (New York) (Note: I have not been able to find a single resource or piece of information anywhere on this other than on an endangered languages list, so I am not even sure if this dialect/variation actually exists)
+
 ## Websites
 * [Learn Our Language | Oneida](https://oneidalanguage.ca/learn-our-language/)
 * [Onʌyota’a:ka – Onʌyotaʔa·ka – Oneida](http://www.languagegeek.com/rotinonhsonni/oneida.html)
