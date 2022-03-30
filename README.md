@@ -30,9 +30,18 @@ Lists of resources to help learn (human) langauges
 - Tuscarora
 - Yuki
 - Choctaw
+- Shelta
 - [Ladino](https://ladino.szabgab.com/)
 - Cherokee
 - [Native American Tribes and Languages List from www.native-languages.org](https://www.native-languages.org/languages.htm)
+- Esperanto
+- Ido
+- Jamaican Patois
+- Scots
+- Ibicenco 
+- [Maori](https://speakandlearnlanguages.com/learn-to-speak-maori/)
+- Toki Ma
+- Egyptian Hieroglyphs
 
 ## To Sort (Links)
 - Wenja
