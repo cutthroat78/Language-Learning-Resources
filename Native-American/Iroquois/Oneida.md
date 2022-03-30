@@ -52,11 +52,11 @@
 - https://www.amazon.co.uk/Other-American-Governments-Transition-Sovereignty/dp/1465250689/ref=sr_1_23?dchild=1&keywords=oneida+language&qid=1634155903&s=books&sr=1-23
 - https://www.amazon.co.uk/Oneida-Creation-Sources-American-Literature/dp/0803267428/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1634155600&sr=8-11
 #### On Odysee
-- - https://odysee.com/@Muse:3/174023:4
-- - https://odysee.com/@Muse:3/165070:7
-- - https://odysee.com/@MemoryoftheWorld:f/99603:a
-- - https://odysee.com/@Muse:3/172847:3
-- - https://odysee.com/@MemoryoftheWorld:f/133316:4
+- https://odysee.com/@Muse:3/174023:4
+- https://odysee.com/@Muse:3/165070:7
+- https://odysee.com/@MemoryoftheWorld:f/99603:a
+- https://odysee.com/@Muse:3/172847:3
+- https://odysee.com/@MemoryoftheWorld:f/133316:4
 
 ## YouTube
 * [TheOLCC](https://www.youtube.com/user/TheOLCC)
