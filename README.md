@@ -6,9 +6,10 @@ Lists of resources to help learn (human) langauges
 - [Shelta (Cant, Gammon)](Shelta.md)
 ### Native American
 #### Iroquoian (Haudenosaunee) Langauges:
-- [Oneida](Native-American/Iroquois/Oneida.md)
-- [Seneca](Native-American/Iroquois/Seneca.md)
 - [Cayuga](Native-American/Iroquois/Cayuga.md)
+- [Seneca](Native-American/Iroquois/Seneca.md)
+- [Mohawk](Native-American/Iroquois/Mohawk.md)
+- [Oneida](Native-American/Iroquois/Oneida.md)
 - [Onondaga](Native-American/Iroquois/Onondaga.md)
 
 ### Constructed
