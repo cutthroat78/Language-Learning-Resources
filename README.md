@@ -20,9 +20,10 @@ Lists of resources to help learn (human) langauges
 ## To Do
 - Sort Oneida links into Oneida (Wisconsin) and Oneida (Canada)
 - Make page of general language resources
-- Make page of common places/websites to find resources on langauges e.g https://www.native-languages.org, https://glosbe.com etc.
+- Make page of common places/websites to find resources on langauges e.g https://www.native-languages.org, https://glosbe.com, https://www.ethnologue.com etc.
 - Remove : from headings (I think just looks nicer)
 - Setup github pages for this repo
+- Make language and non-language sections in each page and sort/add links based of that
 ### Languages To Find Resources for/Research
 - Mohawk
 - Seneca
