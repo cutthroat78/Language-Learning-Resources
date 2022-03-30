@@ -35,6 +35,7 @@
 * [Schoolcraft's Vocabulary of Oneida](https://books.google.ie/books?id=RJdkAAAAMAAJ&dq=schoolcrafts+vocabulary+of+oneida&hl=en&sa=X&redir_esc=y)
 * [Oneida-English/English Oneida Dictionary](https://books.google.ie/books/about/Oneida_English_English_Oneida_Dictionary.html?id=jVdI9AUa6CsC&redir_esc=y)
 * [Tekalihwathé: tha¹ : [the Oneida teaching dictionary]](https://www.worldcat.org/title/tekalihwathe-tha-the-oneida-teaching-dictionary/oclc/264950552&referer=brief_results)
+* [Oneida Language Planner by Yakotshanuni Kathleen Doxtator](https://www.amazon.ca/dp/B09P96D9LS)
 
 ### Language:
 - https://www.amazon.co.uk/Oneida-English-English-Oneida-Dictionary-Karin-Michelson/dp/0802035906/ref=sr_1_2?dchild=1&keywords=oneida+language&qid=1634155744&s=books&sr=1-2
@@ -60,3 +61,6 @@
 * [TheOLCC](https://www.youtube.com/user/TheOLCC)
 * [Oneida Nest](https://www.youtube.com/channel/UCflkM4G6VWHjdRWyga8bsVg)
 * [TehatiwʌnákhwaɁ Language Nest](https://www.youtube.com/channel/UCBnIwKX8opexGVn0B4Zm9Vw)
+* [Oneida Indian Nation](https://www.youtube.com/c/TheOneidaIndianNationNY)
+* [Oneida Digital Media](https://www.youtube.com/user/OneidaProductions)
+* [Vocabulary for the Oneida Language Planner I created! by Yakotshanuni (Kathleen)](https://www.youtube.com/watch?v=H55k_Ckp3qc)
