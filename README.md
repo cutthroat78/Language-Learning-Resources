@@ -19,7 +19,9 @@ Lists of resources to help learn (human) langauges
 
 ## To Do
 - Sort Oneida links into Oneida (Wisconsin) and Oneida (Canada)
-- Removed : from headings (I think just looks nicer)
+- Make page of general language resources
+- Make page of common places/websites to find resources on langauges e.g https://www.native-languages.org
+- Remove : from headings (I think just looks nicer)
 - Setup github pages for this repo
 ### Languages To Find Resources for/Research
 - Mohawk
@@ -28,6 +30,7 @@ Lists of resources to help learn (human) langauges
 - Yuki
 - Choctaw
 - [Ladino](https://ladino.szabgab.com/)
+- Cherokee
 
 ## To Sort (Links)
 - Wenja
