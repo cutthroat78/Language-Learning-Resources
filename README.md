@@ -1,6 +1,8 @@
 # (Human) Langauge Resources
 Lists of resources to help learn (human) langauges
 
+[Language Resources (Not Categorised By Langauge)](Language-Resources.md)
+
 ## Languages
 ### European
 - [Shelta (Cant, Gammon)](Shelta.md)
