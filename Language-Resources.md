@@ -5,6 +5,7 @@
 - [Lingodeer](https://www.lingodeer.com/)
 - [Clozemaster](https://www.clozemaster.com/)
 - [Glossika](https://ai.glossika.com/)
+- [Freerice](https://freerice.com)
 - [Lingualift](https://www.lingualift.com/)
 - [Livemocha](https://learn.livemochas.com/index.php)
 - [Learn Any Language | Fandom](https://learnanylanguage.fandom.com/wiki/Learn_Any_Language)
@@ -15,6 +16,7 @@
 - [Drops](https://languagedrops.com/)
 - [Scripts](https://languagedrops.com/scripts)
 - [shotgun.experiments Android Apps](https://play.google.com/store/apps/developer?id=shotgun.experiments)
+- [HelloTalk](https://www.hellotalk.com/)
 ### Jernung
 - [Jernung Website](https://jernung.com/)
 - [Jernung Android Apps](https://play.google.com/store/apps/dev?id=7157988227995618199)
