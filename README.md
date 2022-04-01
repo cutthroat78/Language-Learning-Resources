@@ -1,6 +1,8 @@
 # (Human) Langauge Resources
 Lists of resources to help learn (human) langauges
 
+[Github Pages](https://cutthroat78.github.io/Langauge-Resources/)
+
 [Language Resources (Not Categorised By Langauge)](Language-Resources.md)
 
 ## Languages
