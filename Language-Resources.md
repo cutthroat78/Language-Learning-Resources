@@ -31,5 +31,6 @@
 - [AnkiDecks.com](https://ankidecks.com/)
 # Games
 - [Influent (Steam Game)](https://store.steampowered.com/app/274980/Influent/)
+- [Earthlingo](http://earthlingo.io/)
 # Browser Extenisons
 - [Toucan](https://jointoucan.com)
