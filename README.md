@@ -33,6 +33,7 @@ Lists of resources to help learn (human) langauges
 - Remove : from headings (I think just looks nicer)
 - Setup github pages for this repo
 - Make language and non-language sections in pages that need it and sort/add links based of that
+
 ### Languages To Find Resources for/Research
 - Mohawk
 - Seneca
