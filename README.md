@@ -26,6 +26,26 @@ A repo full of lists of resources to help learn (human) langauges
 - [Maori](https://speakandlearnlanguages.com/learn-to-speak-maori/)
 - Toki Ma
 - Egyptian Hieroglyphs
+- !Xóõ
+- Xaasongaxango
+- Xakriabá
+- Xamtanga
+- Xavánte
+- Xerénte
+- Xetá
+- Xhosa
+- Xibe
+- Xinca
+- Xingoni
+- Xipaya
+- Xiri
+- Xiriâna
+- Xokleng
+- Xukurú
+- Xârâcùù
+- Xârâgurè
+- ǀGwi
+- ǀXam
 ## To Sort (Links)
 - Wenja
 - Onondaga
