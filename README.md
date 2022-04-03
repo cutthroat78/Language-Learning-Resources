@@ -7,6 +7,7 @@ A repo full of lists of resources to help learn (human) langauges
 - Make page of common places/websites to find resources on langauges e.g https://www.native-languages.org, https://glosbe.com, https://www.ethnologue.com etc.
 - Remove : from headings (I think just looks nicer)
 - Make non-language sections in pages that need it and sort/add links based of that
+- Sort Langauge based of family [Ethnologue](https://www.ethnologue.com/browse/families)
 ### Languages To Find Resources for/Research
 - Mohawk
 - Seneca
