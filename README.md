@@ -25,6 +25,7 @@ A repo full of lists of resources to help learn (human) langauges
 - Esperanto
 - Ido
 - Toki Ma
+---
 - [Ladino](https://ladino.szabgab.com/)
 - Jamaican Patois
 - Egyptian Hieroglyphs
