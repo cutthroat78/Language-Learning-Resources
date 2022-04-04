@@ -1,6 +1,6 @@
 # toki pona
 
-## Websites:
+## Websites
 
 - [Cristóbal Meléndez's Toki Pona Dictionary](https://jprogr.github.io/TokiPonaDictionary/)
 - [Official Toki Pona Website](https://tokipona.org/)
@@ -13,21 +13,21 @@
 - [lipu pi jan Pije](https://web.archive.org/web/20200507045006/http://tokipona.net/tp/janpije/)
 - [nasin toki pona](https://github.com/kilipan/nasin-toki)
 
-## Apps/Programs:
+## Apps/Programs
 
 - [Clozemaster](https://www.clozemaster.com/l/toki-eng)
 
-## Books:
+## Books
 
 - [Toki Pona: The Language of Good (Official Toki Pona) By Sonja Lang](https://www.amazon.com/gp/product/0978292308)
 - [Toki Pona Dictionary (Official Toki Pona) by Sonja Lang](https://www.amazon.com/dp/0978292367/)
 
-## Videos:
+## Videos
 
 - [Jan Misali's Toki Pona Lessons](https://www.youtube.com/playlist?list=PLuYLhuXt4HrQwIDV7FBkA8zApw0pnEJrX)
 - [Jan Misali's 12 Days of Toki Pona (Old)](https://www.youtube.com/playlist?list=PLuYLhuXt4HrQIv3xnDxZqRaLfmxB2U5rJ)
 
-## Flashcards:
+## Flashcards
 
 - [Anki: Ultimate Toki Pona](https://ankidecks.com/decks/about/177/show)
 
@@ -35,7 +35,7 @@
 
 - [nasin sona musi](https://jamesmoulang.itch.io/nasin-sona-musi)
 
-## Communities:
+## Communities
 
 - [ma pona pi toki pona (Discord Server)](https://discord.com/invite/Byqn5z9)
 - [r/tokipona (Reddit)](https://www.reddit.com/r/tokipona/)

@@ -1,4 +1,4 @@
 # Seneca
 
-## Websites:
+## Websites
 - [Learning the Seneca Indian Language](https://www.learningthesenecalanguage.com/)
