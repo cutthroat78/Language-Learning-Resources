@@ -8,25 +8,27 @@ A repo full of lists of resources to help learn (human) langauges
 - Make non-language sections in pages that need it and sort/add links based of that
 - Add ISO 639-3 to all pages
 - Make template file
-### Languages To Find Resources for/Research
+### Languages To Find (More) Resources for/Research
+#### Native American
 - Mohawk
 - Seneca
 - Tuscarora
 - Yuki
 - Choctaw
+- Cherokee
+#### European
 - Shelta
 - Irish Sign Language (ISL)
-- [Ladino](https://ladino.szabgab.com/)
-- Cherokee
-- [Native American Tribes and Languages List from www.native-languages.org](https://www.native-languages.org/languages.htm)
+- Scots
+- Ibicenco
+#### Constructed 
 - Esperanto
 - Ido
-- Jamaican Patois
-- Scots
-- Ibicenco 
-- [Maori](https://speakandlearnlanguages.com/learn-to-speak-maori/)
 - Toki Ma
+- [Ladino](https://ladino.szabgab.com/)
+- Jamaican Patois
 - Egyptian Hieroglyphs
+- [Maori](https://speakandlearnlanguages.com/learn-to-speak-maori/)
 - !Xóõ
 - Xaasongaxango
 - Xakriabá
