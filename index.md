@@ -2,15 +2,17 @@
 # Languages
 ## European
 ### Ireland
-- [Shelta (Cant, Gammon)](Shelta.md)
+- [Shelta (Cant, Gammon)](Languages/Shelta.md)
 ## Native American
 ### Iroquoian (Haudenosaunee) Langauges
-- [Cayuga](Native-American/Iroquois/Cayuga.md)
-- [Mohawk](Native-American/Iroquois/Mohawk.md)
-- [Oneida](Native-American/Iroquois/Oneida.md)
-- [Onondaga](Native-American/Iroquois/Onondaga.md)
-- [Seneca](Native-American/Iroquois/Seneca.md)
+- [Cayuga](Languages/Native-American/Iroquois/Cayuga.md)
+- [Mohawk](Languages/Native-American/Iroquois/Mohawk.md)
+- [Oneida](Languages/Native-American/Iroquois/Oneida.md)
+- [Onondaga](Languages/Native-American/Iroquois/Onondaga.md)
+- [Seneca](Languages/Native-American/Iroquois/Seneca.md)
+## Sign Languages
+- [Japanese Sign Language (JSL)](Languages/Sign-Langauge/Japanese-Sign-Langauge-(JSL).md)
 ## Constructed
-- [toki pona](Constructed/toki-pona.md)
-- [Esperanto](Constructed/Esperanto.md)
-- [Wenja](Constructed/Wenja.md)
+- [toki pona](Languages/Constructed/toki-pona.md)
+- [Esperanto](Languages/Constructed/Esperanto.md)
+- [Wenja](Languages/Constructed/Wenja.md)
