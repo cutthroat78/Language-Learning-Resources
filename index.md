@@ -11,7 +11,7 @@
 - [Onondaga](Languages/Native-American/Iroquois/Onondaga.md)
 - [Seneca](Languages/Native-American/Iroquois/Seneca.md)
 ## Sign Languages
-- [Japanese Sign Language (JSL)](Languages/Sign-Langauge/Japanese-Sign-Langauge-(JSL).md)
+- [Japanese Sign Language (JSL)](Languages/Sign-Langauge/Japanese-Sign-Langauge.md)
 ## Constructed
 - [toki pona](Languages/Constructed/toki-pona.md)
 - [Esperanto](Languages/Constructed/Esperanto.md)
