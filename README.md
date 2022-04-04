@@ -16,6 +16,7 @@ A repo full of lists of resources to help learn (human) langauges
 - Yuki
 - Choctaw
 - Cherokee
+- Navajo (https://ankiweb.net/shared/decks/navajo)
 #### European
 - Shelta
 - Irish Sign Language (ISL)
