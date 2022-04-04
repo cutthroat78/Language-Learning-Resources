@@ -31,7 +31,7 @@
 
 - [Anki: Ultimate Toki Pona](https://ankidecks.com/decks/about/177/show)
 
-## Games:
+## Games
 
 - [nasin sona musi](https://jamesmoulang.itch.io/nasin-sona-musi)
 

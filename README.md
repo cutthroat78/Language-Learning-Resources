@@ -4,9 +4,9 @@ A repo full of lists of resources to help learn (human) langauges
 [Github Pages](https://cutthroat78.github.io/Langauge-Learning-Resources/)
 ## To Do
 - Sort Oneida links into Oneida (Wisconsin) and Oneida (Canada)
-- Make page of common places/websites to find resources on langauges e.g https://www.native-languages.org, https://glosbe.com, https://www.ethnologue.com etc.
+- Make page of common places/websites to find resources on langauges e.g https://www.native-languages.org, https://glosbe.com, https://www.ethnologue.com, https://conlang.org etc.
 - Make non-language sections in pages that need it and sort/add links based of that
-- Sort Langauge based of family [Ethnologue](https://www.ethnologue.com/browse/families)
+- Add ISO 639-3 to all pages
 ### Languages To Find Resources for/Research
 - Mohawk
 - Seneca
@@ -49,3 +49,4 @@ A repo full of lists of resources to help learn (human) langauges
 ## To Sort (Links)
 - Wenja
 - Onondaga
+- Mohawk
