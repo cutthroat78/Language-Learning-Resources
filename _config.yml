@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
 title: "Langauge Learning Resources"
 description: "A website full of resources to learn (human) langauges"
+author: "CutThroat78"
 show_downloads: false
 github:
    is_project_page: false
