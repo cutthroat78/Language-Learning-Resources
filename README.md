@@ -27,7 +27,7 @@ A repo full of lists of resources to help learn (human) langauges
 - Ido
 - Toki Ma
 ---
-- [Ladino](https://ladino.szabgab.com/)
+- [Ladino](https://ladino.szabgab.com/), [2](https://github.com/szabgab/ladino)
 - Jamaican Patois
 - Egyptian Hieroglyphs
 - [Maori](https://speakandlearnlanguages.com/learn-to-speak-maori/)
