@@ -8,6 +8,7 @@ A repo full of lists of resources to help learn (human) langauges
 - Make non-language sections in pages that need it and sort/add links based of that
 - Add ISO 639-3 to all pages
 - Make template file
+- List all languages each resource in langauge-resources.md file have
 ### Languages To Find (More) Resources for/Research
 #### Native American
 - Mohawk
