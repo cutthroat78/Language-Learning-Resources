@@ -56,3 +56,8 @@ A repo full of lists of resources to help learn (human) langauges
 - Wenja
 - Onondaga
 - Mohawk
+
+## Resources I make
+- Anki deck
+- Librelingo course
+- Dictionary (If applicable/not available)
