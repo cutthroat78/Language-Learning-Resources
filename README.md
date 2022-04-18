@@ -12,6 +12,7 @@ Requests for language pages to be made can be done using issues, if you have pag
 - Add ISO 639-3 to all pages
 - Make template file with sections that I should I use in all files
 - List all languages each resource in langauge-resources.md file have
+- Add wikipedia pages for language families/categories
 ### Languages To Find (More) Resources for/Research
 - [Dzongkha](https://en.wikipedia.org/wiki/Dzongkha)
 #### Native American
@@ -22,8 +23,7 @@ Requests for language pages to be made can be done using issues, if you have pag
 - Seneca
 - Tuscarora
 - Cherokee
-##### Yukian
-- Yuki
+##### Yukian/Yuki-Wappo
 - Wappo
 #### European
 - Shelta
