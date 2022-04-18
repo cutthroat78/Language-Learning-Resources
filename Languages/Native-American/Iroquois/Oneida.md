@@ -37,6 +37,7 @@
 * [Speak Oneida - Part 1](https://play.google.com/store/apps/details?id=com.languagepal.androidoneidawisconsin&hl=en&gl=US)
 * [Speak Oneida 2](https://play.google.com/store/apps/details?id=com.languagepal.oneida2android)
 * [Beginner Oneida](https://play.google.com/store/apps/details?id=com.shex.beginneroneida)
+* Oneida Media Player: [Android](https://play.google.com/store/apps/details?id=com.tlc.oneidamp) [Apple](https://apps.apple.com/fm/app/oneida-media-player/id1583790833)
 
 ### Games
 * [Games by butterflystevens on PurposeGames](https://www.purposegames.com/profile/29482/games)
