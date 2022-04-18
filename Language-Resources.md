@@ -9,7 +9,10 @@
 - [Livemocha](https://learn.livemochas.com/index.php)
 - [Learn Any Language - Fandom](https://learnanylanguage.fandom.com/wiki/Learn_Any_Language)
 - [Omniglot - Online Encyclopedia of Writing Systems & Langauges](https://www.omniglot.com/)
-- [Native-languages.orgomni](http://www.native-languages.org/)
+- [Native-languages.org](http://www.native-languages.org/)
+## Information
+- [Wikipedia](https://www.wikipedia.org/)
+- [Native-languages.org](http://www.native-languages.org/)
 # Dictionaries
 - [WordHippo](https://www.wordhippo.com/)
 - [Reverso Dictionary](https://dictionary.reverso.net/)
