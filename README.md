@@ -52,11 +52,11 @@ A repo full of lists of resources to help learn (human) langauges
 - Xârâgurè
 - ǀGwi
 - ǀXam
+- https://en.wikipedia.org/wiki/List_of_Australian_Aboriginal_languages
 ## To Sort (Links)
 - Wenja
 - Onondaga
 - Mohawk
-
 ## Resources I make
 - Anki deck
 - Librelingo course
