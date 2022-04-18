@@ -13,6 +13,7 @@
 ## Information
 - [Wikipedia](https://www.wikipedia.org/)
 - [Native-languages.org](http://www.native-languages.org/)
+- [Ethnologue](https://www.ethnologue.com/)
 # Dictionaries
 - [WordHippo](https://www.wordhippo.com/)
 - [Reverso Dictionary](https://dictionary.reverso.net/)
