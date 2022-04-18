@@ -10,6 +10,7 @@ A repo full of lists of resources to help learn (human) langauges
 - Make template file
 - List all languages each resource in langauge-resources.md file have
 ### Languages To Find (More) Resources for/Research
+- [Dzongkha](https://en.wikipedia.org/wiki/Dzongkha)
 #### Native American
 - Choctaw
 - Navajo (https://ankiweb.net/shared/decks/navajo)
