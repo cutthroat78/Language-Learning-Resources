@@ -18,6 +18,12 @@
 - [Scripts](https://languagedrops.com/scripts)
 - [shotgun.experiments Android Apps](https://play.google.com/store/apps/developer?id=shotgun.experiments)
 - [HelloTalk](https://www.hellotalk.com/)
+## The Language Conservancy
+- [The Language Conservancy Website](https://languageconservancy.org/)
+- [The Language Conservancy Learning Resources](https://languageconservancy.org/learning-resources/)
+- [The Language Conservancy Store](https://stores.languagepress.com/)
+- [The Language Conservancy Android Apps](https://play.google.com/store/apps/developer?id=The+Language+Conservancy)
+- [The Language Conservancy Apple Apps](https://apps.apple.com/fm/developer/the-language-conservancy-inc/id1063881431)
 ## Jernung
 - [Jernung Website](https://jernung.com/)
 - [Jernung Android Apps](https://play.google.com/store/apps/dev?id=7157988227995618199)
