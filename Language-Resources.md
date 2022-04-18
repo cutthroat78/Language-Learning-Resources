@@ -10,6 +10,9 @@
 - [Learn Any Language - Fandom](https://learnanylanguage.fandom.com/wiki/Learn_Any_Language)
 - [Omniglot - Online Encyclopedia of Writing Systems & Langauges](https://www.omniglot.com/)
 - [Native-languages.orgomni](http://www.native-languages.org/)
+# Dictionaries
+- [WordHippo](https://www.wordhippo.com/)
+- [Reverso Dictionary](https://dictionary.reverso.net/)
 # Mobile Apps
 - [Drops](https://languagedrops.com/)
 - [Scripts](https://languagedrops.com/scripts)
