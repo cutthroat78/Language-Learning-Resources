@@ -62,6 +62,7 @@ Requests for language pages to be made can be done using issues, if you have pag
 - ǀXam
 - https://en.wikipedia.org/wiki/List_of_Australian_Aboriginal_languages
 ## Resources to Sort
+- https://play.google.com/store/apps/developer?id=Qvyshift+LLC&gl=US
 ### Oneida
 - https://oneida.on.ca/
 - https://oneida-nsn.gov/
