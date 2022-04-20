@@ -72,9 +72,3 @@ Requests for language pages to be made can be done using issues, if you have pag
 - Wenja
 - Onondaga
 - Mohawk
-## Resources I make
-- [Anki Deck](https://github.com/cutthroat78/Language-Anki-Decks)
-- [Librelingo](https://github.com/LibreLingo/LibreLingo)
-- [Wordle](https://github.com/cwackerfuss/react-wordle)
-- [Word Games](https://github.com/szabgab/word-games-english)
-- Dictionary (If applicable/not available) ([Example](https://github.com/cutthroat78/Oneida-Dictionary))
