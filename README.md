@@ -61,7 +61,7 @@ Requests for language pages to be made can be done using issues, if you have pag
 - ǀGwi
 - ǀXam
 - https://en.wikipedia.org/wiki/List_of_Australian_Aboriginal_languages
-## Resource to sort
+## Resources to Sort
 ### Oneida
 - https://oneida.on.ca/
 - https://oneida-nsn.gov/
