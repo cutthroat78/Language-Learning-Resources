@@ -60,6 +60,13 @@ Requests for language pages to be made can be done using issues, if you have pag
 - ǀGwi
 - ǀXam
 - https://en.wikipedia.org/wiki/List_of_Australian_Aboriginal_languages
+## Resource to sort
+### Oneida
+- https://oneida.on.ca/
+- https://oneida-nsn.gov/
+### Korean
+- https://www.youtube.com/channel/UCq5z8CCj8k0d_gDNpAlPWhw
+- https://retrolearnskorean.blogspot.com/
 ## To Sort (Links)
 - Wenja
 - Onondaga
