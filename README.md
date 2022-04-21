@@ -63,6 +63,7 @@ Requests for language pages to be made can be done using issues, if you have pag
 - https://en.wikipedia.org/wiki/List_of_Australian_Aboriginal_languages
 ## Resources to Sort
 - [Nihonoari: Hiragana & Katakana (A little and minimalist Japanese Kana training)](https://f-droid.org/packages/com.LAPARCELA.nihonoari)
+- [Spread Signs - Android App](https://play.google.com/store/apps/details?id=com.spreadthesign.androidapp_paid)
 - http://www.ohwejagehka.com/
 - https://play.google.com/store/apps/developer?id=Qvyshift+LLC&gl=US
 ### Oneida
