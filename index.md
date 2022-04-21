@@ -11,7 +11,8 @@
 - [Onondaga](Languages/Native-American/Iroquois/Onondaga.md)
 - [Seneca](Languages/Native-American/Iroquois/Seneca.md)
 ### [Yuki-Wappo / Yukian](https://en.wikipedia.org/wiki/Yuki%E2%80%93Wappo_languages)
-- []()
+- [Yuki](Languages/Native-American/Yuki-Wappo/Yuki.md)
+- [Wappo](Languages/Native-American/Yuki-Wappo/Wappo.md)
 ## Sign Languages
 - [Japanese Sign Language (JSL)](Languages/Sign-Langauge/Japanese-Sign-Langauge.md)
 ## Constructed
