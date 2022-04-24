@@ -10,7 +10,7 @@ Requests for language pages to be made can be done using issues, if you have pag
 - Make page of common places/websites to find resources on langauges e.g https://www.native-languages.org, https://glosbe.com, https://www.ethnologue.com, https://conlang.org etc.
 - Make non-language sections in pages that need it and sort/add links based of that
 - Add ISO 639-3 to all pages
-- Make template file with sections that I should I use in all files
+- Finish template file with sections that I should I use in all files
 - List all languages each resource in langauge-resources.md file have
 - Add wikipedia pages for language families/categories
 - Maybe make program that can auto fill parts of a template (Like auto find the link for languages wikipedia page)
