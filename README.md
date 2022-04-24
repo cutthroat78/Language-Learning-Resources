@@ -6,7 +6,7 @@ A repo full of lists of resources to help learn (human) langauges
 Requests for language pages to be made can be done using issues, if you have page you would like to add, please make a pull request
 
 ## To Do
-- Sort Oneida links into Oneida (Wisconsin) and Oneida (Canada)
+- Sort Oneida links into Oneida (Wisconsin)/Oneida (Green Bay) and Oneida (Canada)/Oneida (Southwold)
 - Make page of common places/websites to find resources on langauges e.g https://www.native-languages.org, https://glosbe.com, https://www.ethnologue.com, https://conlang.org etc.
 - Make non-language sections in pages that need it and sort/add links based of that
 - redo all pages with template
