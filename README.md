@@ -14,6 +14,7 @@ Requests for language pages to be made can be done using issues, if you have pag
 - List all languages each resource in langauge-resources.md file have
 - Add wikipedia pages for language families/categories
 - Maybe make program that can auto fill parts of a template (Like auto find the link for languages wikipedia page)
+- Put descriptions/comments next to every resource to explain the resource and how to use it (if needed)
 ### Languages To Find (More) Resources for/Research
 - [Dzongkha](https://en.wikipedia.org/wiki/Dzongkha)
 #### Native American
