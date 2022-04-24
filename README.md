@@ -9,11 +9,11 @@ Requests for language pages to be made can be done using issues, if you have pag
 - Sort Oneida links into Oneida (Wisconsin) and Oneida (Canada)
 - Make page of common places/websites to find resources on langauges e.g https://www.native-languages.org, https://glosbe.com, https://www.ethnologue.com, https://conlang.org etc.
 - Make non-language sections in pages that need it and sort/add links based of that
-- Add ISO 639-3 to all pages
-- Finish template file with sections that I should I use in all files
+- redo all pages with template
+- Finish template file with sections that I should I use in all files (Use [this](https://polyglotclub.com/wiki/Language/Multiple-languages/Culture/Internet-resources-for-polyglots) for section ideas)
 - List all languages each resource in langauge-resources.md file have
 - Add wikipedia pages for language families/categories
-- Maybe make program that can auto fill parts of a template (Like auto find the link for languages wikipedia page)
+- Maybe make program that can look up if resource exists for certain language and give link if so
 - Put descriptions/comments next to every resource to explain the resource and how to use it (if needed)
 ### Languages To Find (More) Resources for/Research
 - [Dzongkha](https://en.wikipedia.org/wiki/Dzongkha)
@@ -62,7 +62,12 @@ Requests for language pages to be made can be done using issues, if you have pag
 - ǀGwi
 - ǀXam
 - https://en.wikipedia.org/wiki/List_of_Australian_Aboriginal_languages
-## Resources to Sort
+## Resources to Sort/look at
+- https://freedict.org/
+- https://polyglotclub.com/
+- http://users.elite.net/runner/jennifers/
+- https://polyglotclub.com/wiki/Language/Multiple-languages/Culture/Internet-resources-for-learning-specific-languages
+- https://polyglotclub.com/wiki/Language/Multiple-languages/Culture/Internet-resources-for-polyglots
 - https://play.google.com/store/apps/details?id=com.Ogoki.Frontier
 - [Spread the sign](https://spreadthesign.com/)
 - [Nihonoari: Hiragana & Katakana (A little and minimalist Japanese Kana training)](https://f-droid.org/packages/com.LAPARCELA.nihonoari)
