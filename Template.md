@@ -15,6 +15,8 @@ Also Known As: _ (Delete if it has no other names)
 ## Media
 ### YouTube (Channels, Videos and Playlists)
 ### Video
-### Audio (Podcasts)
+### Audio
+#### Podcasts
+#### Music
 ## Communities
 - [Polyglot Club](https://polyglotclub.com/wiki/Language/[Language]) - A Free Language Exchange Community with many resources
