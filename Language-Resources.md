@@ -36,6 +36,7 @@
 ### Where to Find Anki Decks
 - [Ankiweb.net Shared Decks](https://ankiweb.net/shared/decks/)
 - [AnkiDecks.com](https://ankidecks.com/)
+- [Anki Decks Page on Polyglot Wiki](https://polyglotclub.com/wiki/Language/Multiple-languages/Culture/Helpful-Anki-Shared-Decks)
 # Keyboard Layouts
 - [Windows Keyboard Layouts](https://docs.microsoft.com/en-us/globalization/windows-keyboard-layouts)
 - [Arch Linux Docs - Linux console/Keyboard configuration](https://wiki.archlinux.org/title/Linux_console/Keyboard_configuration)
