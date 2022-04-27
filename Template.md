@@ -12,9 +12,12 @@ Also Known As: _ (Delete if it has no other names)
 - [Multitree](http://www.multitree.org/codes/[ISO 639-3].html) - Multitree page on [Langauge]
 - [ELP]() - Endangered Languages Project page on [Language]
 
+## Apps
+## Courses
 ## Media
 ### YouTube (Channels, Videos and Playlists)
 ### Video
+### Books
 ### Audio
 #### Podcasts
 #### Music
