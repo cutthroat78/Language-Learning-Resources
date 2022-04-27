@@ -12,6 +12,7 @@ Also Known As: _ (Delete if it has no other names)
 - [Multitree](http://www.multitree.org/codes/[ISO 639-3].html) - Multitree page on [Langauge]
 - [ELP]() - Endangered Languages Project page on [Language]
 
+## Websites
 ## Apps
 ## Courses
 ## Media
@@ -23,3 +24,5 @@ Also Known As: _ (Delete if it has no other names)
 #### Music
 ## Communities
 - [Polyglot Club](https://polyglotclub.com/wiki/Language/[Language]) - A Free Language Exchange Community with many resources
+## Non-Langauge
+Resources on Culture, History, etc. <!--(of the _ tribe/clan/people)-->
