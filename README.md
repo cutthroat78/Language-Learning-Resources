@@ -18,7 +18,6 @@ Requests for language pages to be made can be done using issues, if you have pag
 - Move stuff in Language-Resources.md to Resources to sort or template
 
 ### Languages Tracking
-
 <!--
 | [Language] | No | No | No |
 -->
@@ -70,7 +69,7 @@ Requests for language pages to be made can be done using issues, if you have pag
 | ǀXam | No | No | No |
 
 https://en.wikipedia.org/wiki/List_of_Australian_Aboriginal_languages - Get all languages from this and put in table
-## Resources to Sort/look at
+## Resources to Sort/Look at
 - https://tatoeba.org/en - Tatoeba: Collection of sentences and translations
 - https://www.imabi.net/ - Welcome to IMABI!
 - https://www.youtube.com/c/purple3746/videos - Hyungseok Song - YouTube
@@ -82,9 +81,9 @@ https://en.wikipedia.org/wiki/List_of_Australian_Aboriginal_languages - Get all 
 - https://freedict.org/
 - https://viva.glossika.com/
 - https://glossika.com/
+- https://speakandlearnlanguages.com/
 - https://polyglotclub.com/
 - http://users.elite.net/runner/jennifers/
-- https://polyglotclub.com/wiki/Language/Multiple-languages/Culture/Internet-resources-for-learning-specific-languages
 - https://polyglotclub.com/wiki/Language/Multiple-languages/Culture/Internet-resources-for-polyglots
 - https://play.google.com/store/apps/details?id=com.Ogoki.Frontier
 - [Spread the sign](https://spreadthesign.com/)
