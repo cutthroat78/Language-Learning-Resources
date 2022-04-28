@@ -1,5 +1,6 @@
 # [Language]
-Also Known As: _ (Delete if it has no other names)
+Also Known As: _ 
+Autonyms (How to write "[Language]" in [Language]): _
 
 ## Information
 [ISO 639-3:](https://en.wikipedia.org/wiki/ISO_639-3) [ISO 639-3] | [CLCR (ConLang Code Registry):](http://www.kreativekorp.com/clcr/) [CLCR] | [Glottolog:](https://glottolog.org) ([Glottolog])[https://glottolog.org/resource/languoid/id/[Glottolog]]
