@@ -70,6 +70,7 @@ Requests for language pages to be made can be done using issues, if you have pag
 https://en.wikipedia.org/wiki/List_of_Australian_Aboriginal_languages - Get all languages from this and put in table
 ## Resources to Sort/Look at
 - http://www.languagegeek.com/
+- https://escholarship.org/uc/ucpress_ucpl
 - https://conlang.org/
 - https://tatoeba.org/en - Tatoeba: Collection of sentences and translations
 - https://www.imabi.net/ - Welcome to IMABI!
@@ -98,3 +99,6 @@ https://en.wikipedia.org/wiki/List_of_Australian_Aboriginal_languages - Get all 
 ### Korean
 - https://www.youtube.com/channel/UCq5z8CCj8k0d_gDNpAlPWhw
 - https://retrolearnskorean.blogspot.com/
+### Wappo and Yuki
+- https://escholarship.org/uc/item/0dv86220
+- https://escholarship.org/uc/item/8w68m3k0
