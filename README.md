@@ -7,7 +7,6 @@ Requests for language pages to be made can be done using issues, if you have pag
 
 ## To Do
 - Sort Oneida links into Oneida (Wisconsin)/Oneida (Green Bay) and Oneida (Canada)/Oneida (Southwold)
-- Make page of common places/websites to find resources on langauges e.g https://www.native-languages.org, https://glosbe.com,  https://conlang.org etc.
 - Make non-language sections in pages that need it and sort/add links based of that
 - redo all pages with template
 - Finish template file with sections that I should I use in all files (Use [this](https://polyglotclub.com/wiki/Language/Multiple-languages/Culture/Internet-resources-for-polyglots) for section ideas)
