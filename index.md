@@ -1,5 +1,7 @@
 [Language Resources (Not Categorised By Langauge)](Language-Resources.md)
 # Languages
+- [Native American Languages](Languages/Native-American/Native-American.md)
+
 ## European
 ### Ireland
 - [Shelta (Cant, Gammon)](Languages/Shelta.md)
