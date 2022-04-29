@@ -1,4 +1,4 @@
-# Native American
+# Native American Languages
 ## Iroquoian (Haudenosaunee)
 - [Cayuga](Languages/Native-American/Iroquois/Cayuga.md)
 - [Mohawk](Languages/Native-American/Iroquois/Mohawk.md)
