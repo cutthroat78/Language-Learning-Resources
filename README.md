@@ -15,6 +15,7 @@ Requests for language pages to be made can be done using issues, if you have pag
 - Maybe make program that can look up if resource exists for certain language and give link if so
 - Put descriptions/comments next to every resource to explain the resource and how to use it (if needed)
 - Move stuff in Language-Resources.md to Resources to sort or template
+- Braille for all langauges (It's "child systems")
 
 ### Languages Tracking
 <!--
