@@ -13,7 +13,7 @@ Autonyms (How to write "[Language]" in [Language]): _
 ## Keyboards
 - [Keyman](https://keyman.com/) - Keyboards layouts for over 2000 languages for use on Windows, MacOS, Linux, Android, Iphone, Ipad and to use [online](https://keymanweb.com/)
 ## Websites
-- [Native Languages of the Americas Website](https://www.native-languages.org/) - Keyboards layouts for over 2000 languages for use on Windows, MacOS, Linux, Android, IPhone, IPad and to use online
+- [Native Languages of the Americas Website](https://www.native-languages.org/) - A website by a small non-profit organization dedicated to the survival of Native American languages, particularly through the use of Internet technology. Typically, has links to guides, word lists, information on culture and history and other resources
 # Games
 ## Apps
 ## Courses
