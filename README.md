@@ -149,8 +149,6 @@ https://en.wikipedia.org/wiki/List_of_Australian_Aboriginal_languages - Get all 
 # Keyboard Layouts
 - [Windows Keyboard Layouts](https://docs.microsoft.com/en-us/globalization/windows-keyboard-layouts)
 - [Arch Linux Docs - Linux console/Keyboard configuration](https://wiki.archlinux.org/title/Linux_console/Keyboard_configuration)
-- [Keyman](https://keyman.com/) - Keyboards layouts for over 2000 languages for use on Windows, MacOS, Linux, Android, Iphone, Ipad and to use online
-# Games
 - [Influent (Steam Game)](https://store.steampowered.com/app/274980/Influent/)
 - [Earthlingo](http://earthlingo.io/)
 # Browser Extenisons
