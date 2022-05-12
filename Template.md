@@ -11,7 +11,7 @@ Autonyms (How to write "[Language]" in [Language]): _
 ## Writing System
 - [Omniglot](https://www.omniglot.com/writing/[Language].htm) - A website that has information on writing systems, languages, information about the (native) people who speak the language and other resources
 ## Keyboards
-- [Keyman](https://keyman.com/) - A website with over 2,000 keyboard layouts and works on Windows, Mac, Linux, Android, iOS and it can be used on the [web](https://keymanweb.com/)
+- [Keyman](https://keyman.com/) - Keyboards layouts for over 2000 languages for use on Windows, MacOS, Linux, Android, Iphone, Ipad and to use [online](https://keymanweb.com/)
 ## Websites
 - [Native Languages of the Americas Website](https://www.native-languages.org/) - Keyboards layouts for over 2000 languages for use on Windows, MacOS, Linux, Android, IPhone, IPad and to use online
 # Games
