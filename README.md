@@ -1,7 +1,7 @@
 # Langauge Learning Resources
 A repo full of lists of resources to help learn (human) languages
 
-[Github Pages](https://cutthroat78.github.io/Langauge-Learning-Resources/)
+[Github Pages](https://cutthroat78.github.io/Language-Learning-Resources)
 
 Requests for language pages to be made can be done using issues, if you have page, resources or anything else you would like to add, please make a pull request
 
