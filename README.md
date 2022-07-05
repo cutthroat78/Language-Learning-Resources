@@ -1,162 +1,116 @@
 # Langauge Learning Resources
-A repo full of lists of resources to help learn (human) langauges
+A repo full of lists of resources to help learn (human) languages
 
 [Github Pages](https://cutthroat78.github.io/Langauge-Learning-Resources/)
 
-Requests for language pages to be made can be done using issues, if you have page you would like to add, please make a pull request
+Requests for language pages to be made can be done using issues, if you have page, resources or anything else you would like to add, please make a pull request
+
+[Tracker Tables](Tracker.md)
 
 ## To Do
-- Sort Oneida links into Oneida (Wisconsin)/Oneida (Green Bay) and Oneida (Canada)/Oneida (Southwold)
-- Make non-language sections in pages that need it and sort/add links based of that
-- redo all pages with template
-- Finish template file with sections that I should I use in all files (Use [this](https://polyglotclub.com/wiki/Language/Multiple-languages/Culture/Internet-resources-for-polyglots) for section ideas)
-- List all languages each resource in langauge-resources.md file have
-- Add wikipedia pages for language families/categories
+
+- Look at [this](https://polyglotclub.com/wiki/Language/Multiple-languages/Culture/Internet-resources-for-polyglots) for section ideas
 - Maybe make program that can look up if resource exists for certain language and give link if so
-- Put descriptions/comments next to every resource to explain the resource and how to use it (if needed)
-- Move stuff in Language-Resources.md to Resources to sort or template
-- Braille for all langauges (It's "child systems")
+- Braille for all languages (It's "child systems")
+- Label links in tables
+- Make list of steps when creating a page for a language
+- Do tutorial (video & word article) on setting up anki for my anki decks
+- https://en.wikipedia.org/wiki/List_of_Australian_Aboriginal_languages - Get all languages from this and put in table
 
-### Languages Tracking
-<!--
-| [Language] | No | No | No |
--->
-| Language | Finished Finding Resources? | Sorted and Looked through Resources? | Made Resources Page? |
-|-|-|-|-|
-| [Dzongkha](https://en.wikipedia.org/wiki/Dzongkha) | No | No | No |
-| Choctaw | No | No | No |
-| [Navajo](https://ankiweb.net/shared/decks/navajo) | No | No | No |
-| Mohawk | No | No | No |
-| Onondaga | No | No | No |
-| Seneca | No | No | No |
-| Tuscarora | No | No | No |
-| Oneida | Yes | No | No |
-| Cherokee | No | No | No |
-| Wenja | No | No | No | 
-| Wappo | No | No | No |
-| Yuki | No | No | No |
-| Shelta | No | No | No |
-| Irish Sign Language (ISL) | No | No | No |
-| Japanese Sign Language (JSL) | No | No | No |
-| Scots | No | No | No |
-| Ibicenco | No | No | No |
-| Esperanto | No | No | No |
-| Ido | No | No | No |
-| Toki Ma | No | No | No |
-| [Ladino](https://ladino.szabgab.com/), [2](https://github.com/szabgab/ladino) | No | No | No |
-| Jamaican Patois | No | No | No |
-| Egyptian Hieroglyphs | No | No | No |
-| [Maori](https://speakandlearnlanguages.com/learn|to|speak|maori/) | No | No | No |
-| !Xóõ | No | No | No |
-| Xaasongaxango | No | No | No |
-| Xakriabá | No | No | No |
-| Xamtanga | No | No | No |
-| Xavánte | No | No | No |
-| Xerénte | No | No | No |
-| Xetá | No | No | No |
-| Xhosa | No | No | No |
-| Xibe | No | No | No |
-| Xinca | No | No | No |
-| Xingoni | No | No | No |
-| Xipaya | No | No | No |
-| Xiri | No | No | No |
-| Xiriâna | No | No | No |
-| Xokleng | No | No | No |
-| Xukurú | No | No | No |
-| Xârâcùù | No | No | No |
-| Xârâgurè | No | No | No |
-| ǀGwi | No | No | No |
-| ǀXam | No | No | No |
+## Example sections for Language pages
 
-https://en.wikipedia.org/wiki/List_of_Australian_Aboriginal_languages - Get all languages from this and put in table
-## Resources to Sort/Look at
-- https://en.wiktionary.org/wiki/
-- https://en.wikiversity.org/wiki/Wikiversity:Main_Page
-- http://www.languagegeek.com/
-- https://escholarship.org/uc/ucpress_ucpl
-- https://conlang.org/
-- https://tatoeba.org/en - Tatoeba: Collection of sentences and translations
-- https://www.imabi.net/ - Welcome to IMABI!
-- https://www.youtube.com/c/purple3746/videos - Hyungseok Song - YouTube
-- https://github.com/neskie/secwepemctsnem - neskie/secwepemctsnem: A project to help people learn Secwepemctsín
-- https://github.com/neskie - neskie (Neskie Manuel)
-- https://en.wikipedia.org/wiki/Secwepemc - Secwepemc - Wikipedia
-- https://elon.io/learn-japanese/lessons - Learn Japanese | Online & For Free
-- https://www.50languages.com/ - Learn languages online or with Android and iPhone app for free 
-- https://freedict.org/
-- https://viva.glossika.com/
-- https://glossika.com/
-- https://speakandlearnlanguages.com/
-- https://polyglotclub.com/
-- http://users.elite.net/runner/jennifers/
-- https://polyglotclub.com/wiki/Language/Multiple-languages/Culture/Internet-resources-for-polyglots
-- https://play.google.com/store/apps/details?id=com.Ogoki.Frontier
-- [Spread the sign](https://spreadthesign.com/)
-- [Nihonoari: Hiragana & Katakana (A little and minimalist Japanese Kana training)](https://f-droid.org/packages/com.LAPARCELA.nihonoari)
-- [Spread Signs - Android App](https://play.google.com/store/apps/details?id=com.spreadthesign.androidapp_paid)
-- http://www.ohwejagehka.com/
-- https://play.google.com/store/apps/developer?id=Qvyshift+LLC&gl=US
-### Oneida
-- https://oneida.on.ca/
-- https://oneida-nsn.gov/
-### Korean
-- https://www.youtube.com/channel/UCq5z8CCj8k0d_gDNpAlPWhw
-- https://retrolearnskorean.blogspot.com/
-### Wappo and Yuki
-- https://escholarship.org/uc/item/0dv86220
-- https://escholarship.org/uc/item/8w68m3k0
-### From Old Language Resources File
-
-# Websites
-- [Librelingo](https://librelingo.app)
-- [Duolingo](https://www.duolingo.com/)
-- [Lingodeer](https://www.lingodeer.com/)
-- [Clozemaster](https://www.clozemaster.com/)
-- [Glossika](https://ai.glossika.com/)
-- [Freerice](https://freerice.com)
-- [Lingualift](https://www.lingualift.com/)
-- [Livemocha](https://learn.livemochas.com/index.php)
-- [Learn Any Language - Fandom](https://learnanylanguage.fandom.com/wiki/Learn_Any_Language)
-- [Omniglot - Online Encyclopedia of Writing Systems & Langauges](https://www.omniglot.com/)
-- [Native-languages.org](http://www.native-languages.org/)
-## Information
+## Resources to look at when starting to research a language
+- [Escholarship](https://escholarship.org/search)
+- [University of Toronto Press - Indigenous Studies / Indigenous Languages](https://utorontopress.com/search-results/?category=INDILA&amount=40)
+- [Polyglot Club](https://polyglotclub.com/language/wiki)
+- [OLAC: Open Language Archives Community](http://www.language-archives.org/)
+- [Linguist List](https://linguistlist.org/)
+- [Paradisec: Pacific and Regional Archive for Digital Sources in Endangered Cultures](https://www.paradisec.org.au/) - [Catalog](https://catalog.paradisec.org.au)
 - [Wikipedia](https://www.wikipedia.org/)
-- [Native-languages.org](http://www.native-languages.org/)
 - [Ethnologue](https://www.ethnologue.com/)
-# Dictionaries
-- [WordHippo](https://www.wordhippo.com/)
-- [Reverso Dictionary](https://dictionary.reverso.net/)
-# Mobile Apps
-- [Drops](https://languagedrops.com/)
-- [Scripts](https://languagedrops.com/scripts)
+- [Multitree](http://www.multitree.org)
+- [The Rosetta Project](https://rosettaproject.org/)
+- [Internet Archive (archive.org)](https://archive.org)
+- [The World Atlas of Language Structures (WALS)](https://wals.info/)
+- [ELP](https://www.endangeredlanguages.com/)
+- [Native Languages of the Americas Website](https://www.native-languages.org/)
+- [Keyman](https://keyman.com/)
+- [Omniglot](https://www.omniglot.com)
+- [Glosbe](https://glosbe.com/)
+- [Language Geek](https://www.languagegeek.com)
+- [Windows Keyboard Layouts](https://docs.microsoft.com/en-us/globalization/windows-keyboard-layouts)
+- [Learn Any Language - Fandom](https://learnanylanguage.fandom.com/wiki/Learn_Any_Language)
 - [shotgun.experiments Android Apps](https://play.google.com/store/apps/developer?id=shotgun.experiments)
-- [HelloTalk](https://www.hellotalk.com/)
-## Jernung
-- [Jernung Website](https://jernung.com/)
-- [Jernung Android Apps](https://play.google.com/store/apps/dev?id=7157988227995618199)
-- [Jernung Apple Apps](https://apps.apple.com/us/developer/jernung/id1268225656?see-all=i-phonei-pad-apps)
-# Flashcards Programs
 - [Quizlet](https://quizlet.com)
 - [Memrise](https://www.memrise.com/)
 - [Brainscape](https://www.brainscape.com/)
-## Anki (Recommended by me)
-- [Download Anki](https://apps.ankiweb.net/)
-- [Download on Chrome Web Store](https://chrome.google.com/webstore/detail/ankidroid-flashcards/ckmbkodkbmkmdjdimeiddeljndcneifo)
-### Where to Find Anki Decks
 - [Ankiweb.net Shared Decks](https://ankiweb.net/shared/decks/)
 - [AnkiDecks.com](https://ankidecks.com/)
 - [Anki Decks Page on Polyglot Wiki](https://polyglotclub.com/wiki/Language/Multiple-languages/Culture/Helpful-Anki-Shared-Decks)
-# Keyboard Layouts
-- [Windows Keyboard Layouts](https://docs.microsoft.com/en-us/globalization/windows-keyboard-layouts)
-- [Arch Linux Docs - Linux console/Keyboard configuration](https://wiki.archlinux.org/title/Linux_console/Keyboard_configuration)
-# Games
-- [Influent (Steam Game)](https://store.steampowered.com/app/274980/Influent/)
-- [Earthlingo](http://earthlingo.io/)
-# Browser Extenisons
-- [Toucan](https://jointoucan.com)
-# The Language Conservancy
-- [The Language Conservancy Website](https://languageconservancy.org/)
-- [The Language Conservancy Learning Resources](https://languageconservancy.org/learning-resources/)
-- [The Language Conservancy Store](https://stores.languagepress.com/)
-- [The Language Conservancy Android Apps](https://play.google.com/store/apps/developer?id=The+Language+Conservancy)
-- [The Language Conservancy Apple Apps](https://apps.apple.com/fm/developer/the-language-conservancy-inc/id1063881431)
+- [Librelingo](https://librelingo.app) - [Github](https://github.com/LibreLingo/LibreLingo)
+- [Tatoeba](https://tatoeba.org)
+-  Xefjord's Complete Language Series: [SubReddit](https://www.reddit.com/r/XefsCompleteLangs/) - [Website](https://xefjord.wixsite.com/xefscompletelangs) - [On AnkiDecks.com](https://ankidecks.com/decks?query=xefjord)
+## Links to look through
+- [native-languages.org Yuki Page](http://www.native-languages.org/yuki.htm)
+- https://polyglotclub.com/wiki/Language/Multiple-languages/Culture/Internet-resources-for-polyglots
+- [Native Language - Cayuga](https://www.native-languages.org/cayuga.htm)
+- http://www.native-languages.org/onondaga.htm
+- https://ladino.szabgab.com/
+- https://ladino.szabgab.com/en/
+- https://github.com/RichardLitt/low-resource-languages
+- https://github.com/topics/endangered-languages
+- http://www.language-archives.org/language/one
+- https://listserv.linguistlist.org/pipermail/celtling/2002-February/000227.html
+- https://www.personal.psu.edu/ejp10/celtling/
+- http://www.ceantar.org/
+- [The Rosetta Project](https://rosettaproject.org/)
+- www.language-archives.org/language/wao
+
+# Misc Notes
+## Yuki Non-Language Links
+- [Know Lake County - Yuki Indians](https://youtu.be/tnEM3Ky3nsA)
+## Wappo Non-language Links
+First Source is quite good video to watch when starting to learn the language
+- [Learning the Wappo Language - YouTube](https://youtu.be/wPjOUPMfGeE)
+
+- [Native Blessing from Local Tribal Nations: Ohlone, Miwok, Pomo, and Wappo - YouTube](https://youtu.be/_eJhZKrdTT0)
+- [Insights into Pomo and Wappo Basketry Webinar - YouTube](https://youtu.be/8HJuI5vQzZE)
+- [Wappo Tribe (Part 1) - YouTube](https://youtu.be/9LpmRPIkPJc)
+- [Traditional Ecological Practices for Fire - YouTube](https://youtube.com/watch?v=bO8OwZbc8VI&feature=share)
+- [Clint McKay: Pomo and Wappo Baskets - YouTube](https://youtube.com/watch?v=6LwajH7kMJo&feature=share)
+## Oneida
+```
+Oneida has three variations/dialects
+1. Oneida (Canada)/Oneida (Southwold)
+2. Oneida (Wisconsin)/Oneida (Green Bay)
+3. Oneida (New York)
+```
+```
+# Non-Language
+* [Oneida Nation of the Thames (Canada) Website](https://oneida.on.ca)
+* [Oneida Indian Nation (New York)](https://www.oneidaindiannation.com)
+* [Oneida Nation (Wisconsin)](https://oneida-nsn.gov)
+* [Oneida Digital Media](https://www.youtube.com/user/OneidaProductions)
+
+# Non-Language Books
+* [The Oneida Indian Journey: From New York to Wisconsin, 1784-1860](https://books.google.com/books?id=etd7IYXRaIoC&dq=oneida)
+* [Oneida Iroquois Folklore, Myth, and History: New York Oral Narrative from the Notes of H. E. Allen and Others](https://books.google.com/books?id=9D0z42QgrxkC&dq=oneida)
+* [The Oneida Indians in the Age of Allotment, 1860-1920](https://books.google.com/books?id=tIbYS2EuYdIC&dq=thee+stories+in+oneida&redir_esc=y)
+* [The Bingo Queens of Oneida: How Two Moms Started Tribal Gaming in Wisconsin](https://books.google.com/books?id=4On7AwAAQBAJ&dq=the+Oneida+teaching+dictionary&redir_esc=y)
+* [The Oneida Indian Experience: Two Perspectives](https://books.google.ie/books?id=QsJWqn59gbwC&dq=thee+stories+in+oneida&redir_esc=y)
+* [The Oneidas](https://books.google.com/books?id=Yow-AAAAYAAJ&q=The+Oneidas&dq=The+Oneidas&hl=en)
+* [A Journey into Mohawk and Oneida Country, 1634-1635: The Journal of Harmen Meyndertsz Van Den Bogaert, Revised Edition](https://books.google.com/books?id=sYSiAgAAQBAJ&printsec=frontcover&dq=A+Journey+Into+Mohawk+and+Oneida+Country&hl=en&redir_esc=y)
+* [The Other American Governments: Tribal Governments in Transition from Dependency to Sovereignty](https://books.google.com/books/about/The_Other_American_Governments.html?id=BtrDoQEACAAJ&redir_esc=y)
+* Oneida Lives: Long-Lost Voices of the Wisconsin Oneidas: [Google Books](https://books.google.com/books/about/Oneida_Lives.html?id=WMtfN4sUrKoC&redir_esc=y) [Odysee](https://odysee.com/@Muse:3/174023:4)
+* The People of the Standing Stone: The Oneida Nation from Revolution through the Era of Removal: [Google Books](https://books.google.com/books/about/The_People_of_the_Standing_Stone.html?id=2TUjCig5QxEC&redir_esc=y) [Odysee](https://odysee.com/@Muse:3/172847:3)
+```
+
+## Shelta
+```(Also known as Cant, Gammon, Irish Traveler Cant, Sheldru, The Cant, Shelter)
+Shelta in Shelta is: De Gammon```
+
+```
+## Non-Langauge
+- [Mincéirí Tori: Conversations on Irish Traveller Language](https://youtu.be/7-kXhy-O1dU)
+- [Traveller Living Language](https://youtu.be/J6YdRd-mBtU)
+```
