@@ -148,6 +148,16 @@
 | [Gypsy Language - YouTube](https://www.youtube.com/channel/UCfjsFEilt-WmZrZpCP7R06A) | Unsure | No, Reason: Unsure of Language being thought (Could be Shelta, Romani or Gypsy)| No |
 | [Gypsy Kid Teaching - YouTube](https://youtube.com/channel/UCF7fERpWo175U7zipZaIFAg) | Unsure | No, Reason: Unsure of Language being thought (Could be Shelta, Romani or Gypsy) | No |
 
+# My Resources
+
+| Language | Resources | Dictionary/Wordlist(s) | [Anki](https://apps.ankiweb.net/) | Grammar (& Other) Notes | [LibreLingo](https://github.com/LibreLingo/LibreLingo) |
+|---|---|---|---|---|---|
+| Template | N/A | To Do | [Done](https://github.com/cutthroat78/Template-Language-Anki-Deck) | N/A | [Done](https://github.com/cutthroat78/LibreLingo-Course-Template) |
+| Oneida | [WIP]() | Canada: [WIP](https://github.com/cutthroat78/Oneida-Canada-Wordlist), Wisconsin: To Do, Combined: To Do | To Do | To Do | To Do |
+| toki pona | To Do | To Do | To Do | To Do | [WIP](https://github.com/cutthroat78/LibreLingo-toki-pona-From-English) |
+| Onondaga | To Do | To Do | To Do | To Do | To Do |
+| Wenja | To Do | To Do | To Do | To Do | To Do |
+
 # Language Tracker Table
 <!--| [Language] | No | No | No |-->
 | Language | Found Resources? | Sorted and Looked through Resources? | Made Resources Page? |
