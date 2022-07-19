@@ -150,10 +150,10 @@
 
 # My Resources
 
-| Language | Resources | Dictionary/Wordlist(s) | [Anki](https://apps.ankiweb.net/) | Grammar (& Other) Notes | [LibreLingo](https://github.com/LibreLingo/LibreLingo) |
+| Language | Resources | Dictionary/Wordlist(s)/Phraselist(s) | [Anki](https://apps.ankiweb.net/) | Grammar (& Other) Notes | [LibreLingo](https://github.com/LibreLingo/LibreLingo) |
 |---|---|---|---|---|---|
 | Template | N/A | To Do | [Done](https://github.com/cutthroat78/Template-Language-Anki-Deck) | N/A | [Done](https://github.com/cutthroat78/LibreLingo-Course-Template) |
-| Oneida | [WIP]() | Canada: [WIP](https://github.com/cutthroat78/Oneida-Canada-Wordlist), Wisconsin: To Do, Combined: To Do | To Do | To Do | To Do |
+| Oneida | [WIP]() | Canada: [Done](https://github.com/cutthroat78/Oneida-Canada-Wordlist), Wisconsin: [Already Exists](https://www.uwgb.edu/dictionary/) | [WIP](https://github.com/cutthroat78/Oneida-Anki-Deck) | To Do | To Do |
 | toki pona | To Do | To Do | To Do | To Do | [WIP](https://github.com/cutthroat78/LibreLingo-toki-pona-From-English) |
 | Onondaga | To Do | To Do | To Do | To Do | To Do |
 | Wenja | To Do | To Do | To Do | To Do | To Do |

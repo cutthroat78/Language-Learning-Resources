@@ -26,7 +26,7 @@
 
 ## Wisconsin
 | [Oneida Nation - Language](https://oneida-nsn.gov/our-ways/language/) | To List | Not decided yet | No |
-| [About the Oneida Langage - Oneida Language - UW - Green Bay](https://www.uwgb.edu/oneida/about-the-oneida-langage/) | To List | Not decided yet | No |
+| [About the Oneida Language - Oneida Language - UW - Green Bay](https://www.uwgb.edu/oneida/about-the-oneida-langage/) | To List | Not decided yet | No |
 | [Oneida Language: Wisconsin](https://play.google.com/store/apps/details?id=com.oneidanation.languageapp) | To List | Not decided yet | No |
 | [Speak Oneida - Part 1](https://play.google.com/store/apps/details?id=com.languagepal.androidoneidawisconsin&hl=en&gl=US) | To List | Not decided yet | No |
 | [Speak Oneida 2](https://play.google.com/store/apps/details?id=com.languagepal.oneida2android) | To List | Not decided yet | No |
