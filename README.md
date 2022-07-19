@@ -88,8 +88,9 @@ Oneida has three variations/dialects
 ```
 # Non-Language
 * [Oneida Nation of the Thames (Canada) Website](https://oneida.on.ca)
-* [Oneida Indian Nation (New York)](https://www.oneidaindiannation.com)
 * [Oneida Nation (Wisconsin)](https://oneida-nsn.gov)
+* [Oneida County WI](https://oneidacountywi.com/)
+* [Oneida Indian Nation (New York)](https://www.oneidaindiannation.com)
 * [Oneida Digital Media](https://www.youtube.com/user/OneidaProductions)
 
 # Non-Language Books
