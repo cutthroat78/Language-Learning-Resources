@@ -156,6 +156,8 @@
 | Oneida | [WIP]() | Canada: [Done](https://github.com/cutthroat78/Oneida-Canada-Wordlist), Wisconsin: [Already Exists](https://www.uwgb.edu/dictionary/) | [WIP](https://github.com/cutthroat78/Oneida-Anki-Deck) | To Do | To Do |
 | toki pona | To Do | To Do | To Do | To Do | [WIP](https://github.com/cutthroat78/LibreLingo-toki-pona-From-English) |
 | Onondaga | To Do | To Do | To Do | To Do | To Do |
+| Wappo | To Do | To Do | To Do | To Do | To Do |
+| Yuki | To Do | To Do | To Do | To Do | To Do |
 | Wenja | To Do | To Do | To Do | To Do | To Do |
 
 # Language Tracker Table
