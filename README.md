@@ -1,4 +1,4 @@
-# Langauge Learning Resources
+# Language Learning Resources
 A repo full of lists of resources to help learn (human) languages
 
 [Github Pages](https://cutthroat78.github.io/Language-Learning-Resources)
