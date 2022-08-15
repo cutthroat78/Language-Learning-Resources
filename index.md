@@ -1,8 +1,5 @@
 # North American Indigenous Languages
 
-## USA
-
-## Canada
 <!--
 [Language Resources (Not Categorised By Langauge)](Language-Resources.md)
 # Languages
@@ -18,3 +15,7 @@
 - [Esperanto](Languages/Constructed/Esperanto.md)
 - [Wenja](Languages/Constructed/Wenja.md)
 --->
+
+# Other
+
+- [Microsoft Dingbats (Wingdings, Webdings, etc.)](languages/other/wingdings.md)
