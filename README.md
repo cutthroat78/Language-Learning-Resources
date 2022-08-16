@@ -16,6 +16,11 @@ Requests for language pages to be made can be done using issues, if you have pag
 - Make list of steps when creating a page for a language
 - Do tutorial (video & word article) on setting up anki for my anki decks
 - https://en.wikipedia.org/wiki/List_of_Australian_Aboriginal_languages - Get all languages from this and put in table
+- do page for Standary Galactic/minecraft enchantment table alphabet
+- do page for morse code
+- do page for NATO phonetic alphabet
+- do page for pig latin
+- look into making page for Ogham
 
 ## Example sections for Language pages
 
