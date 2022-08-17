@@ -1,4 +1,4 @@
-# Microsoft Dingbats Fonts (Wingdings, Webdings, etc.)
+# Microsoft Dingbats Fonts (Wingdings (1, 2 & 3) & Webdings)
 
 Wingdings is a series of dingbat fonts that render letters as a variety of symbols. They were originally developed in 1990 by Microsoft by combining glyphs from Lucida Icons, Arrows, and Stars licensed from Charles Bigelow and Kris Holmes. [Read more about Wingdings on Wikipedia](https://en.wikipedia.org/wiki/Wingdings)
 
