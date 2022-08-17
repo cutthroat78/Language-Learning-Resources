@@ -18,4 +18,4 @@
 
 # Other
 
-- [Microsoft Dingbats Fonts (Wingdings, Webdings, etc.)](languages/other/wingdings.md)
+- [Microsoft Dingbats Fonts (Wingdings (1, 2 & 3) & Webdings)](languages/other/wingdings.md)
