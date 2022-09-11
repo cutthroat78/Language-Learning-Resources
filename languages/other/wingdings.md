@@ -4,8 +4,11 @@ Wingdings is a series of dingbat fonts that render letters as a variety of symbo
 
 Webdings is a TrueType dingbat typeface developed in 1997. It was initially distributed with Internet Explorer 4.0, then as part of Core fonts for the Web, and is included in all versions of Microsoft Windows since Windows 98. - [Read more about Webdings on Wikipedia](https://en.wikipedia.org/wiki/Webdings)
 
-## Resources to Learn Wingdings (1, 2 & 3) & Webdings
+## Resources
 - [Wingdings (1) Memrise Course (By Julia352)](https://app.memrise.com/course/914939/wingdings/)
+- [LingoJam Wingdings (1) Translator](https://lingojam.com/WingdingsTranslator)
+- [Android App: Gaster Dingbats: Wingdings translator (has Wingdings (1, 2 & 3) & Webdings)](https://play.google.com/store/apps/details?id=net.blackenvelope.write.dingbats)
+- [YouTube Video: Why the Wingdings font exists by Vox](https://youtu.be/JdKV1L1DJHc)
 
 ## Wingdings 1
 
@@ -35,4 +38,8 @@ Webdings is a TrueType dingbat typeface developed in 1997. It was initially dist
 - [Webdings - Wikipedia](https://en.wikipedia.org/wiki/Webdings)
 - [Image Used Source](http://speakingppt.com/finally-a-printable-character-map-of-the-wingdings-fonts/)
 - [Wingdings (1) Memrise Course (By Julia352)](https://app.memrise.com/course/914939/wingdings/)
+- [LingoJam Wingdings (1) Translator](https://lingojam.com/WingdingsTranslator)
+- [Android App: Gaster Dingbats: Wingdings translator (Wingdings (1, 2 & 3) & Webdings)](https://play.google.com/store/apps/details?id=net.blackenvelope.write.dingbats)
+- [YouTube Video: Why the Wingdings font exists by Vox](https://youtu.be/JdKV1L1DJHc)
+- [Old Website with Wingdings](http://copleys.com/wingdings/)
 -->
