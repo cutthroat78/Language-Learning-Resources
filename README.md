@@ -68,10 +68,12 @@ Requests for language pages to be made can be done using GitHub issues, if you h
 
 # Misc Notes
 ## Shelta
-```(Also known as Cant, Gammon, Irish Traveler Cant, Sheldru, The Cant, Shelter)
-Shelta in Shelta is: De Gammon```
-
 ```
+(Also known as Cant, Gammon, Irish Traveler Cant, Sheldru, The Cant, Shelter)
+Shelta in Shelta is: De Gammon
+
+_
+
 ## Non-Langauge
 - [Mincéirí Tori: Conversations on Irish Traveller Language](https://youtu.be/7-kXhy-O1dU)
 - [Traveller Living Language](https://youtu.be/J6YdRd-mBtU)
