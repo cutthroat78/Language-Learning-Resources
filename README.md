@@ -3,7 +3,7 @@ A repo full of lists of resources to help learn (human) languages
 
 [Github Pages](https://cutthroat78.github.io/Language-Learning-Resources)
 
-Requests for language pages to be made can be done using issues, if you have page, resources or anything else you would like to add, please make a pull request
+Requests for language pages to be made can be done using GitHub issues, if you have resources or anything else you would like to add, please make a pull request
 
 [Tracker Tables](Tracker.md)
 
@@ -67,20 +67,6 @@ Requests for language pages to be made can be done using issues, if you have pag
 - www.language-archives.org/language/wao
 
 # Misc Notes
-## Oneida
-```
-Oneida has three variations/dialects
-1. Oneida (Canada)/Oneida (Southwold)
-2. Oneida (Wisconsin)/Oneida (Green Bay)
-3. Oneida (New York)
-```
-```
-# Non-Language
-* [Oneida Nation of the Thames (Canada) Website](https://oneida.on.ca)
-* [Oneida Nation (Wisconsin)](https://oneida-nsn.gov)
-* [Oneida County WI](https://oneidacountywi.com/)
-* [Oneida Indian Nation (New York)](https://www.oneidaindiannation.com)
-* [Oneida Digital Media](https://www.youtube.com/user/OneidaProductions)
 
 # Non-Language Books
 * [The Oneida Indian Journey: From New York to Wisconsin, 1784-1860](https://books.google.com/books?id=etd7IYXRaIoC&dq=oneida)
