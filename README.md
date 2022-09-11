@@ -3,7 +3,9 @@ A repo full of lists of resources to help learn (human) languages
 
 [Github Pages](https://cutthroat78.github.io/Language-Learning-Resources)
 
-Requests for language pages to be made can be done using GitHub issues, if you have resources or anything else you would like to add, please make a pull request
+Requests for languages (or cipher/other) can be made using GitHub issues. 
+
+If you have resources or anything else you would like to add, please make a pull request or put them in a GitHub issue
 
 [Tracker Tables](Tracker.md)
 
