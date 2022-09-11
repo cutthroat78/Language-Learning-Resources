@@ -67,20 +67,6 @@ Requests for language pages to be made can be done using GitHub issues, if you h
 - www.language-archives.org/language/wao
 
 # Misc Notes
-
-# Non-Language Books
-* [The Oneida Indian Journey: From New York to Wisconsin, 1784-1860](https://books.google.com/books?id=etd7IYXRaIoC&dq=oneida)
-* [Oneida Iroquois Folklore, Myth, and History: New York Oral Narrative from the Notes of H. E. Allen and Others](https://books.google.com/books?id=9D0z42QgrxkC&dq=oneida)
-* [The Oneida Indians in the Age of Allotment, 1860-1920](https://books.google.com/books?id=tIbYS2EuYdIC&dq=thee+stories+in+oneida&redir_esc=y)
-* [The Bingo Queens of Oneida: How Two Moms Started Tribal Gaming in Wisconsin](https://books.google.com/books?id=4On7AwAAQBAJ&dq=the+Oneida+teaching+dictionary&redir_esc=y)
-* [The Oneida Indian Experience: Two Perspectives](https://books.google.ie/books?id=QsJWqn59gbwC&dq=thee+stories+in+oneida&redir_esc=y)
-* [The Oneidas](https://books.google.com/books?id=Yow-AAAAYAAJ&q=The+Oneidas&dq=The+Oneidas&hl=en)
-* [A Journey into Mohawk and Oneida Country, 1634-1635: The Journal of Harmen Meyndertsz Van Den Bogaert, Revised Edition](https://books.google.com/books?id=sYSiAgAAQBAJ&printsec=frontcover&dq=A+Journey+Into+Mohawk+and+Oneida+Country&hl=en&redir_esc=y)
-* [The Other American Governments: Tribal Governments in Transition from Dependency to Sovereignty](https://books.google.com/books/about/The_Other_American_Governments.html?id=BtrDoQEACAAJ&redir_esc=y)
-* Oneida Lives: Long-Lost Voices of the Wisconsin Oneidas: [Google Books](https://books.google.com/books/about/Oneida_Lives.html?id=WMtfN4sUrKoC&redir_esc=y) [Odysee](https://odysee.com/@Muse:3/174023:4)
-* The People of the Standing Stone: The Oneida Nation from Revolution through the Era of Removal: [Google Books](https://books.google.com/books/about/The_People_of_the_Standing_Stone.html?id=2TUjCig5QxEC&redir_esc=y) [Odysee](https://odysee.com/@Muse:3/172847:3)
-```
-
 ## Shelta
 ```(Also known as Cant, Gammon, Irish Traveler Cant, Sheldru, The Cant, Shelter)
 Shelta in Shelta is: De Gammon```
