@@ -25,3 +25,9 @@ Webdings is a TrueType dingbat typeface developed in 1997. It was initially dist
 |-|-|-|
 
 ![Wingdings 1,2,3 and Webdings Chart Image](wingdings.jpeg)
+
+<!--
+Resources List:
+- [Wingdings - Wikipedia](https://en.wikipedia.org/wiki/Wingdings)
+- [Webdings - Wikipedia](https://en.wikipedia.org/wiki/Webdings)
+-->
