@@ -25,6 +25,7 @@
 - [NATO Phonetic Alphabet]()
 - [Standard Galactic/Minecraft Enchantment Table Alphabet]()
 - [Pig Latin]()
+- [Ogham]()
 ## Ciphers
 
 - [A1Z26]()
