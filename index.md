@@ -4,7 +4,7 @@
 - [Yuki]()
 - [Wappo]()
 ## Iroquois (Haudenosaunee)
-- [Oneida]() <!--Sort out and then make public-->
+- [Oneida](languages/north-american-indigenous/iroquois/oneida.md) <!--Sort out and then make public-->
 <!--
 # European
 ## Ireland
