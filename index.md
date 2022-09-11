@@ -1,7 +1,8 @@
 <!--
 # North American Indigenous Languages
 ## Iroquois (Haudenosaunee)
-- [Oneida]()
+- [Oneida]() <!--Sort out and then make public-->
+<!--
 # European
 ## Ireland
 - [Shelta (Cant, Gammon)](Languages/Shelta.md)
@@ -11,7 +12,7 @@
 - [toki pona](Languages/Constructed/toki-pona.md)
 - [Esperanto](Languages/Constructed/Esperanto.md)
 - [Wenja](Languages/Constructed/Wenja.md)
---->
+-->
 
 # Other
 
