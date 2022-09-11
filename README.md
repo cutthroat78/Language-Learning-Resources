@@ -14,9 +14,8 @@ Requests for language pages to be made can be done using issues, if you have pag
 - Braille for all languages (It's "child systems")
 - Label links in tables
 - Make list of steps when creating a page for a language
-- Do tutorial (video & word article) on setting up anki for my anki decks
+- Do tutorial (video & word article) on setting up anki for people to use my anki decks
 - https://en.wikipedia.org/wiki/List_of_Australian_Aboriginal_languages - Get all languages from this and put in table
-- look into making page and anki deck for Ogham
 
 ## Example sections for Language pages
 
