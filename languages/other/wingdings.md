@@ -18,23 +18,23 @@ Webdings is a TrueType dingbat typeface developed in 1997. It was initially dist
 
 ## Wingdings 1 Chart
 
-| Character | Wingdings 1 Character | Wingdings 1 Character Image |
-|-|-|-|
+| Character | Wingdings 1 Character <!--Uses TTF--> | Wingdings 1 Character Image | Unicode Equivalent |
+|-|-|-|-|
 
 ## Wingdings 2 Chart
 
-| Character | Wingdings 2 Character | Wingdings 2 Character Image |
-|-|-|-|
+| Character | Wingdings 2 Character <!--Uses TTF--> | Wingdings 2 Character Image | Unicode Equivalent |
+|-|-|-|-|
 
 ## Wingdings 3 Chart
 
-| Character | Wingdings 3 Character | Wingdings 3 Character Image |
-|-|-|-|
+| Character | Wingdings 3 Character <!--Uses TTF--> | Wingdings 3 Character Image | Unicode Equivalent |
+|-|-|-|-|
 
 ## Webdings Chart
 
-| Character | Webdings Character | Webdings Character Image | 
-|-|-|-|
+| Character | Webdings Character <!--Uses TTF--> | Webdings Character Image | Unicode Equivalent |
+|-|-|-|-|
 
 <!--
 ## Resources List
