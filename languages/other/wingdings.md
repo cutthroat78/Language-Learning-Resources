@@ -10,6 +10,8 @@ Webdings is a TrueType dingbat typeface developed in 1997. It was initially dist
 - [LingoJam Wingdings (1) Translator 2](https://lingojam.com/WingdingsTranslator)
 - [Android App: Gaster Dingbats: Wingdings translator (has Wingdings (1, 2 & 3) & Webdings)](https://play.google.com/store/apps/details?id=net.blackenvelope.write.dingbats)
 - [YouTube Video: Why the Wingdings font exists by Vox](https://youtu.be/JdKV1L1DJHc)
+- [Microsoft Docs Typography: Webdings font family](https://docs.microsoft.com/en-us/typography/font-list/webdings)
+- [Wingdings 1 Translator from fontvilla.com](https://fontvilla.com/wingdings-translator/)
 
 ![Wingdings 1,2,3 and Webdings Chart Image](wingdings/chart.png)
 
@@ -43,5 +45,7 @@ Webdings is a TrueType dingbat typeface developed in 1997. It was initially dist
 - [LingoJam Wingdings (1) Translator 2](https://lingojam.com/WingdingsTranslator)
 - [Android App: Gaster Dingbats: Wingdings translator (Wingdings (1, 2 & 3) & Webdings)](https://play.google.com/store/apps/details?id=net.blackenvelope.write.dingbats)
 - [YouTube Video: Why the Wingdings font exists by Vox](https://youtu.be/JdKV1L1DJHc)
+- [Microsoft Docs Typography: Webdings font family](https://docs.microsoft.com/en-us/typography/font-list/webdings)
+- [Wingdings 1 Translator from fontvilla.com](https://fontvilla.com/wingdings-translator/)
 - [Old Website with Wingdings](http://copleys.com/wingdings/)
 -->
