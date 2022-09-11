@@ -1,5 +1,12 @@
 # Oneida
 
+<!--Add Short Description and History of Language Here-->
+
+Oneida has three variations/dialects:
+1. Oneida (Canada) (Also Known as: Oneida (Southwold))
+2. Oneida (Wisconsin) (Also Known as: Oneida (Green Bay))
+3. Oneida (New York)
+
 <!--
 # Oneida
 
@@ -68,4 +75,11 @@
 | Three stories in Oneida: [Google Books](https://books.google.com/books?id=ejRNEQ0AXN0C&q=thee+stories+in+oneida&dq=thee+stories+in+oneida&hl=en) [Odysee](https://odysee.com/@Muse:3/165070:7) | To List | Not decided yet | No |
 | [Glimpses of Oneida Life](https://books.google.com/books?id=N9kQDAAAQBAJ&dq=glimpse+oneida&redir_esc=y) - Contains some Oneida language with translations | To List | Not decided yet | No |
 | [The Oneida Creation Story](https://books.google.com/books?id=9mX3POXvpvsC&dq=thee+stories+in+oneida&redir_esc=y) - Contains some Oneida language with translations | To List | Not decided yet | No |
+
+# Non-Language
+* [Oneida Nation of the Thames (Canada) Website](https://oneida.on.ca)
+* [Oneida Nation (Wisconsin)](https://oneida-nsn.gov)
+* [Oneida County WI](https://oneidacountywi.com/)
+* [Oneida Indian Nation (New York)](https://www.oneidaindiannation.com)
+* [Oneida Digital Media](https://www.youtube.com/user/OneidaProductions)
 -->
