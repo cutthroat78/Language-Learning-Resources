@@ -4,6 +4,9 @@ Wingdings is a series of dingbat fonts that render letters as a variety of symbo
 
 Webdings is a TrueType dingbat typeface developed in 1997. It was initially distributed with Internet Explorer 4.0, then as part of Core fonts for the Web, and is included in all versions of Microsoft Windows since Windows 98. - [Read more about Webdings on Wikipedia](https://en.wikipedia.org/wiki/Webdings)
 
+## Resources to Learn Wingdings (1, 2 & 3) & Webdings
+- [Wingdings (1) Memrise Course (By Julia352)](https://app.memrise.com/course/914939/wingdings/)
+
 ## Wingdings 1
 
 | Character | Wingdings 1 Character | Wingdings 1 Character Image |
@@ -31,4 +34,5 @@ Webdings is a TrueType dingbat typeface developed in 1997. It was initially dist
 - [Wingdings - Wikipedia](https://en.wikipedia.org/wiki/Wingdings)
 - [Webdings - Wikipedia](https://en.wikipedia.org/wiki/Webdings)
 - [Image Used Source](http://speakingppt.com/finally-a-printable-character-map-of-the-wingdings-fonts/)
+- [Wingdings (1) Memrise Course (By Julia352)](https://app.memrise.com/course/914939/wingdings/)
 -->
