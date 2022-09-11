@@ -67,17 +67,6 @@ Requests for language pages to be made can be done using issues, if you have pag
 - www.language-archives.org/language/wao
 
 # Misc Notes
-## Yuki Non-Language Links
-- [Know Lake County - Yuki Indians](https://youtu.be/tnEM3Ky3nsA)
-## Wappo Non-language Links
-First Source is quite good video to watch when starting to learn the language
-- [Learning the Wappo Language - YouTube](https://youtu.be/wPjOUPMfGeE)
-
-- [Native Blessing from Local Tribal Nations: Ohlone, Miwok, Pomo, and Wappo - YouTube](https://youtu.be/_eJhZKrdTT0)
-- [Insights into Pomo and Wappo Basketry Webinar - YouTube](https://youtu.be/8HJuI5vQzZE)
-- [Wappo Tribe (Part 1) - YouTube](https://youtu.be/9LpmRPIkPJc)
-- [Traditional Ecological Practices for Fire - YouTube](https://youtube.com/watch?v=bO8OwZbc8VI&feature=share)
-- [Clint McKay: Pomo and Wappo Baskets - YouTube](https://youtube.com/watch?v=6LwajH7kMJo&feature=share)
 ## Oneida
 ```
 Oneida has three variations/dialects
