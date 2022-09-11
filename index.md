@@ -1,5 +1,8 @@
 <!--
 # North American Indigenous Languages
+## Yuki-Wappo
+- [Yuki]()
+- [Wappo]()
 ## Iroquois (Haudenosaunee)
 - [Oneida]() <!--Sort out and then make public-->
 <!--
