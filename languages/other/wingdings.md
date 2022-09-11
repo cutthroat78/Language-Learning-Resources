@@ -11,27 +11,27 @@ Webdings is a TrueType dingbat typeface developed in 1997. It was initially dist
 - [Android App: Gaster Dingbats: Wingdings translator (has Wingdings (1, 2 & 3) & Webdings)](https://play.google.com/store/apps/details?id=net.blackenvelope.write.dingbats)
 - [YouTube Video: Why the Wingdings font exists by Vox](https://youtu.be/JdKV1L1DJHc)
 
-## Wingdings 1
+![Wingdings 1,2,3 and Webdings Chart Image](wingdings/chart.png)
+
+## Wingdings 1 Chart
 
 | Character | Wingdings 1 Character | Wingdings 1 Character Image |
 |-|-|-|
 
-## Wingdings 2
+## Wingdings 2 Chart
 
 | Character | Wingdings 2 Character | Wingdings 2 Character Image |
 |-|-|-|
 
-## Wingdings 3
+## Wingdings 3 Chart
 
 | Character | Wingdings 3 Character | Wingdings 3 Character Image |
 |-|-|-|
 
-## Webdings
+## Webdings Chart
 
 | Character | Webdings Character | Webdings Character Image | 
 |-|-|-|
-
-![Wingdings 1,2,3 and Webdings Chart Image](wingdings/chart.png)
 
 <!--
 ## Resources List
