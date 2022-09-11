@@ -6,7 +6,8 @@ Webdings is a TrueType dingbat typeface developed in 1997. It was initially dist
 
 ## Resources
 - [Wingdings (1) Memrise Course (By Julia352)](https://app.memrise.com/course/914939/wingdings/)
-- [LingoJam Wingdings (1) Translator](https://lingojam.com/WingdingsTranslator)
+- [LingoJam Wingdings (1) Translator 1](https://lingojam.com/WingDing)
+- [LingoJam Wingdings (1) Translator 2](https://lingojam.com/WingdingsTranslator)
 - [Android App: Gaster Dingbats: Wingdings translator (has Wingdings (1, 2 & 3) & Webdings)](https://play.google.com/store/apps/details?id=net.blackenvelope.write.dingbats)
 - [YouTube Video: Why the Wingdings font exists by Vox](https://youtu.be/JdKV1L1DJHc)
 
@@ -38,7 +39,8 @@ Webdings is a TrueType dingbat typeface developed in 1997. It was initially dist
 - [Webdings - Wikipedia](https://en.wikipedia.org/wiki/Webdings)
 - [Image Used Source](http://speakingppt.com/finally-a-printable-character-map-of-the-wingdings-fonts/)
 - [Wingdings (1) Memrise Course (By Julia352)](https://app.memrise.com/course/914939/wingdings/)
-- [LingoJam Wingdings (1) Translator](https://lingojam.com/WingdingsTranslator)
+- [LingoJam Wingdings (1) Translator 1](https://lingojam.com/WingDing)
+- [LingoJam Wingdings (1) Translator 2](https://lingojam.com/WingdingsTranslator)
 - [Android App: Gaster Dingbats: Wingdings translator (Wingdings (1, 2 & 3) & Webdings)](https://play.google.com/store/apps/details?id=net.blackenvelope.write.dingbats)
 - [YouTube Video: Why the Wingdings font exists by Vox](https://youtu.be/JdKV1L1DJHc)
 - [Old Website with Wingdings](http://copleys.com/wingdings/)
