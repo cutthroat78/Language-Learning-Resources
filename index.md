@@ -1,10 +1,7 @@
 <!--
-# North American Indigenous Languages
 ## Yuki-Wappo
 - [Yuki]()
 - [Wappo]()
-## Iroquois (Haudenosaunee)
-- [Oneida](languages/north-american-indigenous/iroquois/oneida.md) <!--Sort out and then make public-->
 <!--
 # European
 ## Ireland
@@ -17,15 +14,22 @@
 - [Wenja](Languages/Constructed/Wenja.md)
 -->
 
+# North American Indigenous Languages
+## Iroquois (Haudenosaunee)
+- Oneida: [Guide & Resources](resources-and-guides/north-american-indigenous/iroquois/oneida.md) - [Anki Deck](anki/north-american-indigenous/iroquois/oneida)
+  - Oneida (Canada): [Vocab](vocab/north-american-indigenous/iroquois/oneida-canada/README.md)
+
 # Other
 
-- [Microsoft Dingbats Fonts (Wingdings (1, 2 & 3) & Webdings)](languages/other/wingdings.md) <!-- 1. Finish Page 2. Anki Deck-->
+- [Microsoft Dingbats Fonts (Wingdings (1, 2 & 3) & Webdings)](resources-and-guides/other/wingdings/wingdings.md) <!-- 1. Finish Page 2. Anki Deck-->
+
 <!--
 - [Morse Code]()
 - [NATO Phonetic Alphabet]()
 - [Standard Galactic/Minecraft Enchantment Table Alphabet]()
 - [Pig Latin]()
 - [Ogham]()
+
 ## Ciphers
 
 - [A1Z26]()
