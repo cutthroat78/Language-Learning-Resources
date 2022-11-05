@@ -16,7 +16,7 @@
 
 # North American Indigenous Languages
 ## Iroquois (Haudenosaunee)
-- Oneida: [Guide & Resources](resources-and-guides/north-american-indigenous/iroquois/oneida.md) - [Anki Deck](anki/north-american-indigenous/iroquois/oneida)
+- Oneida: [Guide & Resources](resources-and-guides/north-american-indigenous/iroquois/oneida.md) - [Anki Deck](https://github.com/cutthroat78/Language-Learning-Resources/releases/download/Oneida-Anki-Deck/oneida.apkg)
   - Oneida (Canada): [Vocab](vocab/north-american-indigenous/iroquois/oneida-canada/README.md)
 
 # Other
