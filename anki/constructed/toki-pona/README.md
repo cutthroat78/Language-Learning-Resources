@@ -1,6 +1,4 @@
-# toki pona Anki Deck
-
-This repo was last updated on 05/11/2022
+This deck was last updated on 05/11/2022
 
 ## This deck was made using
 - [Linku](https://lipu-linku.github.io)

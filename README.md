@@ -13,6 +13,7 @@ If you have resources or anything else you would like to add, please make a pull
 
 - Look at [this](https://polyglotclub.com/wiki/Language/Multiple-languages/Culture/Internet-resources-for-polyglots) for section ideas
 - Maybe make program that can look up if resource exists for certain language and give link if so
+- put all current resources in their own file for each language and put all resources under heading (2) of "Resourfes"
 - Braille for all languages (It's "child systems")
 - Label links in tables
 - Make list of steps when creating a page for a language

@@ -7,20 +7,21 @@
 - [toki pona](Languages/Constructed/toki-pona.md) - [Anki Deck](https://github.com/cutthroat78/Language-Learning-Resources/releases/download/toki-pona-Anki-Deck/toki-pona.apkg)
 
 <!--
-- [Esperanto](Languages/Constructed/Esperanto.md)
-- [Wenja](Languages/Constructed/Wenja.md)
--->
+- [Esperanto](Languages/Constructed/esperanto.md)
+- [Wenja](Languages/Constructed/wenja.md)
 
-<!--
+## Iroquois
+- [Cherokee](resources-and-guides/north-american-indigenous/iroquois/cherokee.md)
+
 ## Yuki-Wappo
 - [Yuki]()
 - [Wappo]()
 <!--
 # European
 ## Ireland
-- [Shelta (Cant, Gammon)](Languages/Shelta.md)
+- [Shelta (Cant, Gammon)]()
 # Sign Languages
-- [Japanese Sign Language (JSL)](Languages/Sign-Langauge/Japanese-Sign-Langauge.md)
+- [Japanese Sign Language (JSL)]()
 -->
 # Other
 
