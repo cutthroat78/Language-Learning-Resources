@@ -1,257 +1,257 @@
 id,word,sitelen_pona,sitelen_sitelen,sitelen_emosi,luka_pona,audio/kala_asi,audio/jan_lakuse,definition_english,tags
-a,a,"<img src=”sp-a.png"">","<img src=”t47_nimi_a.jpg"">",❗,,[sound:a_kala-asi.mp3],[sound:a_jan-lakuse.mp3],"(emphasis, emotion or confirmation)","core, pu"
-akesi,akesi,"<img src=”sp-akesi.png"">","<img src=”t47_nimi_akesi.jpg"">",🦎,"<img src=”akesi.gif"">",[sound:akesi_kala-asi.mp3],[sound:akesi_jan-lakuse.mp3],"non-cute animal; reptile, amphibian","core, pu"
-ala,ala,"<img src=”sp-ala.png"">","<img src=”t47_nimi_ala.jpg"">",❌,"<img src=”ala.gif"">",[sound:ala_kala-asi.mp3],[sound:ala_jan-lakuse.mp3],"no, not, zero; [~ ala ~] (used to form a yes-no question); nothing","core, pu"
-alasa,alasa,"<img src=”sp-alasa.png"">","<img src=”t47_nimi_alasa.jpg"">",🏹,"<img src=”alasa.gif"">",[sound:alasa_kala-asi.mp3],[sound:alasa_jan-lakuse.mp3],"to hunt, forage, seek | ALT (pv.) try to, attempt","core, pu"
-ale,ale,"<img src=”sp-ale.png"">","<img src=”t47_nimi_ale.jpg"">",♾️,"<img src=”ale.gif"">",[sound:ale_kala-asi.mp3],[sound:ale_jan-lakuse.mp3],"all; abundant, countless, bountiful, every, plentiful; abundance, everything, life, universe; one hundred | ALT 100","core, pu"
-anpa,anpa,"<img src=”sp-anpa.png"">","<img src=”t47_nimi_anpa.jpg"">",⬇️,"<img src=”anpa.gif"">",[sound:anpa_kala-asi.mp3],[sound:anpa_jan-lakuse.mp3],"bowing down, downward, humble, lowly, dependent | ALT bottom, lower part, under, below, floor, beneath; low, lower, bottom, down","core, pu"
-ante,ante,"<img src=”sp-ante.png"">","<img src=”t47_nimi_ante.jpg"">",🔀,"<img src=”ante.gif"">",[sound:ante_kala-asi.mp3],[sound:ante_jan-lakuse.mp3],"different, altered, changed, other","core, pu"
-anu,anu,"<img src=”sp-anu.png"">","<img src=”t47_nimi_anu.jpg"">",☯️,"<img src=”anu.gif"">",[sound:anu_kala-asi.mp3],[sound:anu_jan-lakuse.mp3],"or | ALT choose, decide","core, pu"
-awen,awen,"<img src=”sp-awen.png"">","<img src=”t47_nimi_awen.jpg"">",⚓,"<img src=”awen.gif"">",[sound:awen_kala-asi.mp3],[sound:awen_jan-lakuse.mp3],"enduring, kept, protected, safe, waiting, staying; (pv.) to continue to, to keep","core, pu"
-e,e,"<img src=”sp-e.png"">","<img src=”t47_nimi_e.jpg"">",⏩,,[sound:e_kala-asi.mp3],[sound:e_jan-lakuse.mp3],(before the direct object),"core, pu"
-en,en,"<img src=”sp-en.png"">","<img src=”t47_nimi_en.jpg"">",➕,"<img src=”en.gif"">",[sound:en_kala-asi.mp3],[sound:en_jan-lakuse.mp3],(between multiple subjects),"core, pu"
-esun,esun,"<img src=”sp-esun.png"">","<img src=”t47_nimi_esun.jpg"">",🛒,"<img src=”esun.gif"">",[sound:esun_kala-asi.mp3],[sound:esun_jan-lakuse.mp3],"market, shop, fair, bazaar, business transaction","core, pu"
-ijo,ijo,"<img src=”sp-ijo.png"">","<img src=”t47_nimi_ijo.jpg"">",🐚,"<img src=”ijo.gif"">",[sound:ijo_kala-asi.mp3],[sound:ijo_jan-lakuse.mp3],"thing, phenomenon, object, matter","core, pu"
-ike,ike,"<img src=”sp-ike.png"">","<img src=”t47_nimi_ike.jpg"">",👎,"<img src=”ike.gif"">",[sound:ike_kala-asi.mp3],[sound:ike_jan-lakuse.mp3],"bad, negative; non-essential, irrelevant | ALT complicated, complex","core, pu"
-ilo,ilo,"<img src=”sp-ilo.png"">","<img src=”t47_nimi_ilo.jpg"">",⚙️,"<img src=”ilo.gif"">",[sound:ilo_kala-asi.mp3],[sound:ilo_jan-lakuse.mp3],"tool, implement, machine, device","core, pu"
-insa,insa,"<img src=”sp-insa.png"">","<img src=”t47_nimi_insa.jpg"">",⏺️,"<img src=”insa.gif"">",[sound:insa_kala-asi.mp3],[sound:insa_jan-lakuse.mp3],"centre, content, inside, between; internal organ, stomach","core, pu"
-jaki,jaki,"<img src=”sp-jaki.png"">","<img src=”t47_nimi_jaki.jpg"">",💩,"<img src=”jaki.gif"">",[sound:jaki_kala-asi.mp3],[sound:jaki_jan-lakuse.mp3],"disgusting, obscene, sickly, toxic, unclean, unsanitary","core, pu"
-jan,jan,"<img src=”sp-jan.png"">","<img src=”t47_nimi_jan.jpg"">",👤,"<img src=”jan.gif"">",[sound:jan_kala-asi.mp3],[sound:jan_jan-lakuse.mp3],"human being, person, somebody","core, pu"
-jelo,jelo,"<img src=”sp-jelo.png"">","<img src=”t47_nimi_jelo.jpg"">",💛,"<img src=”jelo.gif"">",[sound:jelo_kala-asi.mp3],[sound:jelo_jan-lakuse.mp3],"yellow, yellowish","core, pu"
-jo,jo,"<img src=”sp-jo.png"">","<img src=”t47_nimi_jo.jpg"">",👜,"<img src=”jo.gif"">",[sound:jo_kala-asi.mp3],[sound:jo_jan-lakuse.mp3],"to have, carry, contain, hold","core, pu"
-kala,kala,"<img src=”sp-kala.png""> <img src=”sp-kala2.png"">","<img src=”t47_nimi_kala.jpg"">",🐟,"<img src=”kala.gif"">",[sound:kala_kala-asi.mp3],[sound:kala_jan-lakuse.mp3],"fish, marine animal, sea creature","core, pu"
-kalama,kalama,"<img src=”sp-kalama.png"">","<img src=”t47_nimi_kalama.jpg"">",🔈,"<img src=”kalama.gif"">",[sound:kalama_kala-asi.mp3],[sound:kalama_jan-lakuse.mp3],"to produce a sound; recite, utter aloud","core, pu"
-kama,kama,"<img src=”sp-kama.png"">","<img src=”t47_nimi_kama.jpg"">",🚶,,[sound:kama_kala-asi.mp3],[sound:kama_jan-lakuse.mp3],"arriving, coming, future, summoned; (pv.) to become, manage to, succeed in","core, pu"
-kasi,kasi,"<img src=”sp-kasi.png"">","<img src=”t47_nimi_kasi.jpg"">",🌴,"<img src=”kasi.gif"">",[sound:kasi_kala-asi.mp3],[sound:kasi_jan-lakuse.mp3],"plant, vegetation; herb, leaf","core, pu"
-ken,ken,"<img src=”sp-ken.png"">","<img src=”t47_nimi_ken.jpg"">",💪,"<img src=”ken.gif"">",[sound:ken_kala-asi.mp3],[sound:ken_jan-lakuse.mp3],"to be able to, be allowed to, can, may; possible","core, pu"
-kepeken,kepeken,"<img src=”sp-kepeken.png"">","<img src=”t47_nimi_kepeken.jpg"">",🔧,"<img src=”kepeken.gif"">",[sound:kepeken_kala-asi.mp3],[sound:kepeken_jan-lakuse.mp3],"to use, with, by means of","core, pu"
-kili,kili,"<img src=”sp-kili.png"">","<img src=”t47_nimi_kili.jpg"">",🍎,"<img src=”kili.gif"">",[sound:kili_kala-asi.mp3],[sound:kili_jan-lakuse.mp3],"fruit, vegetable, mushroom","core, pu"
-kiwen,kiwen,"<img src=”sp-kiwen.png"">","<img src=”t47_nimi_kiwen.jpg"">",💎,"<img src=”kiwen.gif"">",[sound:kiwen_kala-asi.mp3],[sound:kiwen_jan-lakuse.mp3],"hard object, metal, rock, stone","core, pu"
-ko,ko,"<img src=”sp-ko.png"">","<img src=”t47_nimi_ko.jpg"">",🍦,"<img src=”ko.gif"">",[sound:ko_kala-asi.mp3],[sound:ko_jan-lakuse.mp3],"clay, clinging form, dough, semi-solid, paste, powder","core, pu"
-kon,kon,"<img src=”sp-kon.png"">","<img src=”t47_nimi_kon.jpg"">",💨,"<img src=”kon.gif"">",[sound:kon_kala-asi.mp3],[sound:kon_jan-lakuse.mp3],"air, breath; essence, spirit; hidden reality, unseen agent","core, pu"
-kule,kule,"<img src=”sp-kule.png"">","<img src=”t47_nimi_kule.jpg"">",🌈,"<img src=”kule.gif"">",[sound:kule_kala-asi.mp3],[sound:kule_jan-lakuse.mp3],"colorful, pigmented, painted | ALT of or relating to the LGBT+ community","core, pu"
-kulupu,kulupu,"<img src=”sp-kulupu.png"">","<img src=”t47_nimi_kulupu.jpg"">",👥,"<img src=”kulupu.gif"">",[sound:kulupu_kala-asi.mp3],[sound:kulupu_jan-lakuse.mp3],"community, company, group, nation, society, tribe","core, pu"
-kute,kute,"<img src=”sp-kute.png"">","<img src=”t47_nimi_kute.jpg"">",👂,"<img src=”kute.gif"">",[sound:kute_kala-asi.mp3],[sound:kute_jan-lakuse.mp3],"ear; to hear, listen; pay attention to, obey","core, pu"
-la,la,"<img src=”sp-la.png"">","<img src=”t47_nimi_la.jpg"">",🔼,"<img src=”la.gif"">",[sound:la_kala-asi.mp3],[sound:la_jan-lakuse.mp3],(between the context phrase and the main sentence),"core, pu"
-lape,lape,"<img src=”sp-lape.png"">","<img src=”t47_nimi_lape.jpg"">",😴,"<img src=”lape.gif"">",[sound:lape_kala-asi.mp3],[sound:lape_jan-lakuse.mp3],"sleeping, resting","core, pu"
-laso,laso,"<img src=”sp-laso.png"">","<img src=”t47_nimi_laso.jpg"">",🔵,"<img src=”laso.gif"">",[sound:laso_kala-asi.mp3],[sound:laso_jan-lakuse.mp3],"blue, green","core, pu"
-lawa,lawa,"<img src=”sp-lawa.png"">","<img src=”t47_nimi_lawa.jpg"">",😶,"<img src=”lawa.gif"">",[sound:lawa_kala-asi.mp3],[sound:lawa_jan-lakuse.mp3],"head, mind; to control, direct, guide, lead, own, plan, regulate, rule","core, pu"
-len,len,"<img src=”sp-len.png"">","<img src=”t47_nimi_len.jpg"">",👕,"<img src=”len.gif"">",[sound:len_kala-asi.mp3],[sound:len_jan-lakuse.mp3],"cloth, clothing, fabric, textile; cover, layer of privacy","core, pu"
-lete,lete,"<img src=”sp-lete.png"">","<img src=”t47_nimi_lete.jpg"">",❄️,"<img src=”lete.gif"">",[sound:lete_kala-asi.mp3],[sound:lete_jan-lakuse.mp3],"cold, cool; uncooked, raw","core, pu"
-li,li,"<img src=”sp-li.png"">","<img src=”t47_nimi_li.jpg"">",▶️,,[sound:li_kala-asi.mp3],[sound:li_jan-lakuse.mp3],(between any subject except mi alone or sina alone and its verb; also to introduce a new verb for the same subject),"core, pu"
-lili,lili,"<img src=”sp-lili.png"">","<img src=”t47_nimi_lili.jpg"">",🐭,"<img src=”lili.gif"">",[sound:lili_kala-asi.mp3],[sound:lili_jan-lakuse.mp3],"little, small, short; few; a bit; young","core, pu"
-linja,linja,"<img src=”sp-linja.png"">","<img src=”t47_nimi_linja.jpg"">",〰️,"<img src=”linja.gif"">",[sound:linja_kala-asi.mp3],[sound:linja_jan-lakuse.mp3],"long and flexible thing; cord, hair, rope, thread, yarn | ALT line, connection","core, pu"
-lipu,lipu,"<img src=”sp-lipu.png"">","<img src=”t47_nimi_lipu.jpg"">",📄,"<img src=”lipu.gif"">",[sound:lipu_kala-asi.mp3],[sound:lipu_jan-lakuse.mp3],"flat object; book, document, card, paper, record, website","core, pu"
-loje,loje,"<img src=”sp-loje.png"">","<img src=”t47_nimi_loje.jpg"">",🔴,"<img src=”loje.gif"">",[sound:loje_kala-asi.mp3],[sound:loje_jan-lakuse.mp3],"red, reddish","core, pu"
-lon,lon,"<img src=”sp-lon.png"">","<img src=”t47_nimi_lon.jpg"">",📍,"<img src=”lon.gif"">",[sound:lon_kala-asi.mp3],[sound:lon_jan-lakuse.mp3],"located at, present at, real, true, existing | ALT (affirmative response)","core, pu"
-luka,luka,"<img src=”sp-luka.png"">","<img src=”t47_nimi_luka.jpg"">",✋,"<img src=”luka.gif"">",[sound:luka_kala-asi.mp3],[sound:luka_jan-lakuse.mp3],"arm, hand, tactile organ; five | ALT touch/feel physically, interact, press","core, pu"
-lukin,lukin,"<img src=”sp-lukin.png"">","<img src=”t47_nimi_lukin.jpg"">",👀,"<img src=”lukin.gif"">",[sound:lukin_kala-asi.mp3],[sound:lukin_jan-lakuse.mp3],"eye; look at, see, examine, observe, read, watch; look for, seek; (pv.) try to","core, pu"
-lupa,lupa,"<img src=”sp-lupa.png"">","<img src=”t47_nimi_lupa.jpg"">",🕳️,"<img src=”lupa.gif"">",[sound:lupa_kala-asi.mp3],[sound:lupa_jan-lakuse.mp3],"door, hole, orifice, window","core, pu"
-ma,ma,"<img src=”sp-ma.png"">","<img src=”t47_nimi_ma.jpg"">",🏝️,"<img src=”ma.gif"">",[sound:ma_kala-asi.mp3],[sound:ma_jan-lakuse.mp3],"earth, land; outdoors, world; country, territory; soil","core, pu"
-mama,mama,"<img src=”sp-mama.png"">","<img src=”t47_nimi_mama.jpg"">",👪,"<img src=”mama.gif"">",[sound:mama_kala-asi.mp3],[sound:mama_jan-lakuse.mp3],"parent, ancestor; creator, originator; caretaker, sustainer","core, pu"
-mani,mani,"<img src=”sp-mani.png"">","<img src=”t47_nimi_mani.jpg"">",💰,"<img src=”mani.gif"">",[sound:mani_kala-asi.mp3],[sound:mani_jan-lakuse.mp3],"money, cash, savings, wealth; large domesticated animal","core, pu"
-mi,mi,"<img src=”sp-mi.png"">","<img src=”t47_nimi_mi.jpg"">",👈,"<img src=”mi.gif"">",[sound:mi_kala-asi.mp3],[sound:mi_jan-lakuse.mp3],"I, me, we, us","core, pu"
-moku,moku,"<img src=”sp-moku.png"">","<img src=”t47_nimi_moku.jpg"">",🍽️,"<img src=”moku.gif"">",[sound:moku_kala-asi.mp3],[sound:moku_jan-lakuse.mp3],"to eat, drink, consume, swallow, ingest","core, pu"
-moli,moli,"<img src=”sp-moli.png"">","<img src=”t47_nimi_moli.jpg"">",💀,"<img src=”moli.gif"">",[sound:moli_kala-asi.mp3],[sound:moli_jan-lakuse.mp3],"dead, dying","core, pu"
-monsi,monsi,"<img src=”sp-monsi.png"">","<img src=”t47_nimi_monsi.jpg"">",⬅️,"<img src=”monsi.gif"">",[sound:monsi_kala-asi.mp3],[sound:monsi_jan-lakuse.mp3],"back, behind, rear","core, pu"
-mu,mu,"<img src=”sp-mu.png""> <img src=”sp-mu2.png"">","<img src=”t47_nimi_mu.jpg"">",😹,"<img src=”mu.gif"">",[sound:mu_kala-asi.mp3],[sound:mu_jan-lakuse.mp3],(animal noise or communication) | ALT (non-speech vocalization),"core, pu"
-mun,mun,"<img src=”sp-mun.png"">","<img src=”t47_nimi_mun.jpg"">",🌙,"<img src=”mun.gif"">",[sound:mun_kala-asi.mp3],[sound:mun_jan-lakuse.mp3],"moon, night sky object, star | ALT glow, glowing light, light in the dark","core, pu"
-musi,musi,"<img src=”sp-musi.png"">","<img src=”t47_nimi_musi.jpg"">",😃,"<img src=”musi.gif"">",[sound:musi_kala-asi.mp3],[sound:musi_jan-lakuse.mp3],"artistic, entertaining, frivolous, playful, recreation","core, pu"
-mute,mute,"<img src=”sp-mute.png"">","<img src=”t47_nimi_mute.jpg"">",👐,"<img src=”mute.gif"">",[sound:mute_kala-asi.mp3],[sound:mute_jan-lakuse.mp3],"many, a lot, more, much, several, very; quantity | ALT three (or more), 20","core, pu"
-nanpa,nanpa,"<img src=”sp-nanpa.png"">","<img src=”t47_nimi_nanpa.jpg"">",#️⃣,"<img src=”nanpa.gif"">",[sound:nanpa_kala-asi.mp3],[sound:nanpa_jan-lakuse.mp3],-th (ordinal number); numbers,"core, pu"
-nasa,nasa,"<img src=”sp-nasa.png"">","<img src=”t47_nimi_nasa.jpg"">",🌀,"<img src=”nasa.gif"">",[sound:nasa_kala-asi.mp3],[sound:nasa_jan-lakuse.mp3],"unusual, strange; silly; drunk, intoxicated","core, pu"
-nasin,nasin,"<img src=”sp-nasin.png"">","<img src=”t47_nimi_nasin.jpg"">",🛣️,"<img src=”nasin.gif"">",[sound:nasin_kala-asi.mp3],[sound:nasin_jan-lakuse.mp3],"way, custom, doctrine, method, path, road","core, pu"
-nena,nena,"<img src=”sp-nena.png"">","<img src=”t47_nimi_nena.jpg"">",🗻,"<img src=”nena.gif"">",[sound:nena_kala-asi.mp3],[sound:nena_jan-lakuse.mp3],"bump, button, hill, mountain, nose, protuberance","core, pu"
-ni,ni,"<img src=”sp-ni.png""> <img src=”sp-ni2.png"">","<img src=”t47_nimi_ni.jpg"">",👇,"<img src=”ni.gif"">",[sound:ni_kala-asi.mp3],[sound:ni_jan-lakuse.mp3],"that, this","core, pu"
-nimi,nimi,"<img src=”sp-nimi.png"">","<img src=”t47_nimi_nimi.jpg"">",💬,"<img src=”nimi.gif"">",[sound:nimi_kala-asi.mp3],[sound:nimi_jan-lakuse.mp3],"name, word","core, pu"
-noka,noka,"<img src=”sp-noka.png"">","<img src=”t47_nimi_noka.jpg"">",🦵,"<img src=”noka.gif"">",[sound:noka_kala-asi.mp3],[sound:noka_jan-lakuse.mp3],"foot, leg, organ of locomotion; bottom, lower part | ALT ten; twenty; negative five","core, pu"
-o,o,"<img src=”sp-o.png"">","<img src=”t47_nimi_o.jpg"">",👋,"<img src=”o.gif"">",[sound:o_kala-asi.mp3],[sound:o_jan-lakuse.mp3],"hey! O! (vocative, imperative, or optative)","core, pu"
-olin,olin,"<img src=”sp-olin.png""> <img src=”sp-olin2.png"">","<img src=”t47_nimi_olin.jpg"">",💕,"<img src=”olin.gif"">",[sound:olin_kala-asi.mp3],[sound:olin_jan-lakuse.mp3],"love, have compassion for, respect, show affection to","core, pu"
-ona,ona,"<img src=”sp-ona.png"">","<img src=”t47_nimi_ona.jpg"">",👆,"<img src=”ona.gif"">",[sound:ona_kala-asi.mp3],[sound:ona_jan-lakuse.mp3],"he, she, it, they","core, pu"
-open,open,"<img src=”sp-open.png"">","<img src=”t47_nimi_open.jpg"">",🔓,"<img src=”open.gif"">",[sound:open_kala-asi.mp3],[sound:open_jan-lakuse.mp3],"begin, start; open; turn on","core, pu"
-pakala,pakala,"<img src=”sp-pakala.png"">","<img src=”t47_nimi_pakala.jpg"">",💥,"<img src=”pakala.gif"">",[sound:pakala_kala-asi.mp3],[sound:pakala_jan-lakuse.mp3],"botched, broken, damaged, harmed, messed up | ALT (curse expletive, e.g. fuck!)","core, pu"
-pali,pali,"<img src=”sp-pali.png"">","<img src=”t47_nimi_pali.jpg"">",✊,"<img src=”pali.gif"">",[sound:pali_kala-asi.mp3],[sound:pali_jan-lakuse.mp3],"do, take action on, work on; build, make, prepare","core, pu"
-palisa,palisa,"<img src=”sp-palisa.png"">","<img src=”t47_nimi_palisa.jpg"">",📏,"<img src=”palisa.gif"">",[sound:palisa_kala-asi.mp3],[sound:palisa_jan-lakuse.mp3],"long hard thing; branch, rod, stick","core, pu"
-pan,pan,"<img src=”sp-pan.png"">","<img src=”t47_nimi_pan.jpg"">",🍞,"<img src=”pan.gif"">",[sound:pan_kala-asi.mp3],[sound:pan_jan-lakuse.mp3],"cereal, grain; barley, corn, oat, rice, wheat; bread, pasta","core, pu"
-pana,pana,"<img src=”sp-pana.png"">","<img src=”t47_nimi_pana.jpg"">",📤,"<img src=”pana.gif"">",[sound:pana_kala-asi.mp3],[sound:pana_jan-lakuse.mp3],"give, send, emit, provide, put, release","core, pu"
-pi,pi,"<img src=”sp-pi.png"">","<img src=”t47_nimi_pi.jpg"">",⏹️,"<img src=”pi.gif"">",[sound:pi_kala-asi.mp3],[sound:pi_jan-lakuse.mp3],of (used to divide a second noun group that describes a first noun group) | ALT (introduces a genitive noun),"core, pu"
-pilin,pilin,"<img src=”sp-pilin.png"">","<img src=”t47_nimi_pilin.jpg"">",❤️,"<img src=”pilin.gif"">",[sound:pilin_kala-asi.mp3],[sound:pilin_jan-lakuse.mp3],"heart (physical or emotional); feeling (an emotion, a direct experience)","core, pu"
-pimeja,pimeja,"<img src=”sp-pimeja.png"">","<img src=”t47_nimi_pimeja.jpg"">",⚫,"<img src=”pimeja.gif"">",,[sound:pimeja_jan-lakuse.mp3],"black, dark, unlit","core, pu"
-pini,pini,"<img src=”sp-pini.png"">","<img src=”t47_nimi_pini.jpg"">",🏁,"<img src=”pini.gif"">",[sound:pini_kala-asi.mp3],[sound:pini_jan-lakuse.mp3],"ago, completed, ended, finished, past","core, pu"
-pipi,pipi,"<img src=”sp-pipi.png"">","<img src=”t47_nimi_pipi.jpg"">",🐞,"<img src=”pipi.gif"">",[sound:pipi_kala-asi.mp3],[sound:pipi_jan-lakuse.mp3],"bug, insect, ant, spider","core, pu"
-poka,poka,"<img src=”sp-poka.png"">","<img src=”t47_nimi_poka.jpg"">",↔️,"<img src=”poka.gif"">",[sound:poka_kala-asi.mp3],[sound:poka_jan-lakuse.mp3],"hip, side; next to, nearby, vicinity | ALT along with (comitative), beside","core, pu"
-poki,poki,"<img src=”sp-poki.png"">","<img src=”t47_nimi_poki.jpg"">",📦,"<img src=”poki.gif"">",[sound:poki_kala-asi.mp3],[sound:poki_jan-lakuse.mp3],"container, bag, bowl, box, cup, cupboard, drawer, vessel","core, pu"
-pona,pona,"<img src=”sp-pona.png"">","<img src=”t47_nimi_pona.jpg"">",👍,"<img src=”pona.gif"">",[sound:pona_kala-asi.mp3],[sound:pona_jan-lakuse.mp3],"good, positive, useful; friendly, peaceful; simple","core, pu"
-pu,pu,"<img src=”sp-pu.png"">",,📖,,[sound:pu_kala-asi.mp3],[sound:pu_jan-lakuse.mp3],interacting with the official Toki Pona book,"core, pu"
-sama,sama,"<img src=”sp-sama.png"">","<img src=”t47_nimi_sama.jpg"">",⚖️,"<img src=”sama.gif"">",[sound:sama_kala-asi.mp3],[sound:sama_jan-lakuse.mp3],"same, similar; each other; sibling, peer, fellow; as, like","core, pu"
-seli,seli,"<img src=”sp-seli.png"">","<img src=”t47_nimi_seli.jpg"">",🔥,"<img src=”seli.gif"">",[sound:seli_kala-asi.mp3],[sound:seli_jan-lakuse.mp3],"fire; cooking element, chemical reaction, heat source","core, pu"
-selo,selo,"<img src=”sp-selo.png"">","<img src=”t47_nimi_selo.jpg"">",🔲,"<img src=”selo.gif"">",[sound:selo_kala-asi.mp3],[sound:selo_jan-lakuse.mp3],"outer form, outer layer; bark, peel, shell, skin; boundary","core, pu"
-seme,seme,"<img src=”sp-seme.png"">","<img src=”t47_nimi_seme.jpg"">",❓,"<img src=”seme.gif"">",[sound:seme_kala-asi.mp3],[sound:seme_jan-lakuse.mp3],what? which?,"core, pu"
-sewi,sewi,"<img src=”sp-sewi.png""> <img src=”sp-sewi2.png"">","<img src=”t47_nimi_sewi.jpg"">",⬆️,"<img src=”sewi.gif"">",[sound:sewi_kala-asi.mp3],[sound:sewi_jan-lakuse.mp3],"area above, highest part, something elevated; awe-inspiring, divine, sacred, supernatural","core, pu"
-sijelo,sijelo,"<img src=”sp-sijelo.png"">","<img src=”t47_nimi_sijelo.jpg"">",🏋️,"<img src=”sijelo.gif"">",[sound:sijelo_kala-asi.mp3],[sound:sijelo_jan-lakuse.mp3],"body (of person or animal), physical state, torso","core, pu"
-sike,sike,"<img src=”sp-sike.png"">","<img src=”t47_nimi_sike.jpg"">",⭕,"<img src=”sike.gif"">",[sound:sike_kala-asi.mp3],[sound:sike_jan-lakuse.mp3],"round or circular thing; ball, circle, cycle, sphere, wheel; of one year","core, pu"
-sin,sin,"<img src=”sp-sin.png"">","<img src=”t47_nimi_sin.jpg"">",🎁,"<img src=”sin.gif"">",[sound:sin_kala-asi.mp3],[sound:sin_jan-lakuse.mp3],"new, fresh; additional, another, extra","core, pu"
-sina,sina,"<img src=”sp-sina.png"">","<img src=”t47_nimi_sina.jpg"">",👉,"<img src=”sina.gif"">",[sound:sina_kala-asi.mp3],[sound:sina_jan-lakuse.mp3],you,"core, pu"
-sinpin,sinpin,"<img src=”sp-sinpin.png"">","<img src=”t47_nimi_sinpin.jpg"">",➡️,"<img src=”sinpin.gif"">",[sound:sinpin_kala-asi.mp3],[sound:sinpin_jan-lakuse.mp3],"face, foremost, front, wall","core, pu"
-sitelen,sitelen,"<img src=”sp-sitelen.png"">","<img src=”t47_nimi_sitelen.jpg"">",🖼️,"<img src=”sitelen.gif"">",[sound:sitelen_kala-asi.mp3],[sound:sitelen_jan-lakuse.mp3],"image, picture, representation, symbol, mark, writing","core, pu"
-sona,sona,"<img src=”sp-sona.png"">","<img src=”t47_nimi_sona.jpg"">",🧠,"<img src=”sona.gif"">",[sound:sona_kala-asi.mp3],[sound:sona_jan-lakuse.mp3],"know, be skilled in, be wise about, have information on; (pv.) know how to","core, pu"
-soweli,soweli,"<img src=”sp-soweli.png"">","<img src=”t47_nimi_soweli.jpg"">",🐒,"<img src=”soweli.gif"">",[sound:soweli_kala-asi.mp3],[sound:soweli_jan-lakuse.mp3],"animal, beast, land mammal","core, pu"
-suli,suli,"<img src=”sp-suli.png"">","<img src=”t47_nimi_suli.jpg"">",🐘,"<img src=”suli.gif"">",[sound:suli_kala-asi.mp3],[sound:suli_jan-lakuse.mp3],"big, heavy, large, long, tall; important; adult","core, pu"
-suno,suno,"<img src=”sp-suno.png"">","<img src=”t47_nimi_suno.jpg"">",☀️,"<img src=”suno.gif"">",[sound:suno_kala-asi.mp3],[sound:suno_jan-lakuse.mp3],"sun; light, brightness, glow, radiance, shine; light source","core, pu"
-supa,supa,"<img src=”sp-supa.png"">","<img src=”t47_nimi_supa.jpg"">",🛏️,"<img src=”supa.gif"">",[sound:supa_kala-asi.mp3],[sound:supa_jan-lakuse.mp3],"horizontal surface, thing to put or rest something on","core, pu"
-suwi,suwi,"<img src=”sp-suwi.png"">","<img src=”t47_nimi_suwi.jpg"">",🍭,"<img src=”suwi.gif"">",[sound:suwi_kala-asi.mp3],[sound:suwi_jan-lakuse.mp3],"sweet, fragrant; cute, innocent, adorable","core, pu"
-tan,tan,"<img src=”sp-tan.png"">","<img src=”t47_nimi_tan.jpg"">",↩️,"<img src=”tan.gif"">",[sound:tan_kala-asi.mp3],[sound:tan_jan-lakuse.mp3],"by, from, because of; origin, cause","core, pu"
-taso,taso,"<img src=”sp-taso.png"">","<img src=”t47_nimi_taso.jpg"">",🤔,"<img src=”taso.gif"">",[sound:taso_kala-asi.mp3],[sound:taso_jan-lakuse.mp3],"but, however; only","core, pu"
-tawa,tawa,"<img src=”sp-tawa.png"">","<img src=”t47_nimi_tawa.jpg"">",↪️,"<img src=”tawa.gif"">",[sound:tawa_kala-asi.mp3],[sound:tawa_jan-lakuse.mp3],"going to, toward; for; from the perspective of; moving | ALT (pv.) going to","core, pu"
-telo,telo,"<img src=”sp-telo.png"">","<img src=”t47_nimi_telo.jpg"">",💧,"<img src=”telo.gif"">",[sound:telo_kala-asi.mp3],[sound:telo_jan-lakuse.mp3],"water, liquid, fluid, wet substance; beverages","core, pu"
-tenpo,tenpo,"<img src=”sp-tenpo.png"">","<img src=”t47_nimi_tenpo.jpg"">",⏰,"<img src=”tenpo.gif"">",[sound:tenpo_kala-asi.mp3],[sound:tenpo_jan-lakuse.mp3],"time, duration, moment, occasion, period, situation","core, pu"
-toki,toki,"<img src=”sp-toki.png"">","<img src=”t47_nimi_toki.jpg"">",🗣️,"<img src=”toki.gif"">",[sound:toki_kala-asi.mp3],[sound:toki_jan-lakuse.mp3],"communicate, say, speak, talk, use language, think; hello","core, pu"
-tomo,tomo,"<img src=”sp-tomo.png"">","<img src=”t47_nimi_tomo.jpg"">",🏠,"<img src=”tomo.gif"">",[sound:tomo_kala-asi.mp3],[sound:tomo_jan-lakuse.mp3],"indoor space; building, home, house, room","core, pu"
-tu,tu,"<img src=”sp-tu.png"">","<img src=”t47_nimi_tu.jpg"">",✌️,"<img src=”tu.gif"">",[sound:tu_kala-asi.mp3],[sound:tu_jan-lakuse.mp3],"two | ALT separate, cut","core, pu"
-unpa,unpa,"<img src=”sp-unpa.png"">","<img src=”t47_nimi_unpa.jpg"">",🍆,"<img src=”unpa.gif"">",[sound:unpa_kala-asi.mp3],[sound:unpa_jan-lakuse.mp3],have sexual relations with,"core, pu"
-uta,uta,"<img src=”sp-uta.png""> <img src=”sp-uta2.png""> ","<img src=”t47_nimi_uta.jpg"">",👄,"<img src=”uta.gif"">",[sound:uta_kala-asi.mp3],[sound:uta_jan-lakuse.mp3],"mouth, lips, oral cavity, jaw","core, pu"
-utala,utala,"<img src=”sp-utala.png"">","<img src=”t47_nimi_utala.jpg"">",⚔️,"<img src=”utala.gif"">",[sound:utala_kala-asi.mp3],[sound:utala_jan-lakuse.mp3],"battle, challenge, compete against, struggle against","core, pu"
-walo,walo,"<img src=”sp-walo.png"">","<img src=”t47_nimi_walo.jpg"">",⚪,"<img src=”walo.gif"">",[sound:walo_kala-asi.mp3],[sound:walo_jan-lakuse.mp3],"white, whitish; light-coloured, pale","core, pu"
-wan,wan,"<img src=”sp-wan.png"">","<img src=”t47_nimi_wan.jpg"">",☝️,"<img src=”wan.gif"">",[sound:wan_kala-asi.mp3],[sound:wan_jan-lakuse.mp3],"unique, united; one","core, pu"
-waso,waso,"<img src=”sp-waso.png"">","<img src=”t47_nimi_waso.jpg"">",🦅,"<img src=”waso.gif"">",[sound:waso_kala-asi.mp3],[sound:waso_jan-lakuse.mp3],"bird, flying creature, winged animal","core, pu"
-wawa,wawa,"<img src=”sp-wawa.png"">","<img src=”t47_nimi_wawa.jpg"">",⚡,"<img src=”wawa.gif"">",[sound:wawa_kala-asi.mp3],[sound:wawa_jan-lakuse.mp3],"strong, powerful; confident, sure; energetic, intense","core, pu"
-weka,weka,"<img src=”sp-weka.png"">","<img src=”t47_nimi_weka.jpg"">",🛫,"<img src=”weka.gif"">",[sound:weka_kala-asi.mp3],[sound:weka_jan-lakuse.mp3],"absent, away, ignored","core, pu"
-wile,wile,"<img src=”sp-wile.png""> <img src=”sp-wile2.png"">","<img src=”t47_nimi_wile.jpg"">",💭,"<img src=”wile.gif"">",[sound:wile_kala-asi.mp3],[sound:wile_jan-lakuse.mp3],"must, need, require, should, want, wish","core, pu"
-kijetesantakalu,kijetesantakalu,"<img src=”sp-kijetesantakalu.png"">","<img src=”t47_nimi_kijetesantakalu.jpg"">",🦝,"<img src=”kijetesantakalu.gif"">",[sound:kijetesantakalu_kala-asi.mp3],[sound:kijetesantakalu_jan-lakuse.mp3],"any animal from the Procyonidae family, such as raccoons, coatis, kinkajous, olingos, ringtails and cacomistles | ALT any animal from the Musteloidea superfamily, including raccoons, weasels, otters, skunks, and red pandas","widespread, ku suli"
-kin,kin,"<img src=”sp-kin.png"">","<img src=”t47_nimi_kin.jpg"">",❕,,[sound:kin_kala-asi.mp3],[sound:kin_jan-lakuse.mp3],"{see a} | ALT indeed, too, also, as well","widespread, ku suli"
-kipisi,kipisi,"<img src=”sp-kipisi.png"">","<img src=”t47_nimi_kipisi.jpg"">",✂️,"<img src=”kipisi.gif"">",[sound:kipisi_kala-asi.mp3],[sound:kipisi_jan-lakuse.mp3],"split, cut, slice, sever; sharp","widespread, ku suli"
-ku,ku,"<img src=”sp-ku.png"">",,,,,[sound:ku_jan-lakuse.mp3],interacting with the Toki Pona Dictionary by Sonja Lang,"widespread, ku suli"
-leko,leko,"<img src=”sp-leko.png"">","<img src=”t47_nimi_leko.jpg"">",🧱,"<img src=”leko.gif"">",,[sound:leko_jan-lakuse.mp3],"stairs, square, block, corner, cube","widespread, ku suli"
-meli,meli,"<img src=”sp-meli.png""> <img src=”sp-meli2.png"">","<img src=”t47_nimi_meli.jpg"">",👧,"<img src=”meli.gif"">",[sound:meli_kala-asi.mp3],[sound:meli_jan-lakuse.mp3],"woman, female, feminine person; wife","widespread, pu"
-mije,mije,"<img src=”sp-mije.png""> <img src=”sp-mije2.png"">","<img src=”t47_nimi_mije.jpg"">",👨,"<img src=”mije.gif"">",[sound:mije_kala-asi.mp3],[sound:mije_jan-lakuse.mp3],"man, male, masculine person; husband","widespread, pu"
-monsuta,monsuta,"<img src=”sp-monsuta.png"">","<img src=”t47_nimi_monsuta.jpg"">",👹,"<img src=”monsuta.gif"">",[sound:monsuta_kala-asi.mp3],[sound:monsuta_jan-lakuse.mp3],"fear, dread; monster, predator; threat, danger","widespread, ku suli"
-namako,namako,"<img src=”sp-namako.png""> <img src=”sp-namako2.png"">","<img src=”t47_nimi_namako.jpg"">",🧂,,[sound:namako_kala-asi.mp3],[sound:namako_jan-lakuse.mp3],"{see sin} | ALT embellishment, spice; extra, additional","widespread, ku suli"
-soko,soko,"<img src=”sp-soko.png"">","<img src=”t47_nimi_soko.jpg"">",🍄,,,[sound:soko_jan-lakuse.mp3],"fungus, fungi","widespread, ku suli"
-tonsi,tonsi,"<img src=”sp-tonsi.png"">","<img src=”t47_nimi_tonsi.jpg"">",♐,,[sound:tonsi_kala-asi.mp3],[sound:tonsi_jan-lakuse.mp3],"non-binary, gender-non-conforming | ALT trans, non-cisgender","widespread, ku suli"
-lanpan,lanpan,"<img src=”sp-lanpan.png""> <img src=”sp-lanpan3.png"">","<img src=”t47_nimi_lanpan.jpg"">",📥,,,[sound:lanpan_jan-lakuse.mp3],"take, seize, catch, receive, get","common, ku suli"
-meso,meso,"<img src=”sp-meso.png""> <img src=”sp-meso2.png"">","<img src=”t47_nimi_meso.jpg"">",,"<img src=”meso.gif"">",,[sound:meso_jan-lakuse.mp3],"midpoint, medium, mediocre; neither one not the other, neither fully is nor isn't","common, ku suli"
-misikeke,misikeke,"<img src=”sp-misikeke.png"">","<img src=”t47_nimi_misekeke.jpg"">",💊,"<img src=”misikeke.gif"">",,[sound:misikeke_jan-lakuse.mp3],"medicine, medical","common, ku suli"
-n,n,"<img src=”sp-n.png"">","<img src=”t47_nimi_n.jpg"">",,,,[sound:n_jan-lakuse.mp3],"(indicates thinking, pondering, recognition, agreement, or humming)","common, ku suli"
-oko,oko,"<img src=”sp-oko.png"">","<img src=”t47_nimi_oko.jpg"">",👁️,"<img src=”oko.gif"">",[sound:oko_kala-asi.mp3],[sound:oko_jan-lakuse.mp3],"{see lukin} | ALT eye, ocular, visual {cf. lukin}","common, ku suli"
-ali,ali,"<img src=”sp-ali.png"">",,♾️,,[sound:ali_kala-asi.mp3],[sound:ali_jan-lakuse.mp3],[alternate form of ale],"uncommon, pu"
-apeja,apeja,"<img src=”sp-apeja.png"">",,😢,,,,"guilt, shame, shun, stigma, disgrace; to accuse, to single out, to expose, to dishonor, to embarrass","uncommon,ku lili"
-epiku,epiku,"<img src=”sp-epiku.png""> <img src=”sp-epiku1.png"">","<img src=”t47_nimi_epiku.jpg"">",😎,,,[sound:epiku_jan-lakuse.mp3],"epic, cool, awesome, amazing","uncommon, ku suli"
-jasima,jasima,"<img src=”sp-jasima.png"">","<img src=”t47_nimi_jasima.jpg"">",,,,[sound:jasima_jan-lakuse.mp3],"reflect, resound, mirror, be on the opposite/polar end of","uncommon, ku suli"
-kiki,kiki,"<img src=”sp-kiki.png"">",,,"<img src=”kiki.gif"">",,,"spiky, sharp, angle, point, triangular","uncommon,ku lili"
-kokosila,kokosila,"<img src=”sp-kokosila.png""> <img src=”sp-kokosila2.png"">","<img src=”t47_nimi_kokosila.jpg"">",,,,[sound:kokosila_jan-lakuse.mp3],to speak a non-Toki Pona language in an environment where Toki Pona is more appropriate,"uncommon, ku suli"
-linluwi,linluwi,"<img src=”sp-linluwi.png""> <img src=”sp-linluwi2.png"">",,🌐,,,,"network, internet, connection; weave, braid, interlace","uncommon,ku lili"
-majuna,majuna,"<img src=”sp-majuna.png""> <img src=”sp-majuna2.png"">",,👵,,,[sound:majuna_jan-lakuse.mp3],"old, aged, ancient","uncommon,ku lili"
-powe,powe,"<img src=”sp-powe.png"">",,🧞,,,[sound:powe_jan-lakuse.mp3],"unreal, false, untrue; pretend; deceive, trick","uncommon,ku lili"
-isipin,isipin,"<img src=”sp-isipin.png"">",,,"<img src=”isipin.gif"">",,,"to think, brainstorm, rationalize, conclude, ponder ","rare, ku lili"
-kapesi,kapesi,"<img src=”sp-kapesi.png""> <img src=”sp-kapesi2.png"">",,🟤,,,,"brown, gray","rare, ku lili"
-misa,misa,"<img src=”sp-misa.png""> <img src=”sp-misa5.png"">",,,,,,"Glires or Eulipotyphla; rat, mouse, squirrel, rabbit, rodent; {~ suli} capybara","rare, ku lili"
+a,a,"<img src=""sp-a.png"">","<img src=""t47_nimi_a.jpg"">",❗,,[sound:a_kala-asi.mp3],[sound:a_jan-lakuse.mp3],"(emphasis, emotion or confirmation)",core pu
+akesi,akesi,"<img src=""sp-akesi.png"">","<img src=""t47_nimi_akesi.jpg"">",🦎,"<img src=""akesi.gif"">",[sound:akesi_kala-asi.mp3],[sound:akesi_jan-lakuse.mp3],"non-cute animal; reptile, amphibian",core pu
+ala,ala,"<img src=""sp-ala.png"">","<img src=""t47_nimi_ala.jpg"">",❌,"<img src=""ala.gif"">",[sound:ala_kala-asi.mp3],[sound:ala_jan-lakuse.mp3],"no, not, zero; [~ ala ~] (used to form a yes-no question); nothing",core pu
+alasa,alasa,"<img src=""sp-alasa.png"">","<img src=""t47_nimi_alasa.jpg"">",🏹,"<img src=""alasa.gif"">",[sound:alasa_kala-asi.mp3],[sound:alasa_jan-lakuse.mp3],"to hunt, forage, seek | ALT (pv.) try to, attempt",core pu
+ale,ale,"<img src=""sp-ale.png"">","<img src=""t47_nimi_ale.jpg"">",♾️,"<img src=""ale.gif"">",[sound:ale_kala-asi.mp3],[sound:ale_jan-lakuse.mp3],"all; abundant, countless, bountiful, every, plentiful; abundance, everything, life, universe; one hundred | ALT 100",core pu
+anpa,anpa,"<img src=""sp-anpa.png"">","<img src=""t47_nimi_anpa.jpg"">",⬇️,"<img src=""anpa.gif"">",[sound:anpa_kala-asi.mp3],[sound:anpa_jan-lakuse.mp3],"bowing down, downward, humble, lowly, dependent | ALT bottom, lower part, under, below, floor, beneath; low, lower, bottom, down",core pu
+ante,ante,"<img src=""sp-ante.png"">","<img src=""t47_nimi_ante.jpg"">",🔀,"<img src=""ante.gif"">",[sound:ante_kala-asi.mp3],[sound:ante_jan-lakuse.mp3],"different, altered, changed, other",core pu
+anu,anu,"<img src=""sp-anu.png"">","<img src=""t47_nimi_anu.jpg"">",☯️,"<img src=""anu.gif"">",[sound:anu_kala-asi.mp3],[sound:anu_jan-lakuse.mp3],"or | ALT choose, decide",core pu
+awen,awen,"<img src=""sp-awen.png"">","<img src=""t47_nimi_awen.jpg"">",⚓,"<img src=""awen.gif"">",[sound:awen_kala-asi.mp3],[sound:awen_jan-lakuse.mp3],"enduring, kept, protected, safe, waiting, staying; (pv.) to continue to, to keep",core pu
+e,e,"<img src=""sp-e.png"">","<img src=""t47_nimi_e.jpg"">",⏩,,[sound:e_kala-asi.mp3],[sound:e_jan-lakuse.mp3],(before the direct object),core pu
+en,en,"<img src=""sp-en.png"">","<img src=""t47_nimi_en.jpg"">",➕,"<img src=""en.gif"">",[sound:en_kala-asi.mp3],[sound:en_jan-lakuse.mp3],(between multiple subjects),core pu
+esun,esun,"<img src=""sp-esun.png"">","<img src=""t47_nimi_esun.jpg"">",🛒,"<img src=""esun.gif"">",[sound:esun_kala-asi.mp3],[sound:esun_jan-lakuse.mp3],"market, shop, fair, bazaar, business transaction",core pu
+ijo,ijo,"<img src=""sp-ijo.png"">","<img src=""t47_nimi_ijo.jpg"">",🐚,"<img src=""ijo.gif"">",[sound:ijo_kala-asi.mp3],[sound:ijo_jan-lakuse.mp3],"thing, phenomenon, object, matter",core pu
+ike,ike,"<img src=""sp-ike.png"">","<img src=""t47_nimi_ike.jpg"">",👎,"<img src=""ike.gif"">",[sound:ike_kala-asi.mp3],[sound:ike_jan-lakuse.mp3],"bad, negative; non-essential, irrelevant | ALT complicated, complex",core pu
+ilo,ilo,"<img src=""sp-ilo.png"">","<img src=""t47_nimi_ilo.jpg"">",⚙️,"<img src=""ilo.gif"">",[sound:ilo_kala-asi.mp3],[sound:ilo_jan-lakuse.mp3],"tool, implement, machine, device",core pu
+insa,insa,"<img src=""sp-insa.png"">","<img src=""t47_nimi_insa.jpg"">",⏺️,"<img src=""insa.gif"">",[sound:insa_kala-asi.mp3],[sound:insa_jan-lakuse.mp3],"centre, content, inside, between; internal organ, stomach",core pu
+jaki,jaki,"<img src=""sp-jaki.png"">","<img src=""t47_nimi_jaki.jpg"">",💩,"<img src=""jaki.gif"">",[sound:jaki_kala-asi.mp3],[sound:jaki_jan-lakuse.mp3],"disgusting, obscene, sickly, toxic, unclean, unsanitary",core pu
+jan,jan,"<img src=""sp-jan.png"">","<img src=""t47_nimi_jan.jpg"">",👤,"<img src=""jan.gif"">",[sound:jan_kala-asi.mp3],[sound:jan_jan-lakuse.mp3],"human being, person, somebody",core pu
+jelo,jelo,"<img src=""sp-jelo.png"">","<img src=""t47_nimi_jelo.jpg"">",💛,"<img src=""jelo.gif"">",[sound:jelo_kala-asi.mp3],[sound:jelo_jan-lakuse.mp3],"yellow, yellowish",core pu
+jo,jo,"<img src=""sp-jo.png"">","<img src=""t47_nimi_jo.jpg"">",👜,"<img src=""jo.gif"">",[sound:jo_kala-asi.mp3],[sound:jo_jan-lakuse.mp3],"to have, carry, contain, hold",core pu
+kala,kala,"<img src=""sp-kala.png""> <img src=""sp-kala2.png"">","<img src=""t47_nimi_kala.jpg"">",🐟,"<img src=""kala.gif"">",[sound:kala_kala-asi.mp3],[sound:kala_jan-lakuse.mp3],"fish, marine animal, sea creature",core pu
+kalama,kalama,"<img src=""sp-kalama.png"">","<img src=""t47_nimi_kalama.jpg"">",🔈,"<img src=""kalama.gif"">",[sound:kalama_kala-asi.mp3],[sound:kalama_jan-lakuse.mp3],"to produce a sound; recite, utter aloud",core pu
+kama,kama,"<img src=""sp-kama.png"">","<img src=""t47_nimi_kama.jpg"">",🚶,,[sound:kama_kala-asi.mp3],[sound:kama_jan-lakuse.mp3],"arriving, coming, future, summoned; (pv.) to become, manage to, succeed in",core pu
+kasi,kasi,"<img src=""sp-kasi.png"">","<img src=""t47_nimi_kasi.jpg"">",🌴,"<img src=""kasi.gif"">",[sound:kasi_kala-asi.mp3],[sound:kasi_jan-lakuse.mp3],"plant, vegetation; herb, leaf",core pu
+ken,ken,"<img src=""sp-ken.png"">","<img src=""t47_nimi_ken.jpg"">",💪,"<img src=""ken.gif"">",[sound:ken_kala-asi.mp3],[sound:ken_jan-lakuse.mp3],"to be able to, be allowed to, can, may; possible",core pu
+kepeken,kepeken,"<img src=""sp-kepeken.png"">","<img src=""t47_nimi_kepeken.jpg"">",🔧,"<img src=""kepeken.gif"">",[sound:kepeken_kala-asi.mp3],[sound:kepeken_jan-lakuse.mp3],"to use, with, by means of",core pu
+kili,kili,"<img src=""sp-kili.png"">","<img src=""t47_nimi_kili.jpg"">",🍎,"<img src=""kili.gif"">",[sound:kili_kala-asi.mp3],[sound:kili_jan-lakuse.mp3],"fruit, vegetable, mushroom",core pu
+kiwen,kiwen,"<img src=""sp-kiwen.png"">","<img src=""t47_nimi_kiwen.jpg"">",💎,"<img src=""kiwen.gif"">",[sound:kiwen_kala-asi.mp3],[sound:kiwen_jan-lakuse.mp3],"hard object, metal, rock, stone",core pu
+ko,ko,"<img src=""sp-ko.png"">","<img src=""t47_nimi_ko.jpg"">",🍦,"<img src=""ko.gif"">",[sound:ko_kala-asi.mp3],[sound:ko_jan-lakuse.mp3],"clay, clinging form, dough, semi-solid, paste, powder",core pu
+kon,kon,"<img src=""sp-kon.png"">","<img src=""t47_nimi_kon.jpg"">",💨,"<img src=""kon.gif"">",[sound:kon_kala-asi.mp3],[sound:kon_jan-lakuse.mp3],"air, breath; essence, spirit; hidden reality, unseen agent",core pu
+kule,kule,"<img src=""sp-kule.png"">","<img src=""t47_nimi_kule.jpg"">",🌈,"<img src=""kule.gif"">",[sound:kule_kala-asi.mp3],[sound:kule_jan-lakuse.mp3],"colorful, pigmented, painted | ALT of or relating to the LGBT+ community",core pu
+kulupu,kulupu,"<img src=""sp-kulupu.png"">","<img src=""t47_nimi_kulupu.jpg"">",👥,"<img src=""kulupu.gif"">",[sound:kulupu_kala-asi.mp3],[sound:kulupu_jan-lakuse.mp3],"community, company, group, nation, society, tribe",core pu
+kute,kute,"<img src=""sp-kute.png"">","<img src=""t47_nimi_kute.jpg"">",👂,"<img src=""kute.gif"">",[sound:kute_kala-asi.mp3],[sound:kute_jan-lakuse.mp3],"ear; to hear, listen; pay attention to, obey",core pu
+la,la,"<img src=""sp-la.png"">","<img src=""t47_nimi_la.jpg"">",🔼,"<img src=""la.gif"">",[sound:la_kala-asi.mp3],[sound:la_jan-lakuse.mp3],(between the context phrase and the main sentence),core pu
+lape,lape,"<img src=""sp-lape.png"">","<img src=""t47_nimi_lape.jpg"">",😴,"<img src=""lape.gif"">",[sound:lape_kala-asi.mp3],[sound:lape_jan-lakuse.mp3],"sleeping, resting",core pu
+laso,laso,"<img src=""sp-laso.png"">","<img src=""t47_nimi_laso.jpg"">",🔵,"<img src=""laso.gif"">",[sound:laso_kala-asi.mp3],[sound:laso_jan-lakuse.mp3],"blue, green",core pu
+lawa,lawa,"<img src=""sp-lawa.png"">","<img src=""t47_nimi_lawa.jpg"">",😶,"<img src=""lawa.gif"">",[sound:lawa_kala-asi.mp3],[sound:lawa_jan-lakuse.mp3],"head, mind; to control, direct, guide, lead, own, plan, regulate, rule",core pu
+len,len,"<img src=""sp-len.png"">","<img src=""t47_nimi_len.jpg"">",👕,"<img src=""len.gif"">",[sound:len_kala-asi.mp3],[sound:len_jan-lakuse.mp3],"cloth, clothing, fabric, textile; cover, layer of privacy",core pu
+lete,lete,"<img src=""sp-lete.png"">","<img src=""t47_nimi_lete.jpg"">",❄️,"<img src=""lete.gif"">",[sound:lete_kala-asi.mp3],[sound:lete_jan-lakuse.mp3],"cold, cool; uncooked, raw",core pu
+li,li,"<img src=""sp-li.png"">","<img src=""t47_nimi_li.jpg"">",▶️,,[sound:li_kala-asi.mp3],[sound:li_jan-lakuse.mp3],(between any subject except mi alone or sina alone and its verb; also to introduce a new verb for the same subject),core pu
+lili,lili,"<img src=""sp-lili.png"">","<img src=""t47_nimi_lili.jpg"">",🐭,"<img src=""lili.gif"">",[sound:lili_kala-asi.mp3],[sound:lili_jan-lakuse.mp3],"little, small, short; few; a bit; young",core pu
+linja,linja,"<img src=""sp-linja.png"">","<img src=""t47_nimi_linja.jpg"">",〰️,"<img src=""linja.gif"">",[sound:linja_kala-asi.mp3],[sound:linja_jan-lakuse.mp3],"long and flexible thing; cord, hair, rope, thread, yarn | ALT line, connection",core pu
+lipu,lipu,"<img src=""sp-lipu.png"">","<img src=""t47_nimi_lipu.jpg"">",📄,"<img src=""lipu.gif"">",[sound:lipu_kala-asi.mp3],[sound:lipu_jan-lakuse.mp3],"flat object; book, document, card, paper, record, website",core pu
+loje,loje,"<img src=""sp-loje.png"">","<img src=""t47_nimi_loje.jpg"">",🔴,"<img src=""loje.gif"">",[sound:loje_kala-asi.mp3],[sound:loje_jan-lakuse.mp3],"red, reddish",core pu
+lon,lon,"<img src=""sp-lon.png"">","<img src=""t47_nimi_lon.jpg"">",📍,"<img src=""lon.gif"">",[sound:lon_kala-asi.mp3],[sound:lon_jan-lakuse.mp3],"located at, present at, real, true, existing | ALT (affirmative response)",core pu
+luka,luka,"<img src=""sp-luka.png"">","<img src=""t47_nimi_luka.jpg"">",✋,"<img src=""luka.gif"">",[sound:luka_kala-asi.mp3],[sound:luka_jan-lakuse.mp3],"arm, hand, tactile organ; five | ALT touch/feel physically, interact, press",core pu
+lukin,lukin,"<img src=""sp-lukin.png"">","<img src=""t47_nimi_lukin.jpg"">",👀,"<img src=""lukin.gif"">",[sound:lukin_kala-asi.mp3],[sound:lukin_jan-lakuse.mp3],"eye; look at, see, examine, observe, read, watch; look for, seek; (pv.) try to",core pu
+lupa,lupa,"<img src=""sp-lupa.png"">","<img src=""t47_nimi_lupa.jpg"">",🕳️,"<img src=""lupa.gif"">",[sound:lupa_kala-asi.mp3],[sound:lupa_jan-lakuse.mp3],"door, hole, orifice, window",core pu
+ma,ma,"<img src=""sp-ma.png"">","<img src=""t47_nimi_ma.jpg"">",🏝️,"<img src=""ma.gif"">",[sound:ma_kala-asi.mp3],[sound:ma_jan-lakuse.mp3],"earth, land; outdoors, world; country, territory; soil",core pu
+mama,mama,"<img src=""sp-mama.png"">","<img src=""t47_nimi_mama.jpg"">",👪,"<img src=""mama.gif"">",[sound:mama_kala-asi.mp3],[sound:mama_jan-lakuse.mp3],"parent, ancestor; creator, originator; caretaker, sustainer",core pu
+mani,mani,"<img src=""sp-mani.png"">","<img src=""t47_nimi_mani.jpg"">",💰,"<img src=""mani.gif"">",[sound:mani_kala-asi.mp3],[sound:mani_jan-lakuse.mp3],"money, cash, savings, wealth; large domesticated animal",core pu
+mi,mi,"<img src=""sp-mi.png"">","<img src=""t47_nimi_mi.jpg"">",👈,"<img src=""mi.gif"">",[sound:mi_kala-asi.mp3],[sound:mi_jan-lakuse.mp3],"I, me, we, us",core pu
+moku,moku,"<img src=""sp-moku.png"">","<img src=""t47_nimi_moku.jpg"">",🍽️,"<img src=""moku.gif"">",[sound:moku_kala-asi.mp3],[sound:moku_jan-lakuse.mp3],"to eat, drink, consume, swallow, ingest",core pu
+moli,moli,"<img src=""sp-moli.png"">","<img src=""t47_nimi_moli.jpg"">",💀,"<img src=""moli.gif"">",[sound:moli_kala-asi.mp3],[sound:moli_jan-lakuse.mp3],"dead, dying",core pu
+monsi,monsi,"<img src=""sp-monsi.png"">","<img src=""t47_nimi_monsi.jpg"">",⬅️,"<img src=""monsi.gif"">",[sound:monsi_kala-asi.mp3],[sound:monsi_jan-lakuse.mp3],"back, behind, rear",core pu
+mu,mu,"<img src=""sp-mu.png""> <img src=""sp-mu2.png"">","<img src=""t47_nimi_mu.jpg"">",😹,"<img src=""mu.gif"">",[sound:mu_kala-asi.mp3],[sound:mu_jan-lakuse.mp3],(animal noise or communication) | ALT (non-speech vocalization),core pu
+mun,mun,"<img src=""sp-mun.png"">","<img src=""t47_nimi_mun.jpg"">",🌙,"<img src=""mun.gif"">",[sound:mun_kala-asi.mp3],[sound:mun_jan-lakuse.mp3],"moon, night sky object, star | ALT glow, glowing light, light in the dark",core pu
+musi,musi,"<img src=""sp-musi.png"">","<img src=""t47_nimi_musi.jpg"">",😃,"<img src=""musi.gif"">",[sound:musi_kala-asi.mp3],[sound:musi_jan-lakuse.mp3],"artistic, entertaining, frivolous, playful, recreation",core pu
+mute,mute,"<img src=""sp-mute.png"">","<img src=""t47_nimi_mute.jpg"">",👐,"<img src=""mute.gif"">",[sound:mute_kala-asi.mp3],[sound:mute_jan-lakuse.mp3],"many, a lot, more, much, several, very; quantity | ALT three (or more), 20",core pu
+nanpa,nanpa,"<img src=""sp-nanpa.png"">","<img src=""t47_nimi_nanpa.jpg"">",#️⃣,"<img src=""nanpa.gif"">",[sound:nanpa_kala-asi.mp3],[sound:nanpa_jan-lakuse.mp3],-th (ordinal number); numbers,core pu
+nasa,nasa,"<img src=""sp-nasa.png"">","<img src=""t47_nimi_nasa.jpg"">",🌀,"<img src=""nasa.gif"">",[sound:nasa_kala-asi.mp3],[sound:nasa_jan-lakuse.mp3],"unusual, strange; silly; drunk, intoxicated",core pu
+nasin,nasin,"<img src=""sp-nasin.png"">","<img src=""t47_nimi_nasin.jpg"">",🛣️,"<img src=""nasin.gif"">",[sound:nasin_kala-asi.mp3],[sound:nasin_jan-lakuse.mp3],"way, custom, doctrine, method, path, road",core pu
+nena,nena,"<img src=""sp-nena.png"">","<img src=""t47_nimi_nena.jpg"">",🗻,"<img src=""nena.gif"">",[sound:nena_kala-asi.mp3],[sound:nena_jan-lakuse.mp3],"bump, button, hill, mountain, nose, protuberance",core pu
+ni,ni,"<img src=""sp-ni.png""> <img src=""sp-ni2.png"">","<img src=""t47_nimi_ni.jpg"">",👇,"<img src=""ni.gif"">",[sound:ni_kala-asi.mp3],[sound:ni_jan-lakuse.mp3],"that, this",core pu
+nimi,nimi,"<img src=""sp-nimi.png"">","<img src=""t47_nimi_nimi.jpg"">",💬,"<img src=""nimi.gif"">",[sound:nimi_kala-asi.mp3],[sound:nimi_jan-lakuse.mp3],"name, word",core pu
+noka,noka,"<img src=""sp-noka.png"">","<img src=""t47_nimi_noka.jpg"">",🦵,"<img src=""noka.gif"">",[sound:noka_kala-asi.mp3],[sound:noka_jan-lakuse.mp3],"foot, leg, organ of locomotion; bottom, lower part | ALT ten; twenty; negative five",core pu
+o,o,"<img src=""sp-o.png"">","<img src=""t47_nimi_o.jpg"">",👋,"<img src=""o.gif"">",[sound:o_kala-asi.mp3],[sound:o_jan-lakuse.mp3],"hey! O! (vocative, imperative, or optative)",core pu
+olin,olin,"<img src=""sp-olin.png""> <img src=""sp-olin2.png"">","<img src=""t47_nimi_olin.jpg"">",💕,"<img src=""olin.gif"">",[sound:olin_kala-asi.mp3],[sound:olin_jan-lakuse.mp3],"love, have compassion for, respect, show affection to",core pu
+ona,ona,"<img src=""sp-ona.png"">","<img src=""t47_nimi_ona.jpg"">",👆,"<img src=""ona.gif"">",[sound:ona_kala-asi.mp3],[sound:ona_jan-lakuse.mp3],"he, she, it, they",core pu
+open,open,"<img src=""sp-open.png"">","<img src=""t47_nimi_open.jpg"">",🔓,"<img src=""open.gif"">",[sound:open_kala-asi.mp3],[sound:open_jan-lakuse.mp3],"begin, start; open; turn on",core pu
+pakala,pakala,"<img src=""sp-pakala.png"">","<img src=""t47_nimi_pakala.jpg"">",💥,"<img src=""pakala.gif"">",[sound:pakala_kala-asi.mp3],[sound:pakala_jan-lakuse.mp3],"botched, broken, damaged, harmed, messed up | ALT (curse expletive, e.g. fuck!)",core pu
+pali,pali,"<img src=""sp-pali.png"">","<img src=""t47_nimi_pali.jpg"">",✊,"<img src=""pali.gif"">",[sound:pali_kala-asi.mp3],[sound:pali_jan-lakuse.mp3],"do, take action on, work on; build, make, prepare",core pu
+palisa,palisa,"<img src=""sp-palisa.png"">","<img src=""t47_nimi_palisa.jpg"">",📏,"<img src=""palisa.gif"">",[sound:palisa_kala-asi.mp3],[sound:palisa_jan-lakuse.mp3],"long hard thing; branch, rod, stick",core pu
+pan,pan,"<img src=""sp-pan.png"">","<img src=""t47_nimi_pan.jpg"">",🍞,"<img src=""pan.gif"">",[sound:pan_kala-asi.mp3],[sound:pan_jan-lakuse.mp3],"cereal, grain; barley, corn, oat, rice, wheat; bread, pasta",core pu
+pana,pana,"<img src=""sp-pana.png"">","<img src=""t47_nimi_pana.jpg"">",📤,"<img src=""pana.gif"">",[sound:pana_kala-asi.mp3],[sound:pana_jan-lakuse.mp3],"give, send, emit, provide, put, release",core pu
+pi,pi,"<img src=""sp-pi.png"">","<img src=""t47_nimi_pi.jpg"">",⏹️,"<img src=""pi.gif"">",[sound:pi_kala-asi.mp3],[sound:pi_jan-lakuse.mp3],of (used to divide a second noun group that describes a first noun group) | ALT (introduces a genitive noun),core pu
+pilin,pilin,"<img src=""sp-pilin.png"">","<img src=""t47_nimi_pilin.jpg"">",❤️,"<img src=""pilin.gif"">",[sound:pilin_kala-asi.mp3],[sound:pilin_jan-lakuse.mp3],"heart (physical or emotional); feeling (an emotion, a direct experience)",core pu
+pimeja,pimeja,"<img src=""sp-pimeja.png"">","<img src=""t47_nimi_pimeja.jpg"">",⚫,"<img src=""pimeja.gif"">",,[sound:pimeja_jan-lakuse.mp3],"black, dark, unlit",core pu
+pini,pini,"<img src=""sp-pini.png"">","<img src=""t47_nimi_pini.jpg"">",🏁,"<img src=""pini.gif"">",[sound:pini_kala-asi.mp3],[sound:pini_jan-lakuse.mp3],"ago, completed, ended, finished, past",core pu
+pipi,pipi,"<img src=""sp-pipi.png"">","<img src=""t47_nimi_pipi.jpg"">",🐞,"<img src=""pipi.gif"">",[sound:pipi_kala-asi.mp3],[sound:pipi_jan-lakuse.mp3],"bug, insect, ant, spider",core pu
+poka,poka,"<img src=""sp-poka.png"">","<img src=""t47_nimi_poka.jpg"">",↔️,"<img src=""poka.gif"">",[sound:poka_kala-asi.mp3],[sound:poka_jan-lakuse.mp3],"hip, side; next to, nearby, vicinity | ALT along with (comitative), beside",core pu
+poki,poki,"<img src=""sp-poki.png"">","<img src=""t47_nimi_poki.jpg"">",📦,"<img src=""poki.gif"">",[sound:poki_kala-asi.mp3],[sound:poki_jan-lakuse.mp3],"container, bag, bowl, box, cup, cupboard, drawer, vessel",core pu
+pona,pona,"<img src=""sp-pona.png"">","<img src=""t47_nimi_pona.jpg"">",👍,"<img src=""pona.gif"">",[sound:pona_kala-asi.mp3],[sound:pona_jan-lakuse.mp3],"good, positive, useful; friendly, peaceful; simple",core pu
+pu,pu,"<img src=""sp-pu.png"">",,📖,,[sound:pu_kala-asi.mp3],[sound:pu_jan-lakuse.mp3],interacting with the official Toki Pona book,core pu
+sama,sama,"<img src=""sp-sama.png"">","<img src=""t47_nimi_sama.jpg"">",⚖️,"<img src=""sama.gif"">",[sound:sama_kala-asi.mp3],[sound:sama_jan-lakuse.mp3],"same, similar; each other; sibling, peer, fellow; as, like",core pu
+seli,seli,"<img src=""sp-seli.png"">","<img src=""t47_nimi_seli.jpg"">",🔥,"<img src=""seli.gif"">",[sound:seli_kala-asi.mp3],[sound:seli_jan-lakuse.mp3],"fire; cooking element, chemical reaction, heat source",core pu
+selo,selo,"<img src=""sp-selo.png"">","<img src=""t47_nimi_selo.jpg"">",🔲,"<img src=""selo.gif"">",[sound:selo_kala-asi.mp3],[sound:selo_jan-lakuse.mp3],"outer form, outer layer; bark, peel, shell, skin; boundary",core pu
+seme,seme,"<img src=""sp-seme.png"">","<img src=""t47_nimi_seme.jpg"">",❓,"<img src=""seme.gif"">",[sound:seme_kala-asi.mp3],[sound:seme_jan-lakuse.mp3],what? which?,core pu
+sewi,sewi,"<img src=""sp-sewi.png""> <img src=""sp-sewi2.png"">","<img src=""t47_nimi_sewi.jpg"">",⬆️,"<img src=""sewi.gif"">",[sound:sewi_kala-asi.mp3],[sound:sewi_jan-lakuse.mp3],"area above, highest part, something elevated; awe-inspiring, divine, sacred, supernatural",core pu
+sijelo,sijelo,"<img src=""sp-sijelo.png"">","<img src=""t47_nimi_sijelo.jpg"">",🏋️,"<img src=""sijelo.gif"">",[sound:sijelo_kala-asi.mp3],[sound:sijelo_jan-lakuse.mp3],"body (of person or animal), physical state, torso",core pu
+sike,sike,"<img src=""sp-sike.png"">","<img src=""t47_nimi_sike.jpg"">",⭕,"<img src=""sike.gif"">",[sound:sike_kala-asi.mp3],[sound:sike_jan-lakuse.mp3],"round or circular thing; ball, circle, cycle, sphere, wheel; of one year",core pu
+sin,sin,"<img src=""sp-sin.png"">","<img src=""t47_nimi_sin.jpg"">",🎁,"<img src=""sin.gif"">",[sound:sin_kala-asi.mp3],[sound:sin_jan-lakuse.mp3],"new, fresh; additional, another, extra",core pu
+sina,sina,"<img src=""sp-sina.png"">","<img src=""t47_nimi_sina.jpg"">",👉,"<img src=""sina.gif"">",[sound:sina_kala-asi.mp3],[sound:sina_jan-lakuse.mp3],you,core pu
+sinpin,sinpin,"<img src=""sp-sinpin.png"">","<img src=""t47_nimi_sinpin.jpg"">",➡️,"<img src=""sinpin.gif"">",[sound:sinpin_kala-asi.mp3],[sound:sinpin_jan-lakuse.mp3],"face, foremost, front, wall",core pu
+sitelen,sitelen,"<img src=""sp-sitelen.png"">","<img src=""t47_nimi_sitelen.jpg"">",🖼️,"<img src=""sitelen.gif"">",[sound:sitelen_kala-asi.mp3],[sound:sitelen_jan-lakuse.mp3],"image, picture, representation, symbol, mark, writing",core pu
+sona,sona,"<img src=""sp-sona.png"">","<img src=""t47_nimi_sona.jpg"">",🧠,"<img src=""sona.gif"">",[sound:sona_kala-asi.mp3],[sound:sona_jan-lakuse.mp3],"know, be skilled in, be wise about, have information on; (pv.) know how to",core pu
+soweli,soweli,"<img src=""sp-soweli.png"">","<img src=""t47_nimi_soweli.jpg"">",🐒,"<img src=""soweli.gif"">",[sound:soweli_kala-asi.mp3],[sound:soweli_jan-lakuse.mp3],"animal, beast, land mammal",core pu
+suli,suli,"<img src=""sp-suli.png"">","<img src=""t47_nimi_suli.jpg"">",🐘,"<img src=""suli.gif"">",[sound:suli_kala-asi.mp3],[sound:suli_jan-lakuse.mp3],"big, heavy, large, long, tall; important; adult",core pu
+suno,suno,"<img src=""sp-suno.png"">","<img src=""t47_nimi_suno.jpg"">",☀️,"<img src=""suno.gif"">",[sound:suno_kala-asi.mp3],[sound:suno_jan-lakuse.mp3],"sun; light, brightness, glow, radiance, shine; light source",core pu
+supa,supa,"<img src=""sp-supa.png"">","<img src=""t47_nimi_supa.jpg"">",🛏️,"<img src=""supa.gif"">",[sound:supa_kala-asi.mp3],[sound:supa_jan-lakuse.mp3],"horizontal surface, thing to put or rest something on",core pu
+suwi,suwi,"<img src=""sp-suwi.png"">","<img src=""t47_nimi_suwi.jpg"">",🍭,"<img src=""suwi.gif"">",[sound:suwi_kala-asi.mp3],[sound:suwi_jan-lakuse.mp3],"sweet, fragrant; cute, innocent, adorable",core pu
+tan,tan,"<img src=""sp-tan.png"">","<img src=""t47_nimi_tan.jpg"">",↩️,"<img src=""tan.gif"">",[sound:tan_kala-asi.mp3],[sound:tan_jan-lakuse.mp3],"by, from, because of; origin, cause",core pu
+taso,taso,"<img src=""sp-taso.png"">","<img src=""t47_nimi_taso.jpg"">",🤔,"<img src=""taso.gif"">",[sound:taso_kala-asi.mp3],[sound:taso_jan-lakuse.mp3],"but, however; only",core pu
+tawa,tawa,"<img src=""sp-tawa.png"">","<img src=""t47_nimi_tawa.jpg"">",↪️,"<img src=""tawa.gif"">",[sound:tawa_kala-asi.mp3],[sound:tawa_jan-lakuse.mp3],"going to, toward; for; from the perspective of; moving | ALT (pv.) going to",core pu
+telo,telo,"<img src=""sp-telo.png"">","<img src=""t47_nimi_telo.jpg"">",💧,"<img src=""telo.gif"">",[sound:telo_kala-asi.mp3],[sound:telo_jan-lakuse.mp3],"water, liquid, fluid, wet substance; beverages",core pu
+tenpo,tenpo,"<img src=""sp-tenpo.png"">","<img src=""t47_nimi_tenpo.jpg"">",⏰,"<img src=""tenpo.gif"">",[sound:tenpo_kala-asi.mp3],[sound:tenpo_jan-lakuse.mp3],"time, duration, moment, occasion, period, situation",core pu
+toki,toki,"<img src=""sp-toki.png"">","<img src=""t47_nimi_toki.jpg"">",🗣️,"<img src=""toki.gif"">",[sound:toki_kala-asi.mp3],[sound:toki_jan-lakuse.mp3],"communicate, say, speak, talk, use language, think; hello",core pu
+tomo,tomo,"<img src=""sp-tomo.png"">","<img src=""t47_nimi_tomo.jpg"">",🏠,"<img src=""tomo.gif"">",[sound:tomo_kala-asi.mp3],[sound:tomo_jan-lakuse.mp3],"indoor space; building, home, house, room",core pu
+tu,tu,"<img src=""sp-tu.png"">","<img src=""t47_nimi_tu.jpg"">",✌️,"<img src=""tu.gif"">",[sound:tu_kala-asi.mp3],[sound:tu_jan-lakuse.mp3],"two | ALT separate, cut",core pu
+unpa,unpa,"<img src=""sp-unpa.png"">","<img src=""t47_nimi_unpa.jpg"">",🍆,"<img src=""unpa.gif"">",[sound:unpa_kala-asi.mp3],[sound:unpa_jan-lakuse.mp3],have sexual relations with,core pu
+uta,uta,"<img src=""sp-uta.png""> <img src=""sp-uta2.png"">","<img src=""t47_nimi_uta.jpg"">",👄,"<img src=""uta.gif"">",[sound:uta_kala-asi.mp3],[sound:uta_jan-lakuse.mp3],"mouth, lips, oral cavity, jaw",core pu
+utala,utala,"<img src=""sp-utala.png"">","<img src=""t47_nimi_utala.jpg"">",⚔️,"<img src=""utala.gif"">",[sound:utala_kala-asi.mp3],[sound:utala_jan-lakuse.mp3],"battle, challenge, compete against, struggle against",core pu
+walo,walo,"<img src=""sp-walo.png"">","<img src=""t47_nimi_walo.jpg"">",⚪,"<img src=""walo.gif"">",[sound:walo_kala-asi.mp3],[sound:walo_jan-lakuse.mp3],"white, whitish; light-coloured, pale",core pu
+wan,wan,"<img src=""sp-wan.png"">","<img src=""t47_nimi_wan.jpg"">",☝️,"<img src=""wan.gif"">",[sound:wan_kala-asi.mp3],[sound:wan_jan-lakuse.mp3],"unique, united; one",core pu
+waso,waso,"<img src=""sp-waso.png"">","<img src=""t47_nimi_waso.jpg"">",🦅,"<img src=""waso.gif"">",[sound:waso_kala-asi.mp3],[sound:waso_jan-lakuse.mp3],"bird, flying creature, winged animal",core pu
+wawa,wawa,"<img src=""sp-wawa.png"">","<img src=""t47_nimi_wawa.jpg"">",⚡,"<img src=""wawa.gif"">",[sound:wawa_kala-asi.mp3],[sound:wawa_jan-lakuse.mp3],"strong, powerful; confident, sure; energetic, intense",core pu
+weka,weka,"<img src=""sp-weka.png"">","<img src=""t47_nimi_weka.jpg"">",🛫,"<img src=""weka.gif"">",[sound:weka_kala-asi.mp3],[sound:weka_jan-lakuse.mp3],"absent, away, ignored",core pu
+wile,wile,"<img src=""sp-wile.png""> <img src=""sp-wile2.png"">","<img src=""t47_nimi_wile.jpg"">",💭,"<img src=""wile.gif"">",[sound:wile_kala-asi.mp3],[sound:wile_jan-lakuse.mp3],"must, need, require, should, want, wish",core pu
+kijetesantakalu,kijetesantakalu,"<img src=""sp-kijetesantakalu.png"">","<img src=""t47_nimi_kijetesantakalu.jpg"">",🦝,"<img src=""kijetesantakalu.gif"">",[sound:kijetesantakalu_kala-asi.mp3],[sound:kijetesantakalu_jan-lakuse.mp3],"any animal from the Procyonidae family, such as raccoons, coatis, kinkajous, olingos, ringtails and cacomistles | ALT any animal from the Musteloidea superfamily, including raccoons, weasels, otters, skunks, and red pandas",widespread ku-suli
+kin,kin,"<img src=""sp-kin.png"">","<img src=""t47_nimi_kin.jpg"">",❕,,[sound:kin_kala-asi.mp3],[sound:kin_jan-lakuse.mp3],"{see a} | ALT indeed, too, also, as well",widespread ku-suli
+kipisi,kipisi,"<img src=""sp-kipisi.png"">","<img src=""t47_nimi_kipisi.jpg"">",✂️,"<img src=""kipisi.gif"">",[sound:kipisi_kala-asi.mp3],[sound:kipisi_jan-lakuse.mp3],"split, cut, slice, sever; sharp",widespread ku-suli
+ku,ku,"<img src=""sp-ku.png"">",,,,,[sound:ku_jan-lakuse.mp3],interacting with the Toki Pona Dictionary by Sonja Lang,widespread ku-suli
+leko,leko,"<img src=""sp-leko.png"">","<img src=""t47_nimi_leko.jpg"">",🧱,"<img src=""leko.gif"">",,[sound:leko_jan-lakuse.mp3],"stairs, square, block, corner, cube",widespread ku-suli
+meli,meli,"<img src=""sp-meli.png""> <img src=""sp-meli2.png"">","<img src=""t47_nimi_meli.jpg"">",👧,"<img src=""meli.gif"">",[sound:meli_kala-asi.mp3],[sound:meli_jan-lakuse.mp3],"woman, female, feminine person; wife",widespread pu
+mije,mije,"<img src=""sp-mije.png""> <img src=""sp-mije2.png"">","<img src=""t47_nimi_mije.jpg"">",👨,"<img src=""mije.gif"">",[sound:mije_kala-asi.mp3],[sound:mije_jan-lakuse.mp3],"man, male, masculine person; husband",widespread pu
+monsuta,monsuta,"<img src=""sp-monsuta.png"">","<img src=""t47_nimi_monsuta.jpg"">",👹,"<img src=""monsuta.gif"">",[sound:monsuta_kala-asi.mp3],[sound:monsuta_jan-lakuse.mp3],"fear, dread; monster, predator; threat, danger",widespread ku-suli
+namako,namako,"<img src=""sp-namako.png""> <img src=""sp-namako2.png"">","<img src=""t47_nimi_namako.jpg"">",🧂,,[sound:namako_kala-asi.mp3],[sound:namako_jan-lakuse.mp3],"{see sin} | ALT embellishment, spice; extra, additional",widespread ku-suli
+soko,soko,"<img src=""sp-soko.png"">","<img src=""t47_nimi_soko.jpg"">",🍄,,,[sound:soko_jan-lakuse.mp3],"fungus, fungi",widespread ku-suli
+tonsi,tonsi,"<img src=""sp-tonsi.png"">","<img src=""t47_nimi_tonsi.jpg"">",♐,,[sound:tonsi_kala-asi.mp3],[sound:tonsi_jan-lakuse.mp3],"non-binary, gender-non-conforming | ALT trans, non-cisgender",widespread ku-suli
+lanpan,lanpan,"<img src=""sp-lanpan.png""> <img src=""sp-lanpan3.png"">","<img src=""t47_nimi_lanpan.jpg"">",📥,,,[sound:lanpan_jan-lakuse.mp3],"take, seize, catch, receive, get",common ku-suli
+meso,meso,"<img src=""sp-meso.png""> <img src=""sp-meso2.png"">","<img src=""t47_nimi_meso.jpg"">",,"<img src=""meso.gif"">",,[sound:meso_jan-lakuse.mp3],"midpoint, medium, mediocre; neither one not the other, neither fully is nor isn't",common ku-suli
+misikeke,misikeke,"<img src=""sp-misikeke.png"">","<img src=""t47_nimi_misekeke.jpg"">",💊,"<img src=""misikeke.gif"">",,[sound:misikeke_jan-lakuse.mp3],"medicine, medical",common ku-suli
+n,n,"<img src=""sp-n.png"">","<img src=""t47_nimi_n.jpg"">",,,,[sound:n_jan-lakuse.mp3],"(indicates thinking, pondering, recognition, agreement, or humming)",common ku-suli
+oko,oko,"<img src=""sp-oko.png"">","<img src=""t47_nimi_oko.jpg"">",👁️,"<img src=""oko.gif"">",[sound:oko_kala-asi.mp3],[sound:oko_jan-lakuse.mp3],"{see lukin} | ALT eye, ocular, visual {cf. lukin}",common ku-suli
+ali,ali,"<img src=""sp-ali.png"">",,♾️,,[sound:ali_kala-asi.mp3],[sound:ali_jan-lakuse.mp3],[alternate form of ale],uncommon pu
+apeja,apeja,"<img src=""sp-apeja.png"">",,😢,,,,"guilt, shame, shun, stigma, disgrace; to accuse, to single out, to expose, to dishonor, to embarrass",uncommon ku-lili
+epiku,epiku,"<img src=""sp-epiku.png""> <img src=""sp-epiku1.png"">","<img src=""t47_nimi_epiku.jpg"">",😎,,,[sound:epiku_jan-lakuse.mp3],"epic, cool, awesome, amazing",uncommon ku-suli
+jasima,jasima,"<img src=""sp-jasima.png"">","<img src=""t47_nimi_jasima.jpg"">",,,,[sound:jasima_jan-lakuse.mp3],"reflect, resound, mirror, be on the opposite/polar end of",uncommon ku-suli
+kiki,kiki,"<img src=""sp-kiki.png"">",,,"<img src=""kiki.gif"">",,,"spiky, sharp, angle, point, triangular",uncommon ku-lili
+kokosila,kokosila,"<img src=""sp-kokosila.png""> <img src=""sp-kokosila2.png"">","<img src=""t47_nimi_kokosila.jpg"">",,,,[sound:kokosila_jan-lakuse.mp3],to speak a non-Toki Pona language in an environment where Toki Pona is more appropriate,uncommon ku-suli
+linluwi,linluwi,"<img src=""sp-linluwi.png""> <img src=""sp-linluwi2.png"">",,🌐,,,,"network, internet, connection; weave, braid, interlace",uncommon ku-lili
+majuna,majuna,"<img src=""sp-majuna.png""> <img src=""sp-majuna2.png"">",,👵,,,[sound:majuna_jan-lakuse.mp3],"old, aged, ancient",uncommon ku-lili
+powe,powe,"<img src=""sp-powe.png"">",,🧞,,,[sound:powe_jan-lakuse.mp3],"unreal, false, untrue; pretend; deceive, trick",uncommon ku-lili
+isipin,isipin,"<img src=""sp-isipin.png"">",,,"<img src=""isipin.gif"">",,,"to think, brainstorm, rationalize, conclude, ponder ",rare ku-lili
+kapesi,kapesi,"<img src=""sp-kapesi.png""> <img src=""sp-kapesi2.png"">",,🟤,,,,"brown, gray",rare ku-lili
+misa,misa,"<img src=""sp-misa.png""> <img src=""sp-misa5.png"">",,,,,,"Glires or Eulipotyphla; rat, mouse, squirrel, rabbit, rodent; {~ suli} capybara",rare ku-lili
 nimisin,nimisin,,,,,,,any non-pu word; any new word; any joke word,rare
-oke,oke,"<img src=”sp-oke.png"">",,👌,,,,(acknowledgement or acceptance),"rare, ku lili"
-omekapo,omekapo,"<img src=”sp-omekapo.png"">",,,,,,"goodbye, farewell, see you later, eat a good fish",rare
-pake,pake,"<img src=”sp-pake.png"">",,🚧,,,[sound:pake_jan-lakuse.mp3],"stop, cease, halt; to block the way, to interrupt; to prevent","rare, ku lili"
-puwa,puwa,"<img src=”sp-puwa.png"">",,☁️,,,,"fluffy, soft, squishy (something that can be compressed and will try to go back to its original shape)",rare
-taki,taki,"<img src=”sp-taki taki2.png"">",,,,,,"sticky, magnetic; bond, attract, attach, clip","rare, ku lili"
-te,te,"<img src=”sp-te.png"">",,🤜,,,,(particle introducing a quote),"rare, ku lili"
-to,to,"<img src=”sp-to.png"">",,,,,,(particle closing a quote),"rare, ku lili"
-unu,unu,"<img src=”sp-unu.png"">",,,,,,purple,"rare, ku lili"
-usawi,usawi,"<img src=”sp-usawi.png"">",,,,,,"magic, sorcery; enchant; magical, supernatural, occult, incomprehensible","rare, ku lili"
-wa,wa,"<img src=”sp-wa.png"">",,,,,,[interjection] indicating awe or amazement,"rare, ku lili"
+oke,oke,"<img src=""sp-oke.png"">",,👌,,,,(acknowledgement or acceptance),rare ku-lili
+omekapo,omekapo,"<img src=""sp-omekapo.png"">",,,,,,"goodbye, farewell, see you later, eat a good fish",rare
+pake,pake,"<img src=""sp-pake.png"">",,🚧,,,[sound:pake_jan-lakuse.mp3],"stop, cease, halt; to block the way, to interrupt; to prevent",rare ku-lili
+puwa,puwa,"<img src=""sp-puwa.png"">",,☁️,,,,"fluffy, soft, squishy (something that can be compressed and will try to go back to its original shape)",rare
+taki,taki,"<img src=""sp-taki.png""> <img src=""sp-taki2.png"">",,,,,,"sticky, magnetic; bond, attract, attach, clip",rare ku-lili
+te,te,"<img src=""sp-te.png"">",,🤜,,,,(particle introducing a quote),rare ku-lili
+to,to,"<img src=""sp-to.png"">",,,,,,(particle closing a quote),rare ku-lili
+unu,unu,"<img src=""sp-unu.png"">",,,,,,purple,rare ku-lili
+usawi,usawi,"<img src=""sp-usawi.png"">",,,,,,"magic, sorcery; enchant; magical, supernatural, occult, incomprehensible",rare ku-lili
+wa,wa,"<img src=""sp-wa.png"">",,,,,,[interjection] indicating awe or amazement,rare ku-lili
 wuwojiti,wuwojiti,,,,,,,"to use one or more of the ""banned"" syllables wu, wo, ji, or ti; to break toki pona phonotactics",rare
-yupekosi,yupekosi,"<img src=”sp-yupekosi.png"">",,📉,,,,to behave like George Lucas and revise your old creative works and actually make them worse,"rare, ku lili"
-aka,aka,"<img src=”sp-aka.png"">",,,,,,"cross-like shape, intersection, overlap [alternative form of natu]",obscure
-ako,ako,"<img src=”sp-ako.png"">",,,,,,"(general interjection, context-dependent)",obscure
+yupekosi,yupekosi,"<img src=""sp-yupekosi.png"">",,📉,,,,to behave like George Lucas and revise your old creative works and actually make them worse,rare ku-lili
+aka,aka,"<img src=""sp-aka.png"">",,,,,,"cross-like shape, intersection, overlap [alternative form of natu]",obscure
+ako,ako,"<img src=""sp-ako.png"">",,,,,,"(general interjection, context-dependent)",obscure
 alente,alente,,,,,,,the set of every possible human concept subtracted from the set of concepts already covered by established toki pona words weighted by their relative usage,obscure
-alu,alu,"<img src=”sp-alu.png"">",,,,,,(between the main sentence and the context phrase),obscure
-awase,awase,"<img src=”sp-awase.png"">",,,,,,"bump, knock, jolt",obscure
-eki,eki,"<img src=”sp-eki.png"">",,,,,,"cross-like shape, intersection, overlap [alternative form of natu]",obscure
-enko,enko,"<img src=”sp-enko enko2.png"">",,🧭,,,,"(spatial equivalents of tenpo constructions) space, place, distance, size (length, width, height, depth, area, volume)",obscure
-ete,ete,"<img src=”sp-ete ete2.png"">",,🔃,,,,"beyond, exceeding, outside of, more than","obscure, ku lili"
-ewe,ewe,"<img src=”sp-ewe.png"">",,🌋,,,,"stone, gravel, rock, pebble, lava, magma","obscure, ku lili"
-i,i,"<img src=”sp-i.png"">",,,,,,"he, she, it, they [alternate form of ona]",obscure
-iki,iki,"<img src=”sp-iki.png"">",,,,,,"he, she, it, they [alternate form of ona]",obscure
-ipi,ipi,"<img src=”sp-ipi.png"">",,,,,,"he, she, it, they [alternate form of ona]",obscure
-itomi,itomi,"<img src=”sp-itomi.png"">",,😈,,,,"Schadenfreude, indirect insult or disrespect, shade",obscure
-jaku,jaku,"<img src=”sp-jaku.png"">",,,,,,one hundred,obscure
-jalan,jalan,"<img src=”sp-jalan.png"">",,,,,,foot [alternate form of noka],obscure
-jami,jami,"<img src=”sp-jami.png"">",,🤤,,,,yummy; eliciting or stimulating a positive sensory experience,obscure
-jans,jans,"<img src=”sp-jans.png"">",,,,,,a particular group of early members of the ma pona Discord,obscure
-je,je,"<img src=”sp-je.png"">",,,,,,[interjection] (indicating excitement),obscure
-jonke,jonke,"<img src=”sp-jonke.png"">",,,,,,"goose, goose noise",obscure
-ju,ju,"<img src=”sp-ju.png"">",,,,,,(word reserved for future use by Sonja Lang),"obscure, ku lili"
+alu,alu,"<img src=""sp-alu.png"">",,,,,,(between the main sentence and the context phrase),obscure
+awase,awase,"<img src=""sp-awase.png"">",,,,,,"bump, knock, jolt",obscure
+eki,eki,"<img src=""sp-eki.png"">",,,,,,"cross-like shape, intersection, overlap [alternative form of natu]",obscure
+enko,enko,"<img src=""sp-enko.png""> <img src=""sp-enko2.png"">",,🧭,,,,"(spatial equivalents of tenpo constructions) space, place, distance, size (length, width, height, depth, area, volume)",obscure
+ete,ete,"<img src=""sp-ete.png""> <img src=""sp-ete2.png"">",,🔃,,,,"beyond, exceeding, outside of, more than",obscure ku-lili
+ewe,ewe,"<img src=""sp-ewe.png"">",,🌋,,,,"stone, gravel, rock, pebble, lava, magma",obscure ku-lili
+i,i,"<img src=""sp-i.png"">",,,,,,"he, she, it, they [alternate form of ona]",obscure
+iki,iki,"<img src=""sp-iki.png"">",,,,,,"he, she, it, they [alternate form of ona]",obscure
+ipi,ipi,"<img src=""sp-ipi.png"">",,,,,,"he, she, it, they [alternate form of ona]",obscure
+itomi,itomi,"<img src=""sp-itomi.png"">",,😈,,,,"Schadenfreude, indirect insult or disrespect, shade",obscure
+jaku,jaku,"<img src=""sp-jaku.png"">",,,,,,one hundred,obscure
+jalan,jalan,"<img src=""sp-jalan.png"">",,,,,,foot [alternate form of noka],obscure
+jami,jami,"<img src=""sp-jami.png"">",,🤤,,,,yummy; eliciting or stimulating a positive sensory experience,obscure
+jans,jans,"<img src=""sp-jans.png"">",,,,,,a particular group of early members of the ma pona Discord,obscure
+je,je,"<img src=""sp-je.png"">",,,,,,[interjection] (indicating excitement),obscure
+jonke,jonke,"<img src=""sp-jonke.png"">",,,,,,"goose, goose noise",obscure
+ju,ju,"<img src=""sp-ju.png"">",,,,,,(word reserved for future use by Sonja Lang),obscure ku-lili
 jule,jule,,,,,,,"vibrate, shake, wobble, tremble; swing, oscillate; wave, tide",obscure
-jume,jume,"<img src=”sp-jume.png"">",,,,,,dream,obscure
-kalamARR,kalamARR,"<img src=”sp-kalamARR.png"">",,,,,,pirate noise,"obscure, ku lili"
-kalijopilale,kalijopilale,"<img src=”sp-kalijopilale.png"">",,,,,,"member of the order Caryophyllales, including all cacti as well as carnations, beets, and many carnivorous plants",obscure
-kamalawala,kamalawala,"<img src=”sp-kamalawala.png"">",,💣,,,,"anarchy, uprising, revolt, rebellion","obscure, ku lili"
-kan,kan,"<img src=”sp-kan.png"">",,🔗,,,,"with, among, in the company of","obscure, ku lili"
-kapa,kapa,"<img src=”sp-kapa.png"">",,,,,,"extrusion, protrusion, hill, mountain, button",obscure
-ke,ke,"<img src=”sp-ke.png"">",,,,,,(acknowledgement or acceptance),"obscure, ku lili"
-kepen,kepen,"<img src=”sp-kepeken.png"">",,,,,,(shortened variant of kepeken),obscure
-kese,kese,"<img src=”sp-kese.png"">",,,,,,"queer, LGBT+","obscure, ku lili"
-ki,ki,"<img src=”sp-ki.png"">",,,,,,(relative clause marker),obscure
-kisa,kisa,"<img src=”sp-kisa.png"">",,,,,,cat,obscure
-konsi,konsi,"<img src=”sp-konsi.png"">",,,,,,"to notify, to let know",obscure
-konwe,konwe,"<img src=”sp-konwe.png"">",,,,,,"animacy, life, autonomy; autonomous being, living thing, organism; alive, animate, dynamic; to animate, to bring to life",obscure
-kosan,kosan,"<img src=”sp-kosan.png"">",,,,,,"guard, protect, defend, shield, brace, fortify from outside",obscure
-kulijo,kulijo,"<img src=”sp-kulijo.png"">",,,,,,"[interjection] casual expression of appreciation or acknowledgement; cool, fine, okay","obscure, ku lili"
-kulu,kulu,"<img src=”sp-kulu.png"">",,,,,,(shortened variant of kulupu); six (particularly in senary base),obscure
-kuntu,kuntu,"<img src=”sp-kuntu.png"">",,🤣,,,,"laughter, chuckle, laugh, comedy, humor","obscure, ku lili"
-kutopoma,kutopoma,"<img src=”sp-kutopoma.png"">",,,,,,"the Korean group chat ""kulupu pi toki pona pi ma Anku""",obscure
-lijokuku,lijokuku,"<img src=”sp-lijokuku.png""> <img src=”sp-lijokuku2.png"">",,,,,,to agree (with laughter),obscure
-likujo,likujo,"<img src=”sp-likujo.png"">",,🧺,,,,"collection, assortment, menagerie, arrangement, handful, harvest; seven","obscure, ku lili"
-lo,lo,"<img src=”sp-lo.png"">",,,,,,(before the prepositional phrase),obscure
-loka,loka,"<img src=”sp-loka.png"">",,,,,,limb,"obscure, ku lili"
-lokon,lokon,"<img src=”sp-lokon.png"">",,🧿,,,,{a compromise between lukin & oko},obscure
-lu,lu,"<img src=”sp-lu.png"">",,,,,,(word reserved for future use by Sonja Lang),"obscure, ku lili"
-melome,melome,"<img src=”sp-melome.png"">",,👩‍❤️‍👩,,,,"sapphic, lesbian, wlw",obscure
-mijomi,mijomi,"<img src=”sp-mijomi.png"">",,👨‍❤️‍👨,,,,"gay, mlm",obscure
-molusa,molusa,"<img src=”sp-molusa.png"">",,,,,,"a squishy animal, such as a snail, slug, or sponge",obscure
-mulapisu,mulapisu,"<img src=”sp-mulapisu.png"">",,🍕,,,[sound:mulapisu_jan-lakuse.mp3],pizza,"obscure, ku lili"
+jume,jume,"<img src=""sp-jume.png"">",,,,,,dream,obscure
+kalamARR,kalamARR,"<img src=""sp-kalamARR.png"">",,,,,,pirate noise,obscure ku-lili
+kalijopilale,kalijopilale,"<img src=""sp-kalijopilale.png"">",,,,,,"member of the order Caryophyllales, including all cacti as well as carnations, beets, and many carnivorous plants",obscure
+kamalawala,kamalawala,"<img src=""sp-kamalawala.png"">",,💣,,,,"anarchy, uprising, revolt, rebellion",obscure ku-lili
+kan,kan,"<img src=""sp-kan.png"">",,🔗,,,,"with, among, in the company of",obscure ku-lili
+kapa,kapa,"<img src=""sp-kapa.png"">",,,,,,"extrusion, protrusion, hill, mountain, button",obscure
+ke,ke,"<img src=""sp-ke.png"">",,,,,,(acknowledgement or acceptance),obscure ku-lili
+kepen,kepen,"<img src=""sp-kepeken.png"">",,,,,,(shortened variant of kepeken),obscure
+kese,kese,"<img src=""sp-kese.png"">",,,,,,"queer, LGBT+",obscure ku-lili
+ki,ki,"<img src=""sp-ki.png"">",,,,,,(relative clause marker),obscure
+kisa,kisa,"<img src=""sp-kisa.png"">",,,,,,cat,obscure
+konsi,konsi,"<img src=""sp-konsi.png"">",,,,,,"to notify, to let know",obscure
+konwe,konwe,"<img src=""sp-konwe.png"">",,,,,,"animacy, life, autonomy; autonomous being, living thing, organism; alive, animate, dynamic; to animate, to bring to life",obscure
+kosan,kosan,"<img src=""sp-kosan.png"">",,,,,,"guard, protect, defend, shield, brace, fortify from outside",obscure
+kulijo,kulijo,"<img src=""sp-kulijo.png"">",,,,,,"[interjection] casual expression of appreciation or acknowledgement; cool, fine, okay",obscure ku-lili
+kulu,kulu,"<img src=""sp-kulu.png"">",,,,,,(shortened variant of kulupu); six (particularly in senary base),obscure
+kuntu,kuntu,"<img src=""sp-kuntu.png"">",,🤣,,,,"laughter, chuckle, laugh, comedy, humor",obscure ku-lili
+kutopoma,kutopoma,"<img src=""sp-kutopoma.png"">",,,,,,"the Korean group chat ""kulupu pi toki pona pi ma Anku""",obscure
+lijokuku,lijokuku,"<img src=""sp-lijokuku.png""> <img src=""sp-lijokuku2.png"">",,,,,,to agree (with laughter),obscure
+likujo,likujo,"<img src=""sp-likujo.png"">",,🧺,,,,"collection, assortment, menagerie, arrangement, handful, harvest; seven",obscure ku-lili
+lo,lo,"<img src=""sp-lo.png"">",,,,,,(before the prepositional phrase),obscure
+loka,loka,"<img src=""sp-loka.png"">",,,,,,limb,obscure ku-lili
+lokon,lokon,"<img src=""sp-lokon.png"">",,🧿,,,,{a compromise between lukin & oko},obscure
+lu,lu,"<img src=""sp-lu.png"">",,,,,,(word reserved for future use by Sonja Lang),obscure ku-lili
+melome,melome,"<img src=""sp-melome.png"">",,👩‍❤️‍👩,,,,"sapphic, lesbian, wlw",obscure
+mijomi,mijomi,"<img src=""sp-mijomi.png"">",,👨‍❤️‍👨,,,,"gay, mlm",obscure
+molusa,molusa,"<img src=""sp-molusa.png"">",,,,,,"a squishy animal, such as a snail, slug, or sponge",obscure
+mulapisu,mulapisu,"<img src=""sp-mulapisu.png"">",,🍕,,,[sound:mulapisu_jan-lakuse.mp3],pizza,obscure ku-lili
 nalanja,nalanja,,,,,,,orange (colour),obscure
-natu,natu,"<img src=”sp-natu.png"">",,,,,,"relationship, correlation, commonality; cross, knot, junction, intersection; to overlap, to fold; to overstep, to exceed to a point",obscure
-neja,neja,"<img src=”sp-neja.png"">",,,,,,four,"obscure, ku lili"
-nele,nele,"<img src=”sp-nele.png"">",,,,,,"transparent material/object, lack of privacy; clear, transparent, unobstructed; to make clear, to make transparent, to remove obstructions",obscure
-nja,nja,"<img src=”sp-nja.png"">",,,,,,"meow, feline sound",obscure
-nu,nu,"<img src=”sp-nu.png"">",,,,,,(word reserved for future use by Sonja Lang),"obscure, ku lili"
+natu,natu,"<img src=""sp-natu.png"">",,,,,,"relationship, correlation, commonality; cross, knot, junction, intersection; to overlap, to fold; to overstep, to exceed to a point",obscure
+neja,neja,"<img src=""sp-neja.png"">",,,,,,four,obscure ku-lili
+nele,nele,"<img src=""sp-nele.png"">",,,,,,"transparent material/object, lack of privacy; clear, transparent, unobstructed; to make clear, to make transparent, to remove obstructions",obscure
+nja,nja,"<img src=""sp-nja.png"">",,,,,,"meow, feline sound",obscure
+nu,nu,"<img src=""sp-nu.png"">",,,,,,(word reserved for future use by Sonja Lang),obscure ku-lili
 ojuta,ojuta,,,,,,,"toki pona adaptation of English meme ""ligma""",obscure
-okepuma,okepuma,"<img src=”sp-okepuma.png"">",,🦖,,,,"boomer, Baby Boomer, inconsiderate elder; [interjection/insult]",obscure
-oki,oki,"<img src=”sp-oki.png"">",,,,,,(acknowledgement or acceptance),obscure
-omekalike,omekalike,,,,,,,(proper name) a song by jan Usawi,obscure
-omen,omen,"<img src=”sp-omen.png"">",,🙄,,,,"sarcasm, irony",obscure
-oni,oni,"<img src=”sp-oni oni2.png"">",,,,,,"dream, daydream, imaginative play, vision, mystical state; to entrance",obscure
-owe,owe,"<img src=”sp-owe.png"">",,,,,,"Orwellian, totalitarian, of or relating to Big Brother (from 1984), antonym of kamalawala",obscure
-pa,pa,"<img src=”sp-pa.png"">",,🤨,,,,"[interjection] bruh; expression of disbelief, exasperation, or excitement",obscure
-pasila,pasila,"<img src=”sp-pasila.png"">",,🧘,,,,"good, easy; simple, relaxed, peaceful, uncomplicated",obscure
-pata,pata,"<img src=”sp-pata.png"">",,👯‍♀️,,,,"brother, sister, sibling","obscure, ku lili"
-peta,peta,"<img src=”sp-peta.png"">",,🟢,,,,"green, greenish; verdant, alive; ecofriendly",obscure
-peto,peto,"<img src=”sp-peto.png"">",,😭,,,,"cry, tears; sad, sadness","obscure, ku lili"
-pika,pika,"<img src=”sp-pika.png"">",,,,,,"electric, electronic, conductive, mechanical, online; electricity, lightning, thunder, network",obscure
-Pingo,Pingo,"<img src=”sp-Pingo.png"">",,,,,,car,"obscure, ku lili"
-pipo,pipo,"<img src=”sp-pipo.png"">",,😒,,,,"annoy, annoyance, bothersome, boring",obscure
-po,po,"<img src=”sp-po.png"">",,🍀,,,,four,"obscure, ku lili"
-polinpin,polinpin,"<img src=”sp-polinpin.png"">",,🎳,,,,bowling pin,"obscure, ku lili"
-pomotolo,pomotolo,"<img src=”sp-pomotolo.png"">",,📈,,,,"effective, useful, give good results","obscure, ku lili"
-poni,poni,"<img src=”sp-poni.png"">",,,,,,"pony, horse","obscure, ku lili"
-samu,samu,"<img src=”sp-samu.png"">",,✍️,,,[sound:samu_jan-lakuse.mp3],wanting to create new words,"obscure, ku lili"
-san,san,"<img src=”sp-san.png"">",,,,,,three,"obscure, ku lili"
-sikomo,sikomo,"<img src=”sp-sikomo.png"">",,🤩,,,,"on a higher tier/plane, enlighten(ed), epic; to an exceedingly great extent",obscure
-sipi,sipi,"<img src=”sp-sipi.png"">",,,,,,"ego, self, own",obscure
-slape,slape,"<img src=”sp-slape.png"">",,,,,,[humorous synonym of lape],obscure
-soto,soto,"<img src=”sp-soto.png"">",,🤛,,,,"left, left side, port side","obscure, ku lili"
-su,su,"<img src=”sp-su.png"">",,,,,,(word reserved for future use by Sonja Lang),"obscure, ku lili"
-suke,suke,,,,,,,[typo of sike],"obscure, ku lili"
-sutopatikuna,sutopatikuna,"<img src=”sp-sutopatikuna.png"">",,,,,,platypus,"obscure, ku lili"
-teje,teje,"<img src=”sp-teje.png"">",,,,,,"right, right side, starboard","obscure, ku lili"
-ten,ten,"<img src=”sp-ten.png"">",,,,,,(shortened variant of tenpo),obscure
-tokana,tokana,"<img src=”sp-tokana.png"">",,,,,,"focus, attention, concentrate, resolution, fineness; focus on",obscure
-toma,toma,,,,,,,[typo of tomo],"obscure, ku lili"
-tuli,tuli,"<img src=”sp-tuli.png"">",,☘️,,,,three,"obscure, ku lili"
-u,u,"<img src=”sp-u.png"">",,,,,,(word reserved for future use by Sonja Lang),"obscure, ku lili"
-umesu,umesu,"<img src=”sp-umesu.png"">",,,,,,amaze people by being on the top of the leaderboard of a toki pona game,"obscure, ku lili"
-waleja,waleja,"<img src=”sp-waleja.png"">",,ℹ️,,,,"context, topic, salience, pertinent, topical, pertain to, be relevant","obscure, ku lili"
-wasoweli,wasoweli,"<img src=”sp-wasoweli.png"">",,,,,,animal with qualities of both waso & soweli,"obscure, ku lili"
-wawajete,wawajete,"<img src=”sp-wawajete.png"">",,🤡,,,,"something that appears to break the rules but doesn't; faux edginess, provocation",obscure
-we,we,"<img src=”sp-we.png"">",,🔒,,,,(acts as a transition from one complete sentence to another),obscure
-wekama,wekama,"<img src=”sp-wekama.png"">",,,,,,"leave and come back, be temporarily absent with the expectation of returning",obscure
-wi,wi,"<img src=”sp-wi.png"">",,🙋,,,,"we (excluding you, i.e. 1st person exclusive)",obscure
-yutu,yutu,"<img src=”sp-yutu.png"">",,,,,,{on Discord} the star emoji used for the starboard (#pona-kulupu in ma pona),obscure
+okepuma,okepuma,"<img src=""sp-okepuma.png"">",,🦖,,,,"boomer, Baby Boomer, inconsiderate elder; [interjection/insult]",obscure
+oki,oki,"<img src=""sp-oki.png"">",,,,,,(acknowledgement or acceptance),obscure
+omekalike,omekalike,"<img src=""sp-omekalike.png"">",,,,,,(proper name) a song by jan Usawi,obscure
+omen,omen,"<img src=""sp-omen.png"">",,🙄,,,,"sarcasm, irony",obscure
+oni,oni,"<img src=""sp-oni.png""> <img src=""sp-oni2.png"">",,,,,,"dream, daydream, imaginative play, vision, mystical state; to entrance",obscure
+owe,owe,"<img src=""sp-owe.png"">",,,,,,"Orwellian, totalitarian, of or relating to Big Brother (from 1984), antonym of kamalawala",obscure
+pa,pa,"<img src=""sp-pa.png"">",,🤨,,,,"[interjection] bruh; expression of disbelief, exasperation, or excitement",obscure
+pasila,pasila,"<img src=""sp-pasila.png"">",,🧘,,,,"good, easy; simple, relaxed, peaceful, uncomplicated",obscure
+pata,pata,"<img src=""sp-pata.png"">",,👯‍♀️,,,,"brother, sister, sibling",obscure ku-lili
+peta,peta,"<img src=""sp-peta.png"">",,🟢,,,,"green, greenish; verdant, alive; ecofriendly",obscure
+peto,peto,"<img src=""sp-peto.png"">",,😭,,,,"cry, tears; sad, sadness",obscure ku-lili
+pika,pika,"<img src=""sp-pika.png"">",,,,,,"electric, electronic, conductive, mechanical, online; electricity, lightning, thunder, network",obscure
+Pingo,Pingo,"<img src=""sp-Pingo.png"">",,,,,,car,obscure ku-lili
+pipo,pipo,"<img src=""sp-pipo.png"">",,😒,,,,"annoy, annoyance, bothersome, boring",obscure
+po,po,"<img src=""sp-po.png"">",,🍀,,,,four,obscure ku-lili
+polinpin,polinpin,"<img src=""sp-polinpin.png"">",,🎳,,,,bowling pin,obscure ku-lili
+pomotolo,pomotolo,"<img src=""sp-pomotolo.png"">",,📈,,,,"effective, useful, give good results",obscure ku-lili
+poni,poni,"<img src=""sp-poni.png"">",,,,,,"pony, horse",obscure ku-lili
+samu,samu,"<img src=""sp-samu.png"">",,✍️,,,[sound:samu_jan-lakuse.mp3],wanting to create new words,obscure ku-lili
+san,san,"<img src=""sp-san.png"">",,,,,,three,obscure ku-lili
+sikomo,sikomo,"<img src=""sp-sikomo.png"">",,🤩,,,,"on a higher tier/plane, enlighten(ed), epic; to an exceedingly great extent",obscure
+sipi,sipi,"<img src=""sp-sipi.png"">",,,,,,"ego, self, own",obscure
+slape,slape,"<img src=""sp-slape.png"">",,,,,,[humorous synonym of lape],obscure
+soto,soto,"<img src=""sp-soto.png"">",,🤛,,,,"left, left side, port side",obscure ku-lili
+su,su,"<img src=""sp-su.png"">",,,,,,(word reserved for future use by Sonja Lang),obscure ku-lili
+suke,suke,,,,,,,[typo of sike],obscure ku-lili
+sutopatikuna,sutopatikuna,"<img src=""sp-sutopatikuna.png"">",,,,,,platypus,obscure ku-lili
+teje,teje,"<img src=""sp-teje.png"">",,,,,,"right, right side, starboard",obscure ku-lili
+ten,ten,"<img src=""sp-ten.png"">",,,,,,(shortened variant of tenpo),obscure
+tokana,tokana,"<img src=""sp-tokana.png"">",,,,,,"focus, attention, concentrate, resolution, fineness; focus on",obscure
+toma,toma,,,,,,,[typo of tomo],obscure ku-lili
+tuli,tuli,"<img src=""sp-tuli.png"">",,☘️,,,,three,obscure ku-lili
+u,u,"<img src=""sp-u.png"">",,,,,,(word reserved for future use by Sonja Lang),obscure ku-lili
+umesu,umesu,"<img src=""sp-umesu.png"">",,,,,,amaze people by being on the top of the leaderboard of a toki pona game,obscure ku-lili
+waleja,waleja,"<img src=""sp-waleja.png"">",,ℹ️,,,,"context, topic, salience, pertinent, topical, pertain to, be relevant",obscure ku-lili
+wasoweli,wasoweli,"<img src=""sp-wasoweli.png"">",,,,,,animal with qualities of both waso & soweli,obscure ku-lili
+wawajete,wawajete,"<img src=""sp-wawajete.png"">",,🤡,,,,"something that appears to break the rules but doesn't; faux edginess, provocation",obscure
+we,we,"<img src=""sp-we.png"">",,🔒,,,,(acts as a transition from one complete sentence to another),obscure
+wekama,wekama,"<img src=""sp-wekama.png"">",,,,,,"leave and come back, be temporarily absent with the expectation of returning",obscure
+wi,wi,"<img src=""sp-wi.png"">",,🙋,,,,"we (excluding you, i.e. 1st person exclusive)",obscure
+yutu,yutu,"<img src=""sp-yutu.png"">",,,,,,{on Discord} the star emoji used for the starboard (#pona-kulupu in ma pona),obscure
