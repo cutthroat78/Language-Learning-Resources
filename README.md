@@ -1,9 +1,11 @@
 # Language Learning Resources
 A repo full of lists of resources to help learn (human) languages
 
+# This Project is Archived. Check my [digital garden](https://sionnach.xyz) for resources and notes on languages and my website: [Sionnach's Anki Deck Collection](placeholder) for Anki decks on languages
+
 [Github Pages](https://cutthroat78.github.io/Language-Learning-Resources)
 
-Requests for languages (or cipher/other) can be made using GitHub issues. 
+Requests for languages (or cipher/other) can be made using GitHub issues.
 
 If you have resources or anything else you would like to add, please make a pull request or put them in a GitHub issue
 

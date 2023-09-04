@@ -1,3 +1,5 @@
+# This Project is Archived. Check my [digital garden](https://sionnach.xyz) for resources and notes on languages and my website: [Sionnach's Anki Deck Collection](placeholder) for Anki decks on languages
+
 # North American Indigenous Languages
 ## Iroquois (Haudenosaunee)
 - Oneida: [Guide & Resources](resources-and-guides/north-american-indigenous/iroquois/oneida.md) - [Anki Deck](https://github.com/cutthroat78/Language-Learning-Resources/releases/download/Oneida-Anki-Deck/oneida.apkg)
